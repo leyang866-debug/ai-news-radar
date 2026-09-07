@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T14:14:50.751729Z",
+  "generated_at": "2026-09-07T16:26:45.533973Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.814,
+        "recency": 0.7886,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7507,
+        "recency": 0.7272,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -294,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8556,
+        "recency": 0.8289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -327,7 +327,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -375,15 +375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8156,
+        "recency": 0.7901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -408,7 +408,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -456,15 +456,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9349,
+        "recency": 0.9057,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -490,7 +490,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -538,15 +538,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9349,
+        "recency": 0.9057,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -572,7 +572,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -620,15 +620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9349,
+        "recency": 0.9057,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -654,7 +654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -702,21 +702,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T08:02:09.884497Z",
       "latest_at": "2026-09-07T08:02:09.884497Z",
@@ -736,7 +735,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -763,8 +762,8 @@
         },
         {
           "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_zh": null,
+          "title": "AMD GPU 上的 vLLM 推测解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": "AMD GPU 上的 vLLM 推测解码",
           "title_en": "Speculative Decoding in vLLM on AMD GPUs",
           "title_original": "Speculative Decoding in vLLM on AMD GPUs",
           "summary": null,
@@ -798,8 +797,8 @@
         },
         {
           "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_zh": null,
+          "title": "AMD GPU 上的 vLLM 推测解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": "AMD GPU 上的 vLLM 推测解码",
           "title_en": "Speculative Decoding in vLLM on AMD GPUs",
           "title_original": "Speculative Decoding in vLLM on AMD GPUs",
           "summary": null,
@@ -813,15 +812,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6108,
-      "importance": 0.6108,
-      "importance_score": 0.6108,
+      "score": 0.6055,
+      "importance": 0.6055,
+      "importance_score": 0.6055,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.933,
+        "recency": 0.9038,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -846,7 +845,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -894,21 +893,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T08:02:09.884497Z",
       "latest_at": "2026-09-07T08:02:09.884497Z",
@@ -928,12 +926,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
       "story_id": "story_051a17bd579f",
-      "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+      "title": "就业大灾难被推迟。人工智能就业热潮已经来临 / The jobs apocalypse is postponed. An AI jobs boom is here",
       "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
       "primary_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
       "source": "Hacker News Front Page",
@@ -941,8 +939,8 @@
       "sources": [
         {
           "id": "b0d90dc39e7f77b11312f6bb59731d1c56ffb64c",
-          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_zh": null,
+          "title": "就业大灾难被推迟。人工智能就业热潮已经来临 / The jobs apocalypse is postponed. An AI jobs boom is here",
+          "title_zh": "就业大灾难被推迟。人工智能就业热潮已经来临",
           "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
           "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
           "summary": null,
@@ -955,8 +953,8 @@
         },
         {
           "id": "47bf337585aa6ad4608fbe53479acd5cc0cdc047",
-          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_zh": null,
+          "title": "就业大灾难被推迟。人工智能就业热潮已经来临 / The jobs apocalypse is postponed. An AI jobs boom is here",
+          "title_zh": "就业大灾难被推迟。人工智能就业热潮已经来临",
           "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
           "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
           "summary": null,
@@ -969,8 +967,8 @@
         },
         {
           "id": "026e632102308d3191d80f1966ce41e85d409c52",
-          "title": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-          "title_zh": null,
+          "title": "“就业启示录被推迟了。  人工智能就业热潮已经来临” / 'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
+          "title_zh": "“就业启示录被推迟了。  人工智能就业热潮已经来临”",
           "title_en": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
           "title_original": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
           "summary": null,
@@ -991,8 +989,8 @@
       "items": [
         {
           "id": "b0d90dc39e7f77b11312f6bb59731d1c56ffb64c",
-          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_zh": null,
+          "title": "就业大灾难被推迟。人工智能就业热潮已经来临 / The jobs apocalypse is postponed. An AI jobs boom is here",
+          "title_zh": "就业大灾难被推迟。人工智能就业热潮已经来临",
           "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
           "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
           "summary": null,
@@ -1005,8 +1003,8 @@
         },
         {
           "id": "47bf337585aa6ad4608fbe53479acd5cc0cdc047",
-          "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_zh": null,
+          "title": "就业大灾难被推迟。人工智能就业热潮已经来临 / The jobs apocalypse is postponed. An AI jobs boom is here",
+          "title_zh": "就业大灾难被推迟。人工智能就业热潮已经来临",
           "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
           "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
           "summary": null,
@@ -1019,8 +1017,8 @@
         },
         {
           "id": "026e632102308d3191d80f1966ce41e85d409c52",
-          "title": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
-          "title_zh": null,
+          "title": "“就业启示录被推迟了。  人工智能就业热潮已经来临” / 'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
+          "title_zh": "“就业启示录被推迟了。  人工智能就业热潮已经来临”",
           "title_en": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
           "title_original": "'The Jobs Apocalypse Is Postponed.  An AI Jobs Boom Is Here'",
           "summary": null,
@@ -1034,15 +1032,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6096,
-      "importance": 0.6096,
-      "importance_score": 0.6096,
+      "score": 0.6042,
+      "importance": 0.6042,
+      "importance_score": 0.6042,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9493,
+        "recency": 0.9196,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1053,8 +1051,8 @@
       "latest_at": "2026-09-07T14:15:15.891000Z",
       "primary_item": {
         "id": "b0d90dc39e7f77b11312f6bb59731d1c56ffb64c",
-        "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-        "title_zh": null,
+        "title": "就业大灾难被推迟。人工智能就业热潮已经来临 / The jobs apocalypse is postponed. An AI jobs boom is here",
+        "title_zh": "就业大灾难被推迟。人工智能就业热潮已经来临",
         "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
         "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
         "summary": null,
@@ -1067,7 +1065,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -1115,21 +1113,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T08:02:09.884497Z",
       "latest_at": "2026-09-07T08:02:09.884497Z",
@@ -1149,7 +1146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -1226,15 +1223,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6029,
-      "importance": 0.6029,
-      "importance_score": 0.6029,
+      "score": 0.5981,
+      "importance": 0.5981,
+      "importance_score": 0.5981,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8663,
+        "recency": 0.8392,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1259,7 +1256,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -1307,21 +1304,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T08:02:09.884497Z",
       "latest_at": "2026-09-07T08:02:09.884497Z",
@@ -1341,7 +1337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -1367,7 +1363,7 @@
           "published_at": "2026-09-07T06:09:51.914000Z"
         },
         {
-          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
+          "id": "d7279c0d493e7388f747a5b387aace3de8ad3184",
           "title": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
           "title_zh": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器",
           "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
@@ -1375,15 +1371,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-07T00:21:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1402,7 +1398,7 @@
           "published_at": "2026-09-07T06:09:51.914000Z"
         },
         {
-          "id": "c22177f87262abed8a9ed95e89aab8b83d840fbe",
+          "id": "d7279c0d493e7388f747a5b387aace3de8ad3184",
           "title": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
           "title_zh": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器",
           "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
@@ -1410,23 +1406,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-07T00:21:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8898,
+        "recency": 0.862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1451,285 +1447,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
-      }
-    },
-    {
-      "story_id": "story_392c698c960b",
-      "title": "我对人工智能的看法",
-      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "primary_url": "https://beza1e1.tuxen.de/ai_feelings.html",
-      "source": "beza1e1.tuxen.de",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-          "title": "我对人工智能的看法",
-          "title_zh": "我对人工智能的看法",
-          "title_en": null,
-          "title_original": "我对人工智能的看法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "beza1e1.tuxen.de",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:12:11.446000Z"
-        },
-        {
-          "id": "2702175e96021b1ab424f51a5850c37637c74000",
-          "title": "我对人工智能的看法 / How I feel about AI",
-          "title_zh": "我对人工智能的看法",
-          "title_en": "How I feel about AI",
-          "title_original": "How I feel about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
-        },
-        {
-          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
-          "title": "我对人工智能的看法 / I Feel about AI",
-          "title_zh": "我对人工智能的看法",
-          "title_en": "I Feel about AI",
-          "title_original": "I Feel about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T15:00:19Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "beza1e1.tuxen.de"
-      ],
-      "items": [
-        {
-          "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-          "title": "我对人工智能的看法",
-          "title_zh": "我对人工智能的看法",
-          "title_en": null,
-          "title_original": "我对人工智能的看法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "beza1e1.tuxen.de",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T16:12:11.446000Z"
-        },
-        {
-          "id": "2702175e96021b1ab424f51a5850c37637c74000",
-          "title": "我对人工智能的看法 / How I feel about AI",
-          "title_zh": "我对人工智能的看法",
-          "title_en": "How I feel about AI",
-          "title_original": "How I feel about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T15:00:19Z"
-        },
-        {
-          "id": "e5f21d2f11daf2a5349732d418f9116b6f4268d0",
-          "title": "我对人工智能的看法 / I Feel about AI",
-          "title_zh": "我对人工智能的看法",
-          "title_en": "I Feel about AI",
-          "title_original": "I Feel about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-06T15:00:19Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7274,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T15:00:19Z",
-      "latest_at": "2026-09-06T16:12:11.446000Z",
-      "primary_item": {
-        "id": "8ddde2dc873217589ddd1fc5cef55601fa49ed9b",
-        "title": "我对人工智能的看法",
-        "title_zh": "我对人工智能的看法",
-        "title_en": null,
-        "title_original": "我对人工智能的看法",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-        "source": "beza1e1.tuxen.de",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
-      }
-    },
-    {
-      "story_id": "story_51d2e18008f8",
-      "title": "人工智能关机——保持人性",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "primary_url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-      "source": "keepitfree.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": null,
-          "title_original": "人工智能关机——保持人性",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
-        },
-        {
-          "id": "b867389e6ad7c4eb66c47b053eb87400f0937888",
-          "title": "人工智能关机——保持人性 / A/I shuts down",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": "A/I shuts down",
-          "title_original": "A/I shuts down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T14:34:34Z"
-        },
-        {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": "A/I shuts down – Stay human",
-          "title_original": "A/I shuts down – Stay human",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "keepitfree.ai"
-      ],
-      "items": [
-        {
-          "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-          "title": "人工智能关机——保持人性",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": null,
-          "title_original": "人工智能关机——保持人性",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "keepitfree.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T15:26:17.429000Z"
-        },
-        {
-          "id": "b867389e6ad7c4eb66c47b053eb87400f0937888",
-          "title": "人工智能关机——保持人性 / A/I shuts down",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": "A/I shuts down",
-          "title_original": "A/I shuts down",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T14:34:34Z"
-        },
-        {
-          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
-          "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
-          "title_zh": "人工智能关机——保持人性",
-          "title_en": "A/I shuts down – Stay human",
-          "title_original": "A/I shuts down – Stay human",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-06T14:34:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7194,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T14:34:34Z",
-      "latest_at": "2026-09-06T15:26:17.429000Z",
-      "primary_item": {
-        "id": "1e038220b670de48b431edd4c1845c9c1aedf7a6",
-        "title": "人工智能关机——保持人性",
-        "title_zh": "人工智能关机——保持人性",
-        "title_en": null,
-        "title_original": "人工智能关机——保持人性",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-        "source": "keepitfree.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -1777,21 +1495,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T08:02:09.884497Z",
       "latest_at": "2026-09-07T08:02:09.884497Z",
@@ -1811,7 +1528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     },
     {
@@ -1888,15 +1605,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4975,
-      "importance": 0.4975,
-      "importance_score": 0.4975,
+      "score": 0.4934,
+      "importance": 0.4934,
+      "importance_score": 0.4934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7319,
+        "recency": 0.709,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1921,7 +1638,198 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T14:19:35.032105Z"
+        "scored_at": "2026-09-07T16:35:39.367991Z"
+      }
+    },
+    {
+      "story_id": "story_5f9295bb7332",
+      "title": "Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+      "url": "https://news.ycombinator.com/item?id=49594189",
+      "primary_url": "https://news.ycombinator.com/item?id=49594189",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7944f9c1febde05652c4919f82f602b0b576cd39",
+          "title": "Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "title_zh": "Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。",
+          "title_en": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "title_original": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49594189",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:09:51.914000Z"
+        },
+        {
+          "id": "7c3cee706c81846a738fe4f4e62c46a36f9fb088",
+          "title": "Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "title_zh": "Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。",
+          "title_en": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "title_original": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T05:23:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7944f9c1febde05652c4919f82f602b0b576cd39",
+          "title": "Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "title_zh": "Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。",
+          "title_en": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "title_original": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49594189",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:09:51.914000Z"
+        },
+        {
+          "id": "7c3cee706c81846a738fe4f4e62c46a36f9fb088",
+          "title": "Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "title_zh": "Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。",
+          "title_en": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "title_original": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T05:23:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.862,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T05:23:31Z",
+      "latest_at": "2026-09-07T06:09:51.914000Z",
+      "primary_item": {
+        "id": "7944f9c1febde05652c4919f82f602b0b576cd39",
+        "title": "Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+        "title_zh": "Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。",
+        "title_en": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+        "title_original": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49594189",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T16:35:39.367991Z"
+      }
+    },
+    {
+      "story_id": "story_fc8fc80cdf77",
+      "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+      "url": "https://www.aibase.com/news/30873",
+      "primary_url": "https://www.aibase.com/news/30873",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "de63239747d4967b618130607f3283ca5282a6d8",
+          "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "title_zh": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "title_en": null,
+          "title_original": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30873",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T08:02:09.884497Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "de63239747d4967b618130607f3283ca5282a6d8",
+          "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "title_zh": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "title_en": null,
+          "title_original": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30873",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T08:02:09.884497Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-07T08:02:09.884497Z",
+      "latest_at": "2026-09-07T08:02:09.884497Z",
+      "primary_item": {
+        "id": "de63239747d4967b618130607f3283ca5282a6d8",
+        "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+        "title_zh": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+        "title_en": null,
+        "title_original": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30873",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-07T16:35:39.367991Z"
       }
     }
   ]
