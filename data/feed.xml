@@ -5,10 +5,10 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 07 Sep 2026 09:35:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 14:14:50 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Supporting independent journalism in Ukraine</title>
+<title>支持乌克兰的独立新闻业 / Supporting independent journalism in Ukraine</title>
 <link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
 <guid isPermaLink="true">https://openai.com/index/supporting-independent-journalism-in-ukraine</guid>
 <description>OpenAI News</description>
@@ -16,12 +16,12 @@
 <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫</title>
-<link>https://www.aibase.com/news/30880</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30880</guid>
+<title>李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语</title>
+<link>https://www.aibase.com/news/30883</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30883</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 07 Sep 2026 09:35:18 +0000</pubDate>
+<pubDate>Mon, 07 Sep 2026 14:14:50 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its "automated research intern" milestone. i.e. a human…</title>
@@ -48,6 +48,14 @@
 <pubDate>Mon, 07 Sep 2026 00:08:00 +0000</pubDate>
 </item>
 <item>
+<title>墨鱼里混进剧毒螃蟹，香港女子靠 AI 识图躲过一劫</title>
+<link>https://www.aibase.com/news/30880</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30880</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 09:35:18 +0000</pubDate>
+</item>
+<item>
 <title>混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降</title>
 <link>https://www.aibase.com/news/30882</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30882</guid>
@@ -72,9 +80,33 @@
 <pubDate>Mon, 07 Sep 2026 08:02:09 +0000</pubDate>
 </item>
 <item>
+<title>AMD GPU 上的 vLLM 推测解码 / Speculative Decoding in vLLM on AMD GPUs</title>
+<link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
+<guid isPermaLink="true">https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</guid>
+<description>Hacker News Front Page</description>
+<category>值得关注</category>
+<pubDate>Mon, 07 Sep 2026 14:15:15 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队</title>
 <link>https://www.aibase.com/news/30874</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30874</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Mon, 07 Sep 2026 08:02:09 +0000</pubDate>
+</item>
+<item>
+<title>The jobs apocalypse is postponed. An AI jobs boom is here</title>
+<link>https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here</link>
+<guid isPermaLink="true">https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here</guid>
+<description>Hacker News Front Page</description>
+<category>多源热议</category>
+<pubDate>Mon, 07 Sep 2026 14:15:15 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍</title>
+<link>https://www.aibase.com/news/30871</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30871</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 07 Sep 2026 08:02:09 +0000</pubDate>
@@ -88,33 +120,9 @@
 <pubDate>Mon, 07 Sep 2026 06:09:51 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍</title>
-<link>https://www.aibase.com/news/30871</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30871</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 07 Sep 2026 08:02:09 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架</title>
 <link>https://www.aibase.com/news/30872</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30872</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 07 Sep 2026 08:02:09 +0000</pubDate>
-</item>
-<item>
-<title>研究加速：OpenAI内部视角 / Research acceleration: The view inside OpenAI</title>
-<link>https://openai.com/index/research-acceleration-view-inside-openai</link>
-<guid isPermaLink="true">https://openai.com/index/research-acceleration-view-inside-openai</guid>
-<description>Hacker News Front Page</description>
-<category>多源热议</category>
-<pubDate>Mon, 07 Sep 2026 00:17:54 +0000</pubDate>
-</item>
-<item>
-<title>中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%</title>
-<link>https://www.aibase.com/news/30875</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30875</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 07 Sep 2026 08:02:09 +0000</pubDate>
@@ -144,28 +152,20 @@
 <pubDate>Sun, 06 Sep 2026 15:26:17 +0000</pubDate>
 </item>
 <item>
-<title>千问办公推出业内首个"多人工作台"，一句话生成可承载百人协作的业务网页</title>
-<link>https://www.aibase.com/news/30873</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30873</guid>
+<title>中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%</title>
+<link>https://www.aibase.com/news/30875</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30875</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Mon, 07 Sep 2026 08:02:09 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: Engrim – 面向AI命令行工具的通用本地优先SQLite记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs</title>
-<link>https://github.com/timgordontg/engrim</link>
-<guid isPermaLink="true">https://github.com/timgordontg/engrim</guid>
-<description>Hacker News Front Page</description>
+<title>我们如何监控内部编码 Agent 有没有跑偏？ / How we monitor internal coding agents for misalignment</title>
+<link>https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment</link>
+<guid isPermaLink="true">https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment</guid>
+<description>Hacker News · 24h最热</description>
 <category>值得关注</category>
-<pubDate>Mon, 07 Sep 2026 06:09:51 +0000</pubDate>
-</item>
-<item>
-<title>Nvidia 的 Jensen Huang 称“AGI 已经到来”，并向 OpenAI 表示祝贺。 / Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI</title>
-<link>https://news.ycombinator.com/item?id=49594189</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49594189</guid>
-<description>hackernews</description>
-<category>值得关注</category>
-<pubDate>Mon, 07 Sep 2026 06:09:51 +0000</pubDate>
+<pubDate>Sun, 06 Sep 2026 16:37:55 +0000</pubDate>
 </item>
 </channel>
 </rss>
