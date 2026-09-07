@@ -117,6 +117,40 @@ Epoch AI、Artificial Analysis（评测）
 4. 检查新增源的**实际产出条数**，而不是只看"能不能抓到"
 5. 把结果回填到这个文件的"复核记录"章节
 
+## 首轮 Actions 实测（2026-09-07 08:02 UTC）
+
+跑通了。**25 个源，24 个 OK，1 个 FAIL，零条源 0 个。**
+原始抓取 4159 条 → 24 小时窗口内 175 条（上游公共雷达同期约 155 条）。
+
+### 各源实抓条数
+
+| 条数 | 源 |
+|---|---|
+| 1173 | OpenAI News |
+| 859 | Hugging Face Blog |
+| 100 | GNews: Anthropic Claude / LLM benchmark / Meta Llama / xAI Grok |
+| 100 | Google DeepMind / Google Research / NVIDIA |
+| 50 | Product Hunt、宝玉 |
+| 30 | Simon Willison |
+| 20 | AI and Games、Google AI Blog、HN 首页、InfoQ CN、Latent Space、Lenny's、One Useful Thing、SEJ、Raschka |
+| 10 | Microsoft AI Blog、Microsoft Research、Wired AI |
+| **FAIL** | Import AI（Substack 403） |
+
+### 关键结论
+
+1. **实验组全活了。** Google News 四个切片各抓 100 条——本机代理挡住的
+   Anthropic / Meta / xAI / 跑分消息，在 Actions 机房里抓得好好的。
+   三家没官方 RSS 的厂商，这条路补上了。
+2. **Import AI 403**：Substack 挡了 Actions 的请求头。本机带 UA 能抓到，
+   已把 URL 改成带斜杠的 `/feed/`，等下一轮验证；再失败就换 `importai.net/feed`，
+   还不行就删掉（30% 占比，不是核心源）。
+3. **AI Breakfast 仍然 403**：这是上游自带的源，一直挂着，不是我们的锅。
+
 ## 复核记录
 
-（待 2026-09-14 填写）
+### 2026-09-07 首轮
+
+- [x] 25 源接入，24 成功
+- [x] 修掉 Import AI 的 403（改 URL 待验证）
+- [ ] 2026-09-14：看一周后各源的**实际产出条数**，不是只看能不能抓到。
+      抓得到但天天 0 条的源，一样要砍。
