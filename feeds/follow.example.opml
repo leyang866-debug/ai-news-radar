@@ -47,7 +47,7 @@
       <outline text="One Useful Thing" title="One Useful Thing" type="rss"
         xmlUrl="https://www.oneusefulthing.org/feed" htmlUrl="https://www.oneusefulthing.org/" />
       <outline text="Import AI" title="Import AI" type="rss"
-        xmlUrl="https://importai.substack.com/feed/" htmlUrl="https://importai.substack.com/" />
+        xmlUrl="https://importai.net/feed" htmlUrl="https://importai.net/" />
       <outline text="宝玉" title="宝玉" type="rss"
         xmlUrl="https://baoyu.io/feed.xml" htmlUrl="https://baoyu.io/" />
     </outline>
