@@ -1,82 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>AI News Radar RSS Example</title>
+    <title>Yangyang AI Radar — 私人信源清单</title>
+    <dateModified>Sun, 07 Sep 2026 08:00:00 GMT</dateModified>
+    <ownerName>leyang866-debug</ownerName>
   </head>
   <body>
-    <outline text="Official AI Sources">
-      <outline
-        text="OpenAI News"
-        title="OpenAI News"
-        type="rss"
-        xmlUrl="https://openai.com/news/rss.xml"
-        htmlUrl="https://openai.com/news"
-      />
-      <outline
-        text="Hugging Face Blog"
-        title="Hugging Face Blog"
-        type="rss"
-        xmlUrl="https://huggingface.co/blog/feed.xml"
-        htmlUrl="https://huggingface.co/blog"
-      />
-      <outline
-        text="Google DeepMind Blog"
-        title="Google DeepMind Blog"
-        type="rss"
-        xmlUrl="https://deepmind.google/blog/rss.xml"
-        htmlUrl="https://deepmind.google/discover/blog/"
-      />
-      <outline
-        text="Google AI Blog"
-        title="Google AI Blog"
-        type="rss"
-        xmlUrl="https://blog.google/technology/ai/rss/"
-        htmlUrl="https://blog.google/technology/ai/"
-      />
-      <outline
-        text="Microsoft AI Blog"
-        title="Microsoft AI Blog"
-        type="rss"
-        xmlUrl="https://news.microsoft.com/source/topics/ai/feed/"
-        htmlUrl="https://news.microsoft.com/source/topics/ai/"
-      />
+
+    <!--
+      关注方向（2026-09-07 杨杨订正）：
+        1. 谁发了什么模型、测试怎么样、跑分多少
+        2. 谁拿新模型做了什么
+        3. AI 圈人物声音（Tibo / 马斯克 / Karpathy / Simon Willison 等）
+        4. SaaS / 独立开发者动静
+        5. 游戏 / SEO 只是顺带
+      每个源都经 probe_sources.py 实测 AI 占比 + 停更检测，判定依据见
+      docs/SOURCE_INTAKE_LOG.md
+    -->
+
+    <outline text="模型官方与研究机构">
+      <outline text="OpenAI News" title="OpenAI News" type="rss"
+        xmlUrl="https://openai.com/news/rss.xml" htmlUrl="https://openai.com/news" />
+      <outline text="Hugging Face Blog" title="Hugging Face Blog" type="rss"
+        xmlUrl="https://huggingface.co/blog/feed.xml" htmlUrl="https://huggingface.co/blog" />
+      <outline text="Google DeepMind Blog" title="Google DeepMind Blog" type="rss"
+        xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/discover/blog/" />
+      <outline text="Google Research Blog" title="Google Research Blog" type="rss"
+        xmlUrl="https://research.google/blog/rss/" htmlUrl="https://research.google/blog/" />
+      <outline text="Google AI Blog" title="Google AI Blog" type="rss"
+        xmlUrl="https://blog.google/technology/ai/rss/" htmlUrl="https://blog.google/technology/ai/" />
+      <outline text="Microsoft AI Blog" title="Microsoft AI Blog" type="rss"
+        xmlUrl="https://news.microsoft.com/source/topics/ai/feed/" htmlUrl="https://news.microsoft.com/source/topics/ai/" />
+      <outline text="Microsoft Research" title="Microsoft Research" type="rss"
+        xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/research/" />
+      <outline text="NVIDIA Generative AI Blog" title="NVIDIA Generative AI Blog" type="rss"
+        xmlUrl="https://developer.nvidia.com/blog/category/generative-ai/feed/" htmlUrl="https://developer.nvidia.com/blog/category/generative-ai/" />
     </outline>
-    <outline text="AI Media and Builders">
-      <outline
-        text="Wired AI"
-        title="Wired AI"
-        type="rss"
-        xmlUrl="https://www.wired.com/feed/tag/ai/latest/rss"
-        htmlUrl="https://www.wired.com/tag/artificial-intelligence/"
-      />
-      <outline
-        text="InfoQ CN"
-        title="InfoQ CN"
-        type="rss"
-        xmlUrl="https://www.infoq.cn/feed"
-        htmlUrl="https://www.infoq.cn/"
-      />
-      <outline
-        text="NVIDIA Generative AI Blog"
-        title="NVIDIA Generative AI Blog"
-        type="rss"
-        xmlUrl="https://developer.nvidia.com/blog/category/generative-ai/feed/"
-        htmlUrl="https://developer.nvidia.com/blog/category/generative-ai/"
-      />
-      <outline
-        text="宝玉"
-        title="宝玉"
-        type="rss"
-        xmlUrl="https://baoyu.io/feed.xml"
-        htmlUrl="https://baoyu.io/"
-      />
-      <outline
-        text="Simon Willison"
-        title="Simon Willison"
-        type="rss"
-        xmlUrl="https://simonwillison.net/atom/everything/"
-        htmlUrl="https://simonwillison.net/"
-      />
+
+    <outline text="AI 圈人物声音">
+      <outline text="Sebastian Raschka" title="Sebastian Raschka" type="rss"
+        xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com/" />
+      <outline text="Simon Willison" title="Simon Willison" type="rss"
+        xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/" />
+      <outline text="Latent Space" title="Latent Space" type="rss"
+        xmlUrl="https://www.latent.space/feed" htmlUrl="https://www.latent.space/" />
+      <outline text="One Useful Thing" title="One Useful Thing" type="rss"
+        xmlUrl="https://www.oneusefulthing.org/feed" htmlUrl="https://www.oneusefulthing.org/" />
+      <outline text="Import AI" title="Import AI" type="rss"
+        xmlUrl="https://importai.substack.com/feed" htmlUrl="https://importai.substack.com/" />
+      <outline text="宝玉" title="宝玉" type="rss"
+        xmlUrl="https://baoyu.io/feed.xml" htmlUrl="https://baoyu.io/" />
     </outline>
+
+    <outline text="SaaS 与独立开发者">
+      <outline text="Lenny's Newsletter" title="Lenny's Newsletter" type="rss"
+        xmlUrl="https://www.lennysnewsletter.com/feed" htmlUrl="https://www.lennysnewsletter.com/" />
+      <outline text="Product Hunt" title="Product Hunt" type="rss"
+        xmlUrl="https://www.producthunt.com/feed" htmlUrl="https://www.producthunt.com/" />
+      <outline text="Hacker News Front Page" title="Hacker News Front Page" type="rss"
+        xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/" />
+    </outline>
+
+    <outline text="科技媒体">
+      <outline text="Wired AI" title="Wired AI" type="rss"
+        xmlUrl="https://www.wired.com/feed/tag/ai/latest/rss" htmlUrl="https://www.wired.com/tag/artificial-intelligence/" />
+      <outline text="InfoQ CN" title="InfoQ CN" type="rss"
+        xmlUrl="https://www.infoq.cn/feed" htmlUrl="https://www.infoq.cn/" />
+    </outline>
+
+    <outline text="顺带：游戏与 SEO">
+      <outline text="AI and Games" title="AI and Games" type="rss"
+        xmlUrl="https://www.aiandgames.com/feed" htmlUrl="https://www.aiandgames.com/" />
+      <outline text="Search Engine Journal" title="Search Engine Journal" type="rss"
+        xmlUrl="https://www.searchenginejournal.com/feed/" htmlUrl="https://www.searchenginejournal.com/" />
+    </outline>
+
+    <!--
+      实验组：本机代理挡住测不了，只能在 GitHub Actions 上验证。
+      跑完看 data/source-status.json，FAIL 的下一轮直接删。
+      目标是补上 Anthropic / Meta / xAI 这三家没有官方 RSS 的模型厂商。
+    -->
+    <outline text="实验组-待验证">
+      <outline text="GNews: Anthropic Claude" title="GNews: Anthropic Claude" type="rss"
+        xmlUrl="https://news.google.com/rss/search?q=Anthropic+Claude&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" htmlUrl="https://www.anthropic.com/news" />
+      <outline text="GNews: Meta Llama" title="GNews: Meta Llama" type="rss"
+        xmlUrl="https://news.google.com/rss/search?q=Meta+Llama+model&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" htmlUrl="https://ai.meta.com/blog/" />
+      <outline text="GNews: xAI Grok" title="GNews: xAI Grok" type="rss"
+        xmlUrl="https://news.google.com/rss/search?q=xAI+Grok&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" htmlUrl="https://x.ai/news" />
+      <outline text="GNews: LLM benchmark" title="GNews: LLM benchmark" type="rss"
+        xmlUrl="https://news.google.com/rss/search?q=LLM+benchmark+evaluation&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" htmlUrl="https://news.google.com/" />
+    </outline>
+
   </body>
 </opml>
