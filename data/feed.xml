@@ -5,8 +5,24 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 08 Sep 2026 11:18:11 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 15:05:04 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic</title>
+<link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
+<guid isPermaLink="true">https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 08 Sep 2026 14:23:07 +0000</pubDate>
+</item>
+<item>
+<title>The Work Now Within Reach</title>
+<link>https://openai.com/index/the-work-now-within-reach</link>
+<guid isPermaLink="true">https://openai.com/index/the-work-now-within-reach</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 08 Sep 2026 13:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元 / Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.</title>
 <link>https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier</link>
@@ -14,6 +30,22 @@
 <description>Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。（Mistral AI：News（网页））</description>
 <category>官方更新</category>
 <pubDate>Tue, 08 Sep 2026 06:48:43 +0000</pubDate>
+</item>
+<item>
+<title>AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>
+<link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome</link>
+<guid isPermaLink="true">https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome</guid>
+<description>Google DeepMind</description>
+<category>官方更新</category>
+<pubDate>Tue, 08 Sep 2026 14:00:15 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI expands initiatives to support journalism from classrooms to newsrooms</title>
+<link>https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</link>
+<guid isPermaLink="true">https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过</title>
@@ -104,12 +136,12 @@
 <pubDate>Tue, 08 Sep 2026 04:28:10 +0000</pubDate>
 </item>
 <item>
-<title>我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s</title>
-<link>https://mcpherrin.ca/2026/09/07/rsa.html</link>
-<guid isPermaLink="true">https://mcpherrin.ca/2026/09/07/rsa.html</guid>
+<title>LibreOffice在声明其不具备AI功能后，下载量创下新纪录 / LibreOffice breaks download records after declaring it has no AI features</title>
+<link>https://manualdousuario.net/en/libreoffice-download-record-no-ai</link>
+<guid isPermaLink="true">https://manualdousuario.net/en/libreoffice-download-record-no-ai</guid>
 <description>Hacker News Front Page</description>
 <category>值得关注</category>
-<pubDate>Tue, 08 Sep 2026 02:51:51 +0000</pubDate>
+<pubDate>Tue, 08 Sep 2026 14:42:54 +0000</pubDate>
 </item>
 <item>
 <title>微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品</title>
@@ -120,52 +152,20 @@
 <pubDate>Tue, 08 Sep 2026 09:38:45 +0000</pubDate>
 </item>
 <item>
+<title>我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s</title>
+<link>https://mcpherrin.ca/2026/09/07/rsa.html</link>
+<guid isPermaLink="true">https://mcpherrin.ca/2026/09/07/rsa.html</guid>
+<description>Hacker News Front Page</description>
+<category>值得关注</category>
+<pubDate>Tue, 08 Sep 2026 02:51:51 +0000</pubDate>
+</item>
+<item>
 <title>联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线</title>
 <link>https://www.aibase.com/news/30903</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30903</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 08 Sep 2026 09:38:45 +0000</pubDate>
-</item>
-<item>
-<title>Claude在 11 天内在 6B 输出代币上形式化了费马大定理 - 雅虎新闻 / Claude Formalized Fermat's Last Theorem In 11 Days On 6B Output Tokens - Yahoo News UK</title>
-<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxObWhTWEV6ZFRfeWoyeVFfb2pGdkZBLXdvQmtfTkRZZ0VDcGNjdGRZTTF5WWgxOEtwUHMtY0xBNUljMm9wTFQ4TFdSQUZsM3hNazVHbjhrZTdQemYwcjE3aDI3c2hISVRQTFVYUXMtNWdxUFQxSEd0UmpoUFFOWVVzZFBzOFFiQQ?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMihgFBVV95cUxObWhTWEV6ZFRfeWoyeVFfb2pGdkZBLXdvQmtfTkRZZ0VDcGNjdGRZTTF5WWgxOEtwUHMtY0xBNUljMm9wTFQ4TFdSQUZsM3hNazVHbjhrZTdQemYwcjE3aDI3c2hISVRQTFVYUXMtNWdxUFQxSEd0UmpoUFFOWVVzZFBzOFFiQQ?oc=5</guid>
-<description>GNews: Anthropic Claude</description>
-<category>值得关注</category>
-<pubDate>Mon, 07 Sep 2026 13:35:56 +0000</pubDate>
-</item>
-<item>
-<title>AI模型运营了真实的业务：它们开具了总额为12,431美元的虚假发票，亏损了3,200美元</title>
-<link>https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses</link>
-<guid isPermaLink="true">https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses</guid>
-<description>www.bottlenecklabs.com</description>
-<category>值得关注</category>
-<pubDate>Tue, 08 Sep 2026 06:33:02 +0000</pubDate>
-</item>
-<item>
-<title>马斯克杀入Copilot主场：Grok Bot 深度接管微软账号</title>
-<link>https://www.aibase.com/news/30907</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30907</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 09:38:45 +0000</pubDate>
-</item>
-<item>
-<title>Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制</title>
-<link>https://news.ycombinator.com/item?id=49600233</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49600233</guid>
-<description>news.ycombinator.com</description>
-<category>值得关注</category>
-<pubDate>Mon, 07 Sep 2026 18:58:53 +0000</pubDate>
-</item>
-<item>
-<title>就业大灾难被推迟。人工智能就业热潮已经来临 / The jobs apocalypse is postponed. An AI jobs boom is here</title>
-<link>https://news.ycombinator.com/item?id=49596610</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=49596610</guid>
-<description>hackernews</description>
-<category>值得关注</category>
-<pubDate>Mon, 07 Sep 2026 14:15:15 +0000</pubDate>
 </item>
 </channel>
 </rss>
