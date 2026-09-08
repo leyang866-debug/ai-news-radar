@@ -1,89 +1,252 @@
 {
-  "generated_at": "2026-09-07T23:31:41.222798Z",
+  "generated_at": "2026-09-08T01:11:13.164965Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_002df950f741",
-      "title": "支持乌克兰的独立新闻业 / Supporting independent journalism in Ukraine",
-      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "primary_url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f0b41f3df1cc",
+      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
-          "title": "支持乌克兰的独立新闻业 / Supporting independent journalism in Ukraine",
-          "title_zh": "支持乌克兰的独立新闻业",
-          "title_en": "Supporting independent journalism in Ukraine",
-          "title_original": "Supporting independent journalism in Ukraine",
-          "summary": null,
+          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "title_zh": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "title_en": null,
+          "title_original": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-07T00:00:00Z"
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T00:17:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
-          "title": "支持乌克兰的独立新闻业 / Supporting independent journalism in Ukraine",
-          "title_zh": "支持乌克兰的独立新闻业",
-          "title_en": "Supporting independent journalism in Ukraine",
-          "title_original": "Supporting independent journalism in Ukraine",
-          "summary": null,
+          "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+          "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "title_zh": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "title_en": null,
+          "title_original": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+          "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-07T00:00:00Z"
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-08T00:17:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "官方更新",
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7119,
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9871,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-07T00:00:00Z",
-      "latest_at": "2026-09-07T00:00:00Z",
+      "earliest_at": "2026-09-08T00:17:23Z",
+      "latest_at": "2026-09-08T00:17:23Z",
       "primary_item": {
-        "id": "6302cd534c94b9343d8c6428096c99f57e4984ac",
-        "title": "支持乌克兰的独立新闻业 / Supporting independent journalism in Ukraine",
-        "title_zh": "支持乌克兰的独立新闻业",
-        "title_en": "Supporting independent journalism in Ukraine",
-        "title_original": "Supporting independent journalism in Ukraine",
-        "summary": null,
+        "id": "1d18c2369bbc6958848b9af98310580002d1fcf7",
+        "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+        "title_zh": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+        "title_en": null,
+        "title_original": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+        "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
+      }
+    },
+    {
+      "story_id": "story_145483457052",
+      "title": "GPT-6 Astra 刷屏，日本 AI 教授点赞梁文锋：这才是 AGI 之路",
+      "url": "https://www.aibase.com/news/30886",
+      "primary_url": "https://www.aibase.com/news/30886",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8785ea27de162f1a1138b51d5f425fb220518f19",
+          "title": "GPT-6 Astra 刷屏，日本 AI 教授点赞梁文锋：这才是 AGI 之路",
+          "title_zh": "GPT-6 Astra 刷屏，日本 AI 教授点赞梁文锋：这才是 AGI 之路",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 刷屏，日本 AI 教授点赞梁文锋：这才是 AGI 之路",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30886",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T01:11:13.164965Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8785ea27de162f1a1138b51d5f425fb220518f19",
+          "title": "GPT-6 Astra 刷屏，日本 AI 教授点赞梁文锋：这才是 AGI 之路",
+          "title_zh": "GPT-6 Astra 刷屏，日本 AI 教授点赞梁文锋：这才是 AGI 之路",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 刷屏，日本 AI 教授点赞梁文锋：这才是 AGI 之路",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30886",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T01:11:13.164965Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T01:11:13.164965Z",
+      "latest_at": "2026-09-08T01:11:13.164965Z",
+      "primary_item": {
+        "id": "8785ea27de162f1a1138b51d5f425fb220518f19",
+        "title": "GPT-6 Astra 刷屏，日本 AI 教授点赞梁文锋：这才是 AGI 之路",
+        "title_zh": "GPT-6 Astra 刷屏，日本 AI 教授点赞梁文锋：这才是 AGI 之路",
+        "title_en": null,
+        "title_original": "GPT-6 Astra 刷屏，日本 AI 教授点赞梁文锋：这才是 AGI 之路",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30886",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T01:27:24.663535Z"
+      }
+    },
+    {
+      "story_id": "story_3ed5bfe1c8aa",
+      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+      "url": "https://www.ithome.com/0/999/313.htm",
+      "primary_url": "https://www.ithome.com/0/999/313.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
+          "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+          "title_zh": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+          "title_en": null,
+          "title_original": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+          "summary": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/999/313.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-07T07:46:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
+          "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+          "title_zh": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+          "title_en": null,
+          "title_original": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+          "summary": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/0/999/313.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-07T07:46:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7776,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-07T07:46:08Z",
+      "latest_at": "2026-09-07T07:46:08Z",
+      "primary_item": {
+        "id": "4d11d314dce69e120ff8a3cf61d89d398dd9240b",
+        "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+        "title_zh": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+        "title_en": null,
+        "title_original": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+        "summary": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/0/999/313.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
@@ -131,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9261,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +328,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
+      }
+    },
+    {
+      "story_id": "story_fa145e6ddcc2",
+      "title": "OpenAI携手Firmus布局马来西亚，签约总容量突破900兆瓦",
+      "url": "https://www.aibase.com/news/30885",
+      "primary_url": "https://www.aibase.com/news/30885",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a64925bd3d9ff5b5550351b78bef51d85bedf4b0",
+          "title": "OpenAI携手Firmus布局马来西亚，签约总容量突破900兆瓦",
+          "title_zh": "OpenAI携手Firmus布局马来西亚，签约总容量突破900兆瓦",
+          "title_en": null,
+          "title_original": "OpenAI携手Firmus布局马来西亚，签约总容量突破900兆瓦",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T01:11:13.164965Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a64925bd3d9ff5b5550351b78bef51d85bedf4b0",
+          "title": "OpenAI携手Firmus布局马来西亚，签约总容量突破900兆瓦",
+          "title_zh": "OpenAI携手Firmus布局马来西亚，签约总容量突破900兆瓦",
+          "title_en": null,
+          "title_original": "OpenAI携手Firmus布局马来西亚，签约总容量突破900兆瓦",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30885",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T01:11:13.164965Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T01:11:13.164965Z",
+      "latest_at": "2026-09-08T01:11:13.164965Z",
+      "primary_item": {
+        "id": "a64925bd3d9ff5b5550351b78bef51d85bedf4b0",
+        "title": "OpenAI携手Firmus布局马来西亚，签约总容量突破900兆瓦",
+        "title_zh": "OpenAI携手Firmus布局马来西亚，签约总容量突破900兆瓦",
+        "title_en": null,
+        "title_original": "OpenAI携手Firmus布局马来西亚，签约总容量突破900兆瓦",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30885",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T01:27:24.663535Z"
+      }
+    },
+    {
+      "story_id": "story_ad95b0451a28",
+      "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+      "url": "https://www.aibase.com/news/30884",
+      "primary_url": "https://www.aibase.com/news/30884",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "03d3e6a042936187ed9bb280b57eb61697da223a",
+          "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+          "title_zh": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+          "title_en": null,
+          "title_original": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30884",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T01:11:13.164965Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "03d3e6a042936187ed9bb280b57eb61697da223a",
+          "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+          "title_zh": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+          "title_en": null,
+          "title_original": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30884",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-08T01:11:13.164965Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T01:11:13.164965Z",
+      "latest_at": "2026-09-08T01:11:13.164965Z",
+      "primary_item": {
+        "id": "03d3e6a042936187ed9bb280b57eb61697da223a",
+        "title": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+        "title_zh": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+        "title_en": null,
+        "title_original": "英国 AI 政策奠基人 Matt Clifford 从 Anthropic 离职，利益冲突争议发酵",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30884",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
@@ -213,15 +540,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8746,
+        "recency": 0.8539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,88 +573,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
-      }
-    },
-    {
-      "story_id": "story_2790abac7d30",
-      "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-07T03:26:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-          "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "title_zh": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-07T03:26:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7483,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-07T03:26:50Z",
-      "latest_at": "2026-09-07T03:26:50Z",
-      "primary_item": {
-        "id": "26157631ecd3780c0a05e7784709c5649e92ff89",
-        "title": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-        "title_zh": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报（2026 W36）：GPT-6 Astra 登场、代理失控与模型价格战",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-07-hexi-2077-ai-weekly-2026-w36",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
@@ -375,15 +621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8177,
+        "recency": 0.7983,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -408,169 +654,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
-      }
-    },
-    {
-      "story_id": "story_593596383350",
-      "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-      "url": "https://www.aibase.com/news/30882",
-      "primary_url": "https://www.aibase.com/news/30882",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "title_zh": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "title_en": null,
-          "title_original": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T09:35:18.209501Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "title_zh": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "title_en": null,
-          "title_original": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30882",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T09:35:18.209501Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8177,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-07T09:35:18.209501Z",
-      "latest_at": "2026-09-07T09:35:18.209501Z",
-      "primary_item": {
-        "id": "a010f69c76ecf055f1f978bd518750a01712274a",
-        "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-        "title_zh": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-        "title_en": null,
-        "title_original": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30882",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
-      }
-    },
-    {
-      "story_id": "story_42766529966d",
-      "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-      "url": "https://www.aibase.com/news/30881",
-      "primary_url": "https://www.aibase.com/news/30881",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3c40c29706fb30323afddb56caa52e9582732a54",
-          "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-          "title_zh": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-          "title_en": null,
-          "title_original": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T09:35:18.209501Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3c40c29706fb30323afddb56caa52e9582732a54",
-          "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-          "title_zh": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-          "title_en": null,
-          "title_original": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T09:35:18.209501Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8177,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-07T09:35:18.209501Z",
-      "latest_at": "2026-09-07T09:35:18.209501Z",
-      "primary_item": {
-        "id": "3c40c29706fb30323afddb56caa52e9582732a54",
-        "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-        "title_zh": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-        "title_en": null,
-        "title_original": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30881",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
@@ -676,15 +760,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6147,
-      "importance": 0.6147,
-      "importance_score": 0.6147,
+      "score": 0.6112,
+      "importance": 0.6112,
+      "importance_score": 0.6112,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.816,
+        "recency": 0.7967,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -709,30 +793,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
-      "story_id": "story_2ebcbcb9674f",
-      "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
-      "url": "https://www.aibase.com/news/30876",
-      "primary_url": "https://www.aibase.com/news/30876",
+      "story_id": "story_593596383350",
+      "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+      "url": "https://www.aibase.com/news/30882",
+      "primary_url": "https://www.aibase.com/news/30882",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "12314046d1a79786aaee1e833190c0810a0ca9ca",
-          "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
-          "title_zh": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+          "title_zh": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
           "title_en": null,
-          "title_original": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+          "title_original": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30876",
+          "url": "https://www.aibase.com/news/30882",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T08:02:09.884497Z"
+          "published_at": "2026-09-07T09:35:18.209501Z"
         }
       ],
       "source_count": 1,
@@ -741,48 +825,48 @@
       ],
       "items": [
         {
-          "id": "12314046d1a79786aaee1e833190c0810a0ca9ca",
-          "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
-          "title_zh": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+          "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+          "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+          "title_zh": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
           "title_en": null,
-          "title_original": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+          "title_original": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30876",
+          "url": "https://www.aibase.com/news/30882",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T08:02:09.884497Z"
+          "published_at": "2026-09-07T09:35:18.209501Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7995,
+        "recency": 0.7983,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-07T08:02:09.884497Z",
-      "latest_at": "2026-09-07T08:02:09.884497Z",
+      "earliest_at": "2026-09-07T09:35:18.209501Z",
+      "latest_at": "2026-09-07T09:35:18.209501Z",
       "primary_item": {
-        "id": "12314046d1a79786aaee1e833190c0810a0ca9ca",
-        "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
-        "title_zh": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+        "id": "a010f69c76ecf055f1f978bd518750a01712274a",
+        "title": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
+        "title_zh": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
         "title_en": null,
-        "title_original": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+        "title_original": "混元 Hy4 preview 升级：专治“想太多”，任务轮次与 Token 消耗双双下降",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30876",
+        "url": "https://www.aibase.com/news/30882",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -790,7 +874,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
@@ -925,15 +1009,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6132,
-      "importance": 0.6132,
-      "importance_score": 0.6132,
+      "score": 0.6096,
+      "importance": 0.6096,
+      "importance_score": 0.6096,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8302,
+        "recency": 0.8106,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -958,30 +1042,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
-      "story_id": "story_e75491e5f031",
-      "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
-      "url": "https://www.aibase.com/news/30874",
-      "primary_url": "https://www.aibase.com/news/30874",
+      "story_id": "story_42766529966d",
+      "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
+      "url": "https://www.aibase.com/news/30881",
+      "primary_url": "https://www.aibase.com/news/30881",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "81d1e83139db57503459d5f56aa14f80e767f09e",
-          "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
-          "title_zh": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+          "id": "3c40c29706fb30323afddb56caa52e9582732a54",
+          "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
+          "title_zh": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
           "title_en": null,
-          "title_original": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+          "title_original": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30874",
+          "url": "https://www.aibase.com/news/30881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T08:02:09.884497Z"
+          "published_at": "2026-09-07T09:35:18.209501Z"
         }
       ],
       "source_count": 1,
@@ -990,48 +1074,48 @@
       ],
       "items": [
         {
-          "id": "81d1e83139db57503459d5f56aa14f80e767f09e",
-          "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
-          "title_zh": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+          "id": "3c40c29706fb30323afddb56caa52e9582732a54",
+          "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
+          "title_zh": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
           "title_en": null,
-          "title_original": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+          "title_original": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30874",
+          "url": "https://www.aibase.com/news/30881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-07T08:02:09.884497Z"
+          "published_at": "2026-09-07T09:35:18.209501Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7995,
+        "recency": 0.7983,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-07T08:02:09.884497Z",
-      "latest_at": "2026-09-07T08:02:09.884497Z",
+      "earliest_at": "2026-09-07T09:35:18.209501Z",
+      "latest_at": "2026-09-07T09:35:18.209501Z",
       "primary_item": {
-        "id": "81d1e83139db57503459d5f56aa14f80e767f09e",
-        "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
-        "title_zh": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+        "id": "3c40c29706fb30323afddb56caa52e9582732a54",
+        "title": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
+        "title_zh": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
         "title_en": null,
-        "title_original": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+        "title_original": "腾讯混元Hy4 preview完成专项优化全量上线，任务轮次与token消耗显著降低",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30874",
+        "url": "https://www.aibase.com/news/30881",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1039,88 +1123,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
-      }
-    },
-    {
-      "story_id": "story_6576f701bc03",
-      "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
-      "url": "https://www.aibase.com/news/30871",
-      "primary_url": "https://www.aibase.com/news/30871",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "276c577da33b6e68591d5ef85d892c00bdf8172c",
-          "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
-          "title_zh": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
-          "title_en": null,
-          "title_original": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30871",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T08:02:09.884497Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "276c577da33b6e68591d5ef85d892c00bdf8172c",
-          "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
-          "title_zh": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
-          "title_en": null,
-          "title_original": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30871",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T08:02:09.884497Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7995,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-07T08:02:09.884497Z",
-      "latest_at": "2026-09-07T08:02:09.884497Z",
-      "primary_item": {
-        "id": "276c577da33b6e68591d5ef85d892c00bdf8172c",
-        "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
-        "title_zh": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
-        "title_en": null,
-        "title_original": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30871",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
@@ -1197,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9365,
+        "recency": 0.9143,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1230,7 +1233,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
@@ -1307,15 +1310,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5834,
-      "importance": 0.5834,
-      "importance_score": 0.5834,
+      "score": 0.5801,
+      "importance": 0.5801,
+      "importance_score": 0.5801,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.7576,
+        "recency": 0.7397,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1340,26 +1343,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
-      "story_id": "story_c480607eabf3",
-      "title": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
-      "url": "https://www.aibase.com/news/30872",
-      "primary_url": "https://www.aibase.com/news/30872",
+      "story_id": "story_2ebcbcb9674f",
+      "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+      "url": "https://www.aibase.com/news/30876",
+      "primary_url": "https://www.aibase.com/news/30876",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2690503e8ebf91a939d49d0b672dbe3191d1c471",
-          "title": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
-          "title_zh": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+          "id": "12314046d1a79786aaee1e833190c0810a0ca9ca",
+          "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+          "title_zh": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
           "title_en": null,
-          "title_original": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+          "title_original": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30872",
+          "url": "https://www.aibase.com/news/30876",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1372,14 +1375,14 @@
       ],
       "items": [
         {
-          "id": "2690503e8ebf91a939d49d0b672dbe3191d1c471",
-          "title": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
-          "title_zh": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+          "id": "12314046d1a79786aaee1e833190c0810a0ca9ca",
+          "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+          "title_zh": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
           "title_en": null,
-          "title_original": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+          "title_original": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30872",
+          "url": "https://www.aibase.com/news/30876",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1388,15 +1391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7995,
+        "recency": 0.7806,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1406,14 +1409,14 @@
       "earliest_at": "2026-09-07T08:02:09.884497Z",
       "latest_at": "2026-09-07T08:02:09.884497Z",
       "primary_item": {
-        "id": "2690503e8ebf91a939d49d0b672dbe3191d1c471",
-        "title": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
-        "title_zh": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+        "id": "12314046d1a79786aaee1e833190c0810a0ca9ca",
+        "title": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
+        "title_zh": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
         "title_en": null,
-        "title_original": "OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架",
+        "title_original": "AI界的数学里程碑：Claude 仅用 11 天拿下费马大定理端到端形式化证明",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30872",
+        "url": "https://www.aibase.com/news/30876",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1421,198 +1424,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
-      }
-    },
-    {
-      "story_id": "story_f5c486b1ef2a",
-      "title": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "url": "https://news.ycombinator.com/item?id=49592366",
-      "primary_url": "https://news.ycombinator.com/item?id=49592366",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-          "title": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_zh": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器",
-          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49592366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:09:51.914000Z"
-        },
-        {
-          "id": "d7279c0d493e7388f747a5b387aace3de8ad3184",
-          "title": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_zh": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器",
-          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T00:21:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-          "title": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_zh": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器",
-          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49592366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T06:09:51.914000Z"
-        },
-        {
-          "id": "d7279c0d493e7388f747a5b387aace3de8ad3184",
-          "title": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_zh": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器",
-          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Staatsgeheim/MathKernel",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T00:21:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5059,
-      "importance": 0.5059,
-      "importance_score": 0.5059,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7782,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T00:21:01Z",
-      "latest_at": "2026-09-07T06:09:51.914000Z",
-      "primary_item": {
-        "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
-        "title": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-        "title_zh": "MathKernel：证据感知的多引擎数学内核及 MCP 服务器",
-        "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-        "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49592366",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
-      }
-    },
-    {
-      "story_id": "story_ba6959090466",
-      "title": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
-      "url": "https://www.aibase.com/news/30875",
-      "primary_url": "https://www.aibase.com/news/30875",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5965c1fd2c278050d8b5b820a9641bdcc6f04178",
-          "title": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
-          "title_zh": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
-          "title_en": null,
-          "title_original": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30875",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T08:02:09.884497Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5965c1fd2c278050d8b5b820a9641bdcc6f04178",
-          "title": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
-          "title_zh": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
-          "title_en": null,
-          "title_original": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30875",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T08:02:09.884497Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7995,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-07T08:02:09.884497Z",
-      "latest_at": "2026-09-07T08:02:09.884497Z",
-      "primary_item": {
-        "id": "5965c1fd2c278050d8b5b820a9641bdcc6f04178",
-        "title": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
-        "title_zh": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
-        "title_en": null,
-        "title_original": "中国大模型调用量连续 19 周领跑全球，腾讯 Hy4 preview 单周暴涨 379%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30875",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
@@ -1689,15 +1501,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5059,
-      "importance": 0.5059,
-      "importance_score": 0.5059,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7782,
+        "recency": 0.7598,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1722,26 +1534,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
-      "story_id": "story_fc8fc80cdf77",
-      "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
-      "url": "https://www.aibase.com/news/30873",
-      "primary_url": "https://www.aibase.com/news/30873",
+      "story_id": "story_e75491e5f031",
+      "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+      "url": "https://www.aibase.com/news/30874",
+      "primary_url": "https://www.aibase.com/news/30874",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "de63239747d4967b618130607f3283ca5282a6d8",
-          "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
-          "title_zh": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "id": "81d1e83139db57503459d5f56aa14f80e767f09e",
+          "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+          "title_zh": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
           "title_en": null,
-          "title_original": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "title_original": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30873",
+          "url": "https://www.aibase.com/news/30874",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1754,14 +1566,14 @@
       ],
       "items": [
         {
-          "id": "de63239747d4967b618130607f3283ca5282a6d8",
-          "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
-          "title_zh": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "id": "81d1e83139db57503459d5f56aa14f80e767f09e",
+          "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+          "title_zh": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
           "title_en": null,
-          "title_original": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+          "title_original": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30873",
+          "url": "https://www.aibase.com/news/30874",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1770,15 +1582,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7995,
+        "recency": 0.7806,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1788,14 +1600,14 @@
       "earliest_at": "2026-09-07T08:02:09.884497Z",
       "latest_at": "2026-09-07T08:02:09.884497Z",
       "primary_item": {
-        "id": "de63239747d4967b618130607f3283ca5282a6d8",
-        "title": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
-        "title_zh": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+        "id": "81d1e83139db57503459d5f56aa14f80e767f09e",
+        "title": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
+        "title_zh": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
         "title_en": null,
-        "title_original": "千问办公推出业内首个\"多人工作台\"，一句话生成可承载百人协作的业务网页",
+        "title_original": "OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30873",
+        "url": "https://www.aibase.com/news/30874",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1803,7 +1615,198 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
+      }
+    },
+    {
+      "story_id": "story_b94cfff5e377",
+      "title": "我拒绝训练可能取代我的AI / I refused to train the AI that could replace me",
+      "url": "https://news.ycombinator.com/item?id=49593959",
+      "primary_url": "https://news.ycombinator.com/item?id=49593959",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
+          "title": "我拒绝训练可能取代我的AI / I refused to train the AI that could replace me",
+          "title_zh": "我拒绝训练可能取代我的AI",
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49593959",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:09:51.914000Z"
+        },
+        {
+          "id": "1f9045f9ada848db2f897ea8f25c60e34021d8a9",
+          "title": "我拒绝训练可能取代我的AI / I refused to train the AI that could replace me",
+          "title_zh": "我拒绝训练可能取代我的AI",
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:38:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
+          "title": "我拒绝训练可能取代我的AI / I refused to train the AI that could replace me",
+          "title_zh": "我拒绝训练可能取代我的AI",
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49593959",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:09:51.914000Z"
+        },
+        {
+          "id": "1f9045f9ada848db2f897ea8f25c60e34021d8a9",
+          "title": "我拒绝训练可能取代我的AI / I refused to train the AI that could replace me",
+          "title_zh": "我拒绝训练可能取代我的AI",
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:38:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7598,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T04:38:22Z",
+      "latest_at": "2026-09-07T06:09:51.914000Z",
+      "primary_item": {
+        "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
+        "title": "我拒绝训练可能取代我的AI / I refused to train the AI that could replace me",
+        "title_zh": "我拒绝训练可能取代我的AI",
+        "title_en": "I refused to train the AI that could replace me",
+        "title_original": "I refused to train the AI that could replace me",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49593959",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T01:27:24.663535Z"
+      }
+    },
+    {
+      "story_id": "story_6576f701bc03",
+      "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+      "url": "https://www.aibase.com/news/30871",
+      "primary_url": "https://www.aibase.com/news/30871",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "276c577da33b6e68591d5ef85d892c00bdf8172c",
+          "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+          "title_zh": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+          "title_en": null,
+          "title_original": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30871",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T08:02:09.884497Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "276c577da33b6e68591d5ef85d892c00bdf8172c",
+          "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+          "title_zh": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+          "title_en": null,
+          "title_original": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30871",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T08:02:09.884497Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7806,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-07T08:02:09.884497Z",
+      "latest_at": "2026-09-07T08:02:09.884497Z",
+      "primary_item": {
+        "id": "276c577da33b6e68591d5ef85d892c00bdf8172c",
+        "title": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+        "title_zh": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+        "title_en": null,
+        "title_original": "OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30871",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     },
     {
@@ -1880,15 +1883,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5511,
-      "importance": 0.5511,
-      "importance_score": 0.5511,
+      "score": 0.5479,
+      "importance": 0.5479,
+      "importance_score": 0.5479,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7633,
+        "recency": 0.7453,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1913,7 +1916,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-07T23:46:36.189042Z"
+        "scored_at": "2026-09-08T01:27:24.663535Z"
       }
     }
   ]
