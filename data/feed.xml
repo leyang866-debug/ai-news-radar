@@ -5,167 +5,167 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 09 Sep 2026 15:06:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:20:02 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>GPT‑5.6 Sol 如何助力开展量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments</title>
-<link>https://openai.com/index/codex-quantum-computing-experiments</link>
-<guid isPermaLink="true">https://openai.com/index/codex-quantum-computing-experiments</guid>
+<title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
+<link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
+<guid isPermaLink="true">https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Wed, 09 Sep 2026 13:29:27 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Remediate Code Quality findings with agentic autofix</title>
-<link>https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix</guid>
+<title>GitHub Copilot app for Beginners: Using the diff, terminal, and browser</title>
+<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Thu, 10 Sep 2026 21:31:19 +0000</pubDate>
+</item>
+<item>
+<title>Refreshed repository pull requests page in public preview</title>
+<link>https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 09 Sep 2026 12:21:01 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 21:27:17 +0000</pubDate>
 </item>
 <item>
-<title>NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem， says NYU mathematician</title>
-<link>https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician</guid>
-<description>NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。（TechCrunch：AI（RSS））</description>
+<title>Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek</title>
+<link>https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek</guid>
+<description>Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。（TechCrunch：AI（RSS））</description>
 <category>多源热议</category>
-<pubDate>Tue, 08 Sep 2026 21:38:06 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 20:57:30 +0000</pubDate>
 </item>
 <item>
-<title>Copilot for JetBrains 中的企业管理沙箱 / Enterprise-managed sandbox in Copilot for JetBrains</title>
-<link>https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains</guid>
+<title>3 ways to prep for your next big race with Search</title>
+<link>https://blog.google/products-and-platforms/products/search/running-race-training-tips</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/running-race-training-tips</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AI Scan for pull request APIs in public preview</title>
+<link>https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 09 Sep 2026 02:43:38 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 20:20:58 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问 / OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs</title>
-<link>https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs</link>
-<guid isPermaLink="true">https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs</guid>
-<description>数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。（The Decoder：AI News（RSS））</description>
+<title>OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work</title>
+<link>https://openai.com/index/put-data-to-work</link>
+<guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark</title>
+<link>https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark</link>
+<guid isPermaLink="true">https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark</guid>
+<description>独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 10:27:37 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 16:33:44 +0000</pubDate>
 </item>
 <item>
-<title>纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明</title>
-<link>https://www.ithome.com/1/000/353.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/000/353.htm</guid>
-<description>纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 09:34:47 +0000</pubDate>
-</item>
-<item>
-<title>NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识 / The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…</title>
-<link>https://x.com/thexpin/status/2097615997616406833</link>
-<guid isPermaLink="true">https://x.com/thexpin/status/2097615997616406833</guid>
-<description>NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。（X：X.PIN (@thexpin)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 09:20:00 +0000</pubDate>
-</item>
-<item>
-<title>美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型 / In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…</title>
-<link>https://x.com/rohanpaul_ai/status/2097605329123147987</link>
-<guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2097605329123147987</guid>
-<description>NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。（X：Rohan Paul (@rohanpaul_ai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 08:37:36 +0000</pubDate>
-</item>
-<item>
-<title>Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明 / friends are regularly surprised when i say i don't think math is （yet） "solved，" so in the wake of t…</title>
-<link>https://x.com/Thom_Wolf/status/2097615465698713666</link>
-<guid isPermaLink="true">https://x.com/Thom_Wolf/status/2097615465698713666</guid>
-<description>Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。（X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 09:17:53 +0000</pubDate>
-</item>
-<item>
-<title>2026外滩大会AI艺术节亮相：AI在上海开唱、办展，探索人机共创新边界</title>
-<link>https://www.aibase.com/news/30936</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30936</guid>
+<title>Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”</title>
+<link>https://www.aibase.com/news/30988</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30988</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 15:06:27 +0000</pubDate>
+<pubDate>Fri, 11 Sep 2026 11:20:02 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future</title>
-<link>https://www.anthropic.com/institute/econ-scenarios</link>
-<guid isPermaLink="true">https://www.anthropic.com/institute/econ-scenarios</guid>
-<description>Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。（Anthropic：The Institute（旗舰研究长文 · 网页））</description>
+<title>实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现</title>
+<link>https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&amp;mid=2247511119&amp;idx=1&amp;sn=0f53b5017e41b16afc9b201966ce2bda</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&amp;mid=2247511119&amp;idx=1&amp;sn=0f53b5017e41b16afc9b201966ce2bda</guid>
+<description>作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。（公众号：卡尔的AI沃茨）</description>
 <category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 13:38:23 +0000</pubDate>
+<pubDate>Fri, 11 Sep 2026 04:24:28 +0000</pubDate>
 </item>
 <item>
-<title>Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议</title>
-<link>https://simonwillison.net/2026/Sep/8/on-navier-stokes</link>
-<guid isPermaLink="true">https://simonwillison.net/2026/Sep/8/on-navier-stokes</guid>
-<description>Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<title>Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发</title>
+<link>https://shopify.engineering/back-to-native</link>
+<guid isPermaLink="true">https://shopify.engineering/back-to-native</guid>
+<description>Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。（Hacker News 热门（buzzing.cc 中文翻译））</description>
 <category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 07:10:03 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 15:04:41 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法 / https://x.com/i/article/2095208140753317888</title>
-<link>https://x.com/ClaudeDevs/status/2097369738968195513</link>
-<guid isPermaLink="true">https://x.com/ClaudeDevs/status/2097369738968195513</guid>
-<description>Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。（X：Claude Devs (@ClaudeDevs)）</description>
-<category>官方更新</category>
-<pubDate>Tue, 08 Sep 2026 17:01:27 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异</title>
-<link>https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&amp;mid=2247510824&amp;idx=1&amp;sn=025a8b7c5fec54d8a00c8632f55f8d98</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&amp;mid=2247510824&amp;idx=1&amp;sn=025a8b7c5fec54d8a00c8632f55f8d98</guid>
-<description>OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。（公众号：卡尔的AI沃茨）</description>
-<category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 00:27:00 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Enterprise Server 3.22 现已全面发布 / GitHub Enterprise Server 3.22 is now generally available</title>
-<link>https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available</guid>
+<title>Control GitHub Actions cache access with cache-mode</title>
+<link>https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 08 Sep 2026 21:52:42 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 17:26:59 +0000</pubDate>
 </item>
 <item>
-<title>Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑 / Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…</title>
-<link>https://x.com/EMostaque/status/2097378223138959719</link>
-<guid isPermaLink="true">https://x.com/EMostaque/status/2097378223138959719</guid>
-<description>Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。（X：Emad Mostaque (@EMostaque)）</description>
+<title>Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models</title>
+<link>https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</link>
+<guid isPermaLink="true">https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</guid>
+<description>Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。（Anthropic：Research（发表成果 · 网页））</description>
 <category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 17:35:10 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 17:28:52 +0000</pubDate>
 </item>
 <item>
-<title>AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用</title>
-<link>https://www.aibase.com/news/30937</link>
-<guid isPermaLink="true">https://www.aibase.com/news/30937</guid>
+<title>Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试</title>
+<link>https://www.aibase.com/news/30999</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30999</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 15:06:27 +0000</pubDate>
+<pubDate>Fri, 11 Sep 2026 11:20:02 +0000</pubDate>
 </item>
 <item>
-<title>Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降 / Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…</title>
-<link>https://x.com/polynoamial/status/2097375837670785447</link>
-<guid isPermaLink="true">https://x.com/polynoamial/status/2097375837670785447</guid>
-<description>Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。（X：Noam Brown (@polynoamial)）</description>
+<title>Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects</title>
+<link>https://cursor.com/blog/projects</link>
+<guid isPermaLink="true">https://cursor.com/blog/projects</guid>
+<description>Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。（Cursor Blog）</description>
 <category>行业动态</category>
-<pubDate>Tue, 08 Sep 2026 17:25:41 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请</title>
-<link>https://www.ithome.com/1/000/188.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/000/188.htm</guid>
-<description>路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。（IT之家（RSS））</description>
+<title>Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk</title>
+<link>https://x.com/elonmusk/status/2098217236771295567</link>
+<guid isPermaLink="true">https://x.com/elonmusk/status/2098217236771295567</guid>
+<description>Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。（X：Elon Musk (@elonmusk, xAI)）</description>
 <category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 06:41:51 +0000</pubDate>
+<pubDate>Fri, 11 Sep 2026 01:09:06 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6 Astra推理等级怎么选才最省Token</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686094&amp;idx=1&amp;sn=c06c40993f7ab28f2302619e4b89986b</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686094&amp;idx=1&amp;sn=c06c40993f7ab28f2302619e4b89986b</guid>
-<description>卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。（公众号：数字生命卡兹克）</description>
+<title>MAI-Code-1-Flash deprecated</title>
+<link>https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 10 Sep 2026 16:54:01 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents</title>
+<link>https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents</link>
+<guid isPermaLink="true">https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents</guid>
+<description>DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
-<pubDate>Wed, 09 Sep 2026 00:09:00 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 12:40:51 +0000</pubDate>
+</item>
+<item>
+<title>Cursor发布Projects功能，一人指挥数千个AI智能体承包大型开发</title>
+<link>https://www.aibase.com/news/30993</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30993</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 11 Sep 2026 11:20:02 +0000</pubDate>
+</item>
+<item>
+<title>Xcode 27 runner image now runs on macOS 27</title>
+<link>https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 10 Sep 2026 15:15:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
