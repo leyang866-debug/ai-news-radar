@@ -5,23 +5,47 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 11 Sep 2026 14:59:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 19:44:54 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub</title>
+<link>https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Fri, 11 Sep 2026 18:26:10 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users</title>
+<link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
+<guid isPermaLink="true">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
+</item>
 <item>
 <title>Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data</title>
 <link>https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data</link>
 <guid isPermaLink="true">https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data</guid>
 <description>Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 13:50:28 +0000</pubDate>
+<category>多源热议</category>
+<pubDate>Fri, 11 Sep 2026 13:54:33 +0000</pubDate>
 </item>
 <item>
-<title>How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</title>
-<link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
-<guid isPermaLink="true">https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</guid>
-<description>OpenAI News</description>
+<title>GitHub Copilot weekly releases — September 7</title>
+<link>https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7</guid>
+<description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
+<pubDate>Thu, 10 Sep 2026 22:55:07 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek</title>
+<link>https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek</guid>
+<description>Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。（TechCrunch：AI（RSS））</description>
+<category>多源热议</category>
+<pubDate>Thu, 10 Sep 2026 20:57:30 +0000</pubDate>
 </item>
 <item>
 <title>适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser</title>
@@ -40,38 +64,6 @@
 <pubDate>Thu, 10 Sep 2026 21:27:17 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek</title>
-<link>https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek</guid>
-<description>Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。（TechCrunch：AI（RSS））</description>
-<category>多源热议</category>
-<pubDate>Thu, 10 Sep 2026 20:57:30 +0000</pubDate>
-</item>
-<item>
-<title>3 ways to prep for your next big race with Search</title>
-<link>https://blog.google/products-and-platforms/products/search/running-race-training-tips</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/running-race-training-tips</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview</title>
-<link>https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 20:20:58 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work</title>
-<link>https://openai.com/index/put-data-to-work</link>
-<guid isPermaLink="true">https://openai.com/index/put-data-to-work</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 15:00:00 +0000</pubDate>
-</item>
-<item>
 <title>具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议</title>
 <link>https://www.aibase.com/news/31002</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31002</guid>
@@ -88,12 +80,20 @@
 <pubDate>Fri, 11 Sep 2026 04:24:28 +0000</pubDate>
 </item>
 <item>
-<title>Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发</title>
-<link>https://shopify.engineering/back-to-native</link>
-<guid isPermaLink="true">https://shopify.engineering/back-to-native</guid>
-<description>Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。（Hacker News 热门（buzzing.cc 中文翻译））</description>
+<title>Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement</title>
+<link>https://www.dwarkesh.com/p/john-beren-charlie</link>
+<guid isPermaLink="true">https://www.dwarkesh.com/p/john-beren-charlie</guid>
+<description>Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。（Dwarkesh Patel：Podcast &amp; Blog（RSS））</description>
 <category>行业动态</category>
-<pubDate>Thu, 10 Sep 2026 15:04:41 +0000</pubDate>
+<pubDate>Fri, 11 Sep 2026 16:28:11 +0000</pubDate>
+</item>
+<item>
+<title>AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview</title>
+<link>https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Thu, 10 Sep 2026 20:20:58 +0000</pubDate>
 </item>
 <item>
 <title>外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”</title>
@@ -104,52 +104,12 @@
 <pubDate>Fri, 11 Sep 2026 14:59:14 +0000</pubDate>
 </item>
 <item>
-<title>Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击 / Swarmchasers" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark</title>
-<link>https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark</link>
-<guid isPermaLink="true">https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark</guid>
-<description>独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Thu, 10 Sep 2026 16:33:44 +0000</pubDate>
-</item>
-<item>
-<title>Control GitHub Actions cache access with cache-mode</title>
-<link>https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 17:26:59 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models</title>
-<link>https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</link>
-<guid isPermaLink="true">https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</guid>
-<description>Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。（Anthropic：Research（发表成果 · 网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 10 Sep 2026 17:28:52 +0000</pubDate>
-</item>
-<item>
-<title>MAI-Code-1-Flash deprecated</title>
-<link>https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 16:54:01 +0000</pubDate>
-</item>
-<item>
 <title>Agent商业化驶入深水区，蚂蚁推出APASS补上“信任基础设施”</title>
 <link>https://www.aibase.com/news/30988</link>
 <guid isPermaLink="true">https://www.aibase.com/news/30988</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 11 Sep 2026 11:20:02 +0000</pubDate>
-</item>
-<item>
-<title>Xcode 27 runner image now runs on macOS 27</title>
-<link>https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Thu, 10 Sep 2026 15:15:36 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试</title>
@@ -166,6 +126,46 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Fri, 11 Sep 2026 11:20:02 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships - WSJ</title>
+<link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMiygFBVV95cUxNaElwSjlfRDJiaDhsR3pkdFlhMDk3cGJXb3NUMHZRNDh0V2tKOVNhR0FTMlUzNFdNOWJRbGNlNE5WV3FJT1l5UjFfV1lvYU1uMVB4ZXdLbjZiZldYMnhtRXdMVURGcnlINEM5Rk5ueldZaDFoczJfZV9Tb2RfdzRLUnFybjZUNDlSaE9pWHJ3NnhXX1ZZS0dqN09xUHNvamtSNkFRSTl4VE9pdy1jR3pfeS1oNFNEMTZMNmZOR0h3dHBjSmFQV1pKOVJR?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Fri, 11 Sep 2026 14:07:51 +0000</pubDate>
+</item>
+<item>
+<title>Show HN: Hacker News, Without AI</title>
+<link>https://www.unslop.news</link>
+<guid isPermaLink="true">https://www.unslop.news</guid>
+<description>Hacker News Front Page</description>
+<category>多源热议</category>
+<pubDate>Fri, 11 Sep 2026 17:01:02 +0000</pubDate>
+</item>
+<item>
+<title>Meta says it&amp;#8217;s changing AI suggestions after posing invasive personal questions</title>
+<link>https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions</link>
+<guid isPermaLink="true">https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions</guid>
+<description>The Verge</description>
+<category>值得关注</category>
+<pubDate>Fri, 11 Sep 2026 14:25:21 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用</title>
+<link>https://www.aibase.com/news/30995</link>
+<guid isPermaLink="true">https://www.aibase.com/news/30995</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 11 Sep 2026 11:20:02 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 声称 Moonshot、DeepSeek 秘密将用户请求转移给 Claude - 南华早报 / Anthropic claims Moonshot, DeepSeek secretly diverted user requests to Claude - South China Morning Post</title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQcHBnY1JTVzF0bEM5d1pZVzBIaHJRSERic0lvMnhGZ3JJZXlRMmpWTUNmTGZ4MEJoeFhTWG82bHV3ZHFULTRXSlBKaHFXLTVaS2piYVhVdHFlUmNqMlhkQnNCeUxsbkdyVlJ3ZHo2QW45bDc2YXNoZlRlYXpPeUVXOFdQM1FYUkw3bWhoSHJCNng4ZUNQODVjWHg4S01YMnI4NDBXQ3BXd2Q0ano4dzRkMEdnNG1rZ1ZHOEdqaU5IbG9wQmlQ0gHEAUFVX3lxTE9MNFVycTNTSzIyVU41WXVuMnFDUFdkRW5CTkRtQXRudVVSUmpac1NKOHgzZWNlYXQ1dVJFUFhna2wxUlF0Z0hnTndUMUljTEVnc0NlRzQ2UFpzQTgySFhLT244aU5iOWJwaENQUVZPV1NxLUhnMkNGY0hDdDVIRlFFRFJPT2FVT3BFSlBJNktwZFNjNlZITHViQ2FXSFZLNkUzaHJOckk3anhiaHNJU3NEeEdtMk1hQXptd184eW1EUXo1SWM?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMixAFBVV95cUxQcHBnY1JTVzF0bEM5d1pZVzBIaHJRSERic0lvMnhGZ3JJZXlRMmpWTUNmTGZ4MEJoeFhTWG82bHV3ZHFULTRXSlBKaHFXLTVaS2piYVhVdHFlUmNqMlhkQnNCeUxsbkdyVlJ3ZHo2QW45bDc2YXNoZlRlYXpPeUVXOFdQM1FYUkw3bWhoSHJCNng4ZUNQODVjWHg4S01YMnI4NDBXQ3BXd2Q0ano4dzRkMEdnNG1rZ1ZHOEdqaU5IbG9wQmlQ0gHEAUFVX3lxTE9MNFVycTNTSzIyVU41WXVuMnFDUFdkRW5CTkRtQXRudVVSUmpac1NKOHgzZWNlYXQ1dVJFUFhna2wxUlF0Z0hnTndUMUljTEVnc0NlRzQ2UFpzQTgySFhLT244aU5iOWJwaENQUVZPV1NxLUhnMkNGY0hDdDVIRlFFRFJPT2FVT3BFSlBJNktwZFNjNlZITHViQ2FXSFZLNkUzaHJOckk3anhiaHNJU3NEeEdtMk1hQXptd184eW1EUXo1SWM?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Thu, 10 Sep 2026 23:23:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
