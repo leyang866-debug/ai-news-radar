@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:18:27.582600Z",
+  "generated_at": "2026-09-12T17:07:37.386221Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T09:18:27.582600Z",
-      "latest_at": "2026-09-12T09:18:27.582600Z",
+      "earliest_at": "2026-09-12T17:07:37.386221Z",
+      "latest_at": "2026-09-12T17:07:37.386221Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8067,
+        "recency": 0.7206,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8433,
+        "recency": 0.7533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
@@ -385,15 +385,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8794,
+        "recency": 0.7855,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -420,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
@@ -526,15 +526,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9085,
+        "recency": 0.8115,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -561,148 +561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
-      }
-    },
-    {
-      "story_id": "story_190cbcad46f4",
-      "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-      "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-      "primary_url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
-          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-          "title_en": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "title_original": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T13:50:28Z"
-        },
-        {
-          "id": "f2ba85b0a06eff9811d7f1e893918c758ce7387f",
-          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-          "title_en": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-          "title_original": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-11T13:50:28Z"
-        },
-        {
-          "id": "d6cdd6553b930b4d589d5496264fdaecbf041845",
-          "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data - the-decoder.com",
-          "title_zh": null,
-          "title_en": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data - the-decoder.com",
-          "title_original": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data - the-decoder.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc2R6dlJMUVBuWldsS3hYU1Foc0cwOWduRmtzaTJYTlJtaXYxSFItTnFhYXhwSmZIc3AydlQ5YmdTYmNsZkZ6aWdrMk5GSU4tR010Qllzck5qTXB4Y0FGdmcyNXA1Uml0VE9lckJiYnVhMGREN1dTUVhNbFlWS05SVkhHN2hDYUVpM1VIVnlvTm05UWpVMk8yNjlJLU1UNkFwMkE2OHFHaHprbFZXQV9POXU2Z1BuajhxNDJZZFdMd1E3VEI3UDhOeUktWXhROG40WU9v?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T13:54:33Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "GNews: Anthropic Claude",
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
-          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-          "title_en": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "title_original": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-          "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T13:50:28Z"
-        },
-        {
-          "id": "f2ba85b0a06eff9811d7f1e893918c758ce7387f",
-          "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-          "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-          "title_en": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-          "title_original": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-11T13:50:28Z"
-        },
-        {
-          "id": "d6cdd6553b930b4d589d5496264fdaecbf041845",
-          "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data - the-decoder.com",
-          "title_zh": null,
-          "title_en": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data - the-decoder.com",
-          "title_original": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data - the-decoder.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc2R6dlJMUVBuWldsS3hYU1Foc0cwOWduRmtzaTJYTlJtaXYxSFItTnFhYXhwSmZIc3AydlQ5YmdTYmNsZkZ6aWdrMk5GSU4tR010Qllzck5qTXB4Y0FGdmcyNXA1Uml0VE9lckJiYnVhMGREN1dTUVhNbFlWS05SVkhHN2hDYUVpM1VIVnlvTm05UWpVMk8yNjlJLU1UNkFwMkE2OHFHaHprbFZXQV9POXU2Z1BuajhxNDJZZFdMd1E3VEI3UDhOeUktWXhROG40WU9v?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T13:54:33Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7549,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T13:50:28Z",
-      "latest_at": "2026-09-11T13:54:33Z",
-      "primary_item": {
-        "id": "e4b7f842e6f992b30f1c3f0e089721de19e4284c",
-        "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据 / How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-        "title_zh": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-        "title_en": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-        "title_original": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-        "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
@@ -750,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8252,
+        "recency": 0.7371,
         "story_heat": 0.0
       },
       "category": "official",
@@ -785,90 +644,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
-      "story_id": "story_09d1422e2596",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "primary_url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_964468d18cc3",
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+      "url": "https://x.com/sama/status/2098811563415150910",
+      "primary_url": "https://x.com/sama/status/2098811563415150910",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "title_zh": null,
-          "title_en": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "title_original": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "summary": null,
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T16:00:00Z"
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：Sam Altman (@sama)"
       ],
       "items": [
         {
-          "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "title_zh": null,
-          "title_en": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "title_original": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "summary": null,
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+          "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T16:00:00Z"
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
-      "importance_label": "官方更新",
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7789,
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9912,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T16:00:00Z",
-      "latest_at": "2026-09-11T16:00:00Z",
+      "earliest_at": "2026-09-12T16:30:45Z",
+      "latest_at": "2026-09-12T16:30:45Z",
       "primary_item": {
-        "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
-        "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-        "title_zh": null,
-        "title_en": "Cognition helps Devin test its own work with GPT‑6 Astra",
-        "title_original": "Cognition helps Devin test its own work with GPT‑6 Astra",
-        "summary": null,
+        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+        "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+        "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+        "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+        "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://x.com/sama/status/2098811563415150910",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
+      }
+    },
+    {
+      "story_id": "story_30eddadc9249",
+      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
+      "url": "https://suno.com/blog/introducing-v6",
+      "primary_url": "https://suno.com/blog/introducing-v6",
+      "source": "Suno：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
+          "title_zh": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+          "title_en": "Introducing v6",
+          "title_original": "Introducing v6",
+          "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
+          "recommend_reason_zh": null,
+          "url": "https://suno.com/blog/introducing-v6",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:39:24.855000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Suno：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
+          "title_zh": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+          "title_en": "Introducing v6",
+          "title_original": "Introducing v6",
+          "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
+          "recommend_reason_zh": null,
+          "url": "https://suno.com/blog/introducing-v6",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:39:24.855000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9932,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T16:39:24.855000Z",
+      "latest_at": "2026-09-12T16:39:24.855000Z",
+      "primary_item": {
+        "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
+        "title_zh": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+        "title_en": "Introducing v6",
+        "title_original": "Introducing v6",
+        "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
+        "recommend_reason_zh": null,
+        "url": "https://suno.com/blog/introducing-v6",
+        "source": "Suno：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
@@ -916,21 +856,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8664,
+        "recency": 0.7739,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-11T23:22:39Z",
       "latest_at": "2026-09-11T23:22:39Z",
@@ -950,363 +889,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
-      "story_id": "story_e0d5d5d34cc3",
-      "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "primary_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_6da084318e9f",
+      "title": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5",
+      "source": "GNews: Anthropic Claude",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "title_zh": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-          "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "id": "d72d0acb87767bedb4b792afad655d47fcca8506",
+          "title": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
+          "title_zh": null,
+          "title_en": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
+          "title_original": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "title_zh": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-          "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T10:00:00Z",
-      "latest_at": "2026-09-11T10:00:00Z",
-      "primary_item": {
-        "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-        "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "title_zh": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-        "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "title_original": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
-      }
-    },
-    {
-      "story_id": "story_e95b34cb28f9",
-      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T16:28:11Z"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T15:27:45Z"
         },
         {
-          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_en": null,
-          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "id": "4cef099d2186bb8b9d1077da5ba820b4c62b49e1",
+          "title": "Nvidia may bankroll Anthropics massive IPO",
+          "title_zh": null,
+          "title_en": "Nvidia may bankroll Anthropics massive IPO",
+          "title_original": "Nvidia may bankroll Anthropics massive IPO",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "www.dwarkesh.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T08:31:36.686000Z"
+          "url": "https://mashable.com/tech/nvidia-could-bankroll-anthropic-ipo",
+          "source": "Mashable",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T14:59:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "www.dwarkesh.com"
+        "GNews: Anthropic Claude",
+        "Mashable"
       ],
       "items": [
         {
-          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T16:28:11Z"
-        },
-        {
-          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_en": null,
-          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "id": "d72d0acb87767bedb4b792afad655d47fcca8506",
+          "title": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
+          "title_zh": null,
+          "title_en": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
+          "title_original": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "www.dwarkesh.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T08:31:36.686000Z"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T15:27:45Z"
+        },
+        {
+          "id": "4cef099d2186bb8b9d1077da5ba820b4c62b49e1",
+          "title": "Nvidia may bankroll Anthropics massive IPO",
+          "title_zh": null,
+          "title_en": "Nvidia may bankroll Anthropics massive IPO",
+          "title_original": "Nvidia may bankroll Anthropics massive IPO",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mashable.com/tech/nvidia-could-bankroll-anthropic-ipo",
+          "source": "Mashable",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T14:59:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
-      "importance_label": "行业动态",
+      "score": 0.6227,
+      "importance": 0.6227,
+      "importance_score": 0.6227,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7842,
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.9762,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-11T16:28:11Z",
-      "latest_at": "2026-09-12T08:31:36.686000Z",
+      "earliest_at": "2026-09-12T14:59:36Z",
+      "latest_at": "2026-09-12T15:27:45Z",
       "primary_item": {
-        "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-        "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-        "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-        "title_en": "AI researchers debate how close we are to recursive self-improvement",
-        "title_original": "AI researchers debate how close we are to recursive self-improvement",
-        "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
-      }
-    },
-    {
-      "story_id": "story_f3588b8a4eb3",
-      "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-      "url": "https://www.aibase.com/news/31002",
-      "primary_url": "https://www.aibase.com/news/31002",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "title_en": null,
-          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T14:59:14.103209Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "title_en": null,
-          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T14:59:14.103209Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7675,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T14:59:14.103209Z",
-      "latest_at": "2026-09-11T14:59:14.103209Z",
-      "primary_item": {
-        "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-        "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-        "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-        "title_en": null,
-        "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "id": "d72d0acb87767bedb4b792afad655d47fcca8506",
+        "title": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
+        "title_zh": null,
+        "title_en": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
+        "title_original": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31002",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5",
+        "source": "GNews: Anthropic Claude",
+        "source_name": "OPML RSS"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
-      }
-    },
-    {
-      "story_id": "story_f62bfdadd23e",
-      "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-      "url": "https://www.aibase.com/news/31003",
-      "primary_url": "https://www.aibase.com/news/31003",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "title_en": null,
-          "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T14:59:14.103209Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "title_en": null,
-          "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T14:59:14.103209Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7675,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T14:59:14.103209Z",
-      "latest_at": "2026-09-11T14:59:14.103209Z",
-      "primary_item": {
-        "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-        "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-        "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-        "title_en": null,
-        "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31003",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
@@ -1383,15 +1076,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6194,
-      "importance": 0.6194,
-      "importance_score": 0.6194,
+      "score": 0.6034,
+      "importance": 0.6034,
+      "importance_score": 0.6034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8371,
+        "recency": 0.7477,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1416,44 +1109,264 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
-      "story_id": "story_14d6cd6ca7bd",
-      "title": "《Anthropic》详细介绍了不良行为者滥用人工智能制造生物武器的行为 - 《卫报》 / Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTIwVWNDN0RvcEhNZHl6cThaWnhtcVlyN2hfWTl2REYzQ0JuWk5GX1pvcHZVRllvS19WckxaQWpaNkVFMFFqX0RXd0hiazlzNVdNQWV4T1E2bXY5SnFMVFptaTNybHNKazgwLVhVMEsyOW4ydFJTcmFiVWxJb29wUl93Um8tMUowTFUySWxn?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTIwVWNDN0RvcEhNZHl6cThaWnhtcVlyN2hfWTl2REYzQ0JuWk5GX1pvcHZVRllvS19WckxaQWpaNkVFMFFqX0RXd0hiazlzNVdNQWV4T1E2bXY5SnFMVFptaTNybHNKazgwLVhVMEsyOW4ydFJTcmFiVWxJb29wUl93Um8tMUowTFUySWxn?oc=5",
+      "story_id": "story_04ba099f0ac6",
+      "title": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdl9CNzFpU1IyZjY1T2hTbFpCZUJpbFFzRVlIeFJxdFJRQVlYVkhmaEpfUDNvOGhXbkl3VFpoaGU1Q3FJaWdBTnBlSjVULUlqU0NwMGZZVDVkdmJsSVlKajVKbDVjR3VxUnpuaW14WHpCd1Nsb2ZxQnJkXzRzV2szWDNTWjdkdw?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdl9CNzFpU1IyZjY1T2hTbFpCZUJpbFFzRVlIeFJxdFJRQVlYVkhmaEpfUDNvOGhXbkl3VFpoaGU1Q3FJaWdBTnBlSjVULUlqU0NwMGZZVDVkdmJsSVlKajVKbDVjR3VxUnpuaW14WHpCd1Nsb2ZxQnJkXzRzV2szWDNTWjdkdw?oc=5",
       "source": "GNews: Anthropic Claude",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "b1d673e48c4c055e9f0cb63a7ede916b63bee6fa",
-          "title": "《Anthropic》详细介绍了不良行为者滥用人工智能制造生物武器的行为 - 《卫报》 / Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian",
-          "title_zh": "《Anthropic》详细介绍了不良行为者滥用人工智能制造生物武器的行为 - 《卫报》",
-          "title_en": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian",
-          "title_original": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian",
+          "id": "3ff33d9376f79fa10f7a5670fe642b88bd1de65f",
+          "title": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - businessinsider.com",
+          "title_zh": null,
+          "title_en": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - businessinsider.com",
+          "title_original": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - businessinsider.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTIwVWNDN0RvcEhNZHl6cThaWnhtcVlyN2hfWTl2REYzQ0JuWk5GX1pvcHZVRllvS19WckxaQWpaNkVFMFFqX0RXd0hiazlzNVdNQWV4T1E2bXY5SnFMVFptaTNybHNKazgwLVhVMEsyOW4ydFJTcmFiVWxJb29wUl93Um8tMUowTFUySWxn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdl9CNzFpU1IyZjY1T2hTbFpCZUJpbFFzRVlIeFJxdFJRQVlYVkhmaEpfUDNvOGhXbkl3VFpoaGU1Q3FJaWdBTnBlSjVULUlqU0NwMGZZVDVkdmJsSVlKajVKbDVjR3VxUnpuaW14WHpCd1Nsb2ZxQnJkXzRzV2szWDNTWjdkdw?oc=5",
           "source": "GNews: Anthropic Claude",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-12T01:31:00Z"
+          "published_at": "2026-09-12T09:47:16Z"
         },
         {
-          "id": "94a5864cc4c6aba6a38c4e61bb874dc0a50b58e1",
-          "title": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
-          "title_zh": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
-          "title_en": null,
-          "title_original": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
+          "id": "05c025cbbb8091a08fe2eb14a7ee522f309c5e3c",
+          "title": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back.",
+          "title_zh": null,
+          "title_en": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back.",
+          "title_original": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTIwVWNDN0RvcEhNZHl6cThaWnhtcVlyN2hfWTl2REYzQ0JuWk5GX1pvcHZVRllvS19WckxaQWpaNkVFMFFqX0RXd0hiazlzNVdNQWV4T1E2bXY5SnFMVFptaTNybHNKazgwLVhVMEsyOW4ydFJTcmFiVWxJb29wUl93Um8tMUowTFUySWxn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T09:47:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "GNews: Anthropic Claude"
+      ],
+      "items": [
+        {
+          "id": "3ff33d9376f79fa10f7a5670fe642b88bd1de65f",
+          "title": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - businessinsider.com",
+          "title_zh": null,
+          "title_en": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - businessinsider.com",
+          "title_original": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - businessinsider.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdl9CNzFpU1IyZjY1T2hTbFpCZUJpbFFzRVlIeFJxdFJRQVlYVkhmaEpfUDNvOGhXbkl3VFpoaGU1Q3FJaWdBTnBlSjVULUlqU0NwMGZZVDVkdmJsSVlKajVKbDVjR3VxUnpuaW14WHpCd1Nsb2ZxQnJkXzRzV2szWDNTWjdkdw?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T09:47:16Z"
+        },
+        {
+          "id": "05c025cbbb8091a08fe2eb14a7ee522f309c5e3c",
+          "title": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back.",
+          "title_zh": null,
+          "title_en": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back.",
+          "title_original": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T09:47:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6214,
+      "importance": 0.6214,
+      "importance_score": 0.6214,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.5,
+        "ai_relevance": 0.78,
+        "recency": 0.8994,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T09:47:01Z",
+      "latest_at": "2026-09-12T09:47:16Z",
+      "primary_item": {
+        "id": "3ff33d9376f79fa10f7a5670fe642b88bd1de65f",
+        "title": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - businessinsider.com",
+        "title_zh": null,
+        "title_en": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - businessinsider.com",
+        "title_original": "A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - businessinsider.com",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdl9CNzFpU1IyZjY1T2hTbFpCZUJpbFFzRVlIeFJxdFJRQVlYVkhmaEpfUDNvOGhXbkl3VFpoaGU1Q3FJaWdBTnBlSjVULUlqU0NwMGZZVDVkdmJsSVlKajVKbDVjR3VxUnpuaW14WHpCd1Nsb2ZxQnJkXzRzV2szWDNTWjdkdw?oc=5",
+        "source": "GNews: Anthropic Claude",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T17:42:20.951463Z"
+      }
+    },
+    {
+      "story_id": "story_910862ed59f6",
+      "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "Hacker News Front Page",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "7a77edf94a5633e4726c763cb60a072842a25c08",
+          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "title_en": "Nvidia is the central bank of AI",
+          "title_original": "Nvidia is the central bank of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News Front Page",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T15:08:27Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的“中央银行”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News Front Page",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "7a77edf94a5633e4726c763cb60a072842a25c08",
+          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "title_en": "Nvidia is the central bank of AI",
+          "title_original": "Nvidia is the central bank of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News Front Page",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T15:08:27Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的“中央银行”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5886,
+      "importance": 0.5886,
+      "importance_score": 0.5886,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4824,
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.9717,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T15:08:27Z",
+      "latest_at": "2026-09-12T16:37:21.932000Z",
+      "primary_item": {
+        "id": "7a77edf94a5633e4726c763cb60a072842a25c08",
+        "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+        "title_zh": "英伟达是人工智能领域的“中央银行”",
+        "title_en": "Nvidia is the central bank of AI",
+        "title_original": "Nvidia is the central bank of AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "source": "Hacker News Front Page",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T17:42:20.951463Z"
+      }
+    },
+    {
+      "story_id": "story_100d29f6be51",
+      "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5",
+      "source": "GNews: Anthropic Claude",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "e47f54100206973d3e9824a85b1d456346b38536",
+          "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
+          "title_zh": null,
+          "title_en": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
+          "title_original": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-12T13:21:04Z"
+        },
+        {
+          "id": "fce1cb80752274c812c690073cb681a54f20e04d",
+          "title": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式 - Axios",
+          "title_zh": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式 - Axios",
+          "title_en": null,
+          "title_original": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式 - Axios",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "source": "news.google.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-11T09:33:56.233000Z"
+          "published_at": "2026-09-12T14:30:21.149000Z"
         }
       ],
       "source_count": 2,
@@ -1463,62 +1376,62 @@
       ],
       "items": [
         {
-          "id": "b1d673e48c4c055e9f0cb63a7ede916b63bee6fa",
-          "title": "《Anthropic》详细介绍了不良行为者滥用人工智能制造生物武器的行为 - 《卫报》 / Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian",
-          "title_zh": "《Anthropic》详细介绍了不良行为者滥用人工智能制造生物武器的行为 - 《卫报》",
-          "title_en": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian",
-          "title_original": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian",
+          "id": "e47f54100206973d3e9824a85b1d456346b38536",
+          "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
+          "title_zh": null,
+          "title_en": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
+          "title_original": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTIwVWNDN0RvcEhNZHl6cThaWnhtcVlyN2hfWTl2REYzQ0JuWk5GX1pvcHZVRllvS19WckxaQWpaNkVFMFFqX0RXd0hiazlzNVdNQWV4T1E2bXY5SnFMVFptaTNybHNKazgwLVhVMEsyOW4ydFJTcmFiVWxJb29wUl93Um8tMUowTFUySWxn?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5",
           "source": "GNews: Anthropic Claude",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-12T01:31:00Z"
+          "published_at": "2026-09-12T13:21:04Z"
         },
         {
-          "id": "94a5864cc4c6aba6a38c4e61bb874dc0a50b58e1",
-          "title": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
-          "title_zh": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
+          "id": "fce1cb80752274c812c690073cb681a54f20e04d",
+          "title": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式 - Axios",
+          "title_zh": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式 - Axios",
           "title_en": null,
-          "title_original": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
+          "title_original": "Anthropic报告：Claude被用于战争、间谍活动和镇压的5种方式 - Axios",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTIwVWNDN0RvcEhNZHl6cThaWnhtcVlyN2hfWTl2REYzQ0JuWk5GX1pvcHZVRllvS19WckxaQWpaNkVFMFFqX0RXd0hiazlzNVdNQWV4T1E2bXY5SnFMVFptaTNybHNKazgwLVhVMEsyOW4ydFJTcmFiVWxJb29wUl93Um8tMUowTFUySWxn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
           "source": "news.google.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-11T09:33:56.233000Z"
+          "published_at": "2026-09-12T14:30:21.149000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6078,
-      "importance": 0.6078,
-      "importance_score": 0.6078,
+      "score": 0.6174,
+      "importance": 0.6174,
+      "importance_score": 0.6174,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8936,
+        "recency": 0.9469,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-11T09:33:56.233000Z",
-      "latest_at": "2026-09-12T01:31:00Z",
+      "earliest_at": "2026-09-12T13:21:04Z",
+      "latest_at": "2026-09-12T14:30:21.149000Z",
       "primary_item": {
-        "id": "b1d673e48c4c055e9f0cb63a7ede916b63bee6fa",
-        "title": "《Anthropic》详细介绍了不良行为者滥用人工智能制造生物武器的行为 - 《卫报》 / Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian",
-        "title_zh": "《Anthropic》详细介绍了不良行为者滥用人工智能制造生物武器的行为 - 《卫报》",
-        "title_en": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian",
-        "title_original": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian",
+        "id": "e47f54100206973d3e9824a85b1d456346b38536",
+        "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
+        "title_zh": null,
+        "title_en": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
+        "title_original": "Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTIwVWNDN0RvcEhNZHl6cThaWnhtcVlyN2hfWTl2REYzQ0JuWk5GX1pvcHZVRllvS19WckxaQWpaNkVFMFFqX0RXd0hiazlzNVdNQWV4T1E2bXY5SnFMVFptaTNybHNKazgwLVhVMEsyOW4ydFJTcmFiVWxJb29wUl93Um8tMUowTFUySWxn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5",
         "source": "GNews: Anthropic Claude",
         "source_name": "OPML RSS"
       },
@@ -1526,503 +1439,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
-      "story_id": "story_605db3706162",
-      "title": "Feeling sad about AI",
-      "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
-      "primary_url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
-      "source": "Simon Willison",
-      "source_name": "OPML RSS",
+      "story_id": "story_ed95b5a9cf8e",
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+      "primary_url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "9ec5910c39ef5cfa3c7bfa1d428776e8b2293f80",
-          "title": "Feeling sad about AI",
+          "id": "4e5baa8df153440b5a918547666cd68901d6207c",
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "title_zh": null,
-          "title_en": "Feeling sad about AI",
-          "title_original": "Feeling sad about AI",
+          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T17:28:37Z"
+          "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T16:56:52Z"
         },
         {
-          "id": "1cc954518e9d372f96c0de619207d26b9b0445d1",
-          "title": "对人工智能感到难过",
-          "title_zh": "对人工智能感到难过",
-          "title_en": null,
-          "title_original": "对人工智能感到难过",
+          "id": "6799781635e87dd59afdb1d7924d495d8ba833eb",
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "title_zh": null,
+          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "artificialworlds.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:48:00.960000Z"
-        },
-        {
-          "id": "d2d4701bfc7319ffe2be1c4e379cb3a92290d4d8",
-          "title": "对人工智能感到难过 / Feeling Sad about AI",
-          "title_zh": "对人工智能感到难过",
-          "title_en": "Feeling Sad about AI",
-          "title_original": "Feeling Sad about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "Hacker News",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-11T16:50:51Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Simon Willison",
-        "artificialworlds.net"
-      ],
-      "items": [
-        {
-          "id": "9ec5910c39ef5cfa3c7bfa1d428776e8b2293f80",
-          "title": "Feeling sad about AI",
-          "title_zh": null,
-          "title_en": "Feeling sad about AI",
-          "title_original": "Feeling sad about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T17:28:37Z"
-        },
-        {
-          "id": "1cc954518e9d372f96c0de619207d26b9b0445d1",
-          "title": "对人工智能感到难过",
-          "title_zh": "对人工智能感到难过",
-          "title_en": null,
-          "title_original": "对人工智能感到难过",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "artificialworlds.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:48:00.960000Z"
-        },
-        {
-          "id": "d2d4701bfc7319ffe2be1c4e379cb3a92290d4d8",
-          "title": "对人工智能感到难过 / Feeling Sad about AI",
-          "title_zh": "对人工智能感到难过",
-          "title_en": "Feeling Sad about AI",
-          "title_original": "Feeling Sad about AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T16:50:51Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5819,
-      "importance": 0.5819,
-      "importance_score": 0.5819,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.7956,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T16:50:51Z",
-      "latest_at": "2026-09-11T17:48:00.960000Z",
-      "primary_item": {
-        "id": "9ec5910c39ef5cfa3c7bfa1d428776e8b2293f80",
-        "title": "Feeling sad about AI",
-        "title_zh": null,
-        "title_en": "Feeling sad about AI",
-        "title_original": "Feeling sad about AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
-        "source": "Simon Willison",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
-      }
-    },
-    {
-      "story_id": "story_97c60c12a061",
-      "title": "Show HN: Hacker News, Without AI",
-      "url": "https://www.unslop.news",
-      "primary_url": "https://www.unslop.news",
-      "source": "Hacker News Front Page",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "db8f461b80adb4796d156d6ea3027937c88ee460",
-          "title": "Show HN: Hacker News, Without AI",
-          "title_zh": null,
-          "title_en": "Show HN: Hacker News, Without AI",
-          "title_original": "Show HN: Hacker News, Without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.unslop.news",
-          "source": "Hacker News Front Page",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T16:08:50Z"
-        },
-        {
-          "id": "ab898550e7375019bb0328481497522fbf2efbc8",
-          "title": "Show HN: Hacker News，不含人工智能",
-          "title_zh": "Show HN: Hacker News，不含人工智能",
-          "title_en": null,
-          "title_original": "Show HN: Hacker News，不含人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hcker.news/?ai=exclude",
-          "source": "hcker.news",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:01:02.180000Z"
-        },
-        {
-          "id": "e65f4a168b6b221aeb4c389370c2e1f8f7446e17",
-          "title": "Show HN: Hacker News，不含人工智能 / Show HN: Hacker News, without AI",
-          "title_zh": "Show HN: Hacker News，不含人工智能",
-          "title_en": "Show HN: Hacker News, without AI",
-          "title_original": "Show HN: Hacker News, without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hcker.news/?ai=exclude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T15:01:19Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News Front Page",
-        "Hacker News · 24h最热",
-        "hcker.news"
-      ],
-      "items": [
-        {
-          "id": "db8f461b80adb4796d156d6ea3027937c88ee460",
-          "title": "Show HN: Hacker News, Without AI",
-          "title_zh": null,
-          "title_en": "Show HN: Hacker News, Without AI",
-          "title_original": "Show HN: Hacker News, Without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.unslop.news",
-          "source": "Hacker News Front Page",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T16:08:50Z"
-        },
-        {
-          "id": "ab898550e7375019bb0328481497522fbf2efbc8",
-          "title": "Show HN: Hacker News，不含人工智能",
-          "title_zh": "Show HN: Hacker News，不含人工智能",
-          "title_en": null,
-          "title_original": "Show HN: Hacker News，不含人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hcker.news/?ai=exclude",
-          "source": "hcker.news",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:01:02.180000Z"
-        },
-        {
-          "id": "e65f4a168b6b221aeb4c389370c2e1f8f7446e17",
-          "title": "Show HN: Hacker News，不含人工智能 / Show HN: Hacker News, without AI",
-          "title_zh": "Show HN: Hacker News，不含人工智能",
-          "title_en": "Show HN: Hacker News, without AI",
-          "title_original": "Show HN: Hacker News, without AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hcker.news/?ai=exclude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T15:01:19Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5792,
-      "importance": 0.5792,
-      "importance_score": 0.5792,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.5,
-        "ai_relevance": 0.67,
-        "recency": 0.7805,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T15:01:19Z",
-      "latest_at": "2026-09-11T17:01:02.180000Z",
-      "primary_item": {
-        "id": "db8f461b80adb4796d156d6ea3027937c88ee460",
-        "title": "Show HN: Hacker News, Without AI",
-        "title_zh": null,
-        "title_en": "Show HN: Hacker News, Without AI",
-        "title_original": "Show HN: Hacker News, Without AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.unslop.news",
-        "source": "Hacker News Front Page",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
-      }
-    },
-    {
-      "story_id": "story_7dcbe59ddef0",
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "primary_url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
-          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-          "title_zh": null,
-          "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-          "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-11T14:25:21Z"
-        },
-        {
-          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
-          "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-          "title_zh": null,
-          "title_en": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-          "title_original": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T14:25:21Z"
+          "published_at": "2026-09-12T15:37:39Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Verge"
+        "BBC News",
+        "Hacker News (黑客新闻)"
       ],
       "items": [
         {
-          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
-          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "id": "4e5baa8df153440b5a918547666cd68901d6207c",
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "title_zh": null,
-          "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-          "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-11T14:25:21Z"
+          "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T16:56:52Z"
         },
         {
-          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
-          "title": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "id": "6799781635e87dd59afdb1d7924d495d8ba833eb",
+          "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "title_zh": null,
-          "title_en": "Meta says it’s changing AI suggestions after posing invasive personal questions",
-          "title_original": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
+          "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-          "source": "The Verge",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-11T14:25:21Z"
+          "published_at": "2026-09-12T15:37:39Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5725,
-      "importance": 0.5725,
-      "importance_score": 0.5725,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7613,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9974,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-11T14:25:21Z",
-      "latest_at": "2026-09-11T14:25:21Z",
+      "earliest_at": "2026-09-12T15:37:39Z",
+      "latest_at": "2026-09-12T16:56:52Z",
       "primary_item": {
-        "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
-        "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "id": "4e5baa8df153440b5a918547666cd68901d6207c",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "title_zh": null,
-        "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-        "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
-      }
-    },
-    {
-      "story_id": "story_0a9c768075d0",
-      "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5",
-      "source": "GNews: Anthropic Claude",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "6b25e4776f6d4e861ca12ccc1a701b5b39eb16b9",
-          "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
-          "title_zh": null,
-          "title_en": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
-          "title_original": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T19:46:34Z"
-        },
-        {
-          "id": "3db36fccfed0cf75af5ace65e55140409bd81cb3",
-          "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
-          "title_zh": null,
-          "title_en": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
-          "title_original": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON05WSmFCWGV3RGFkaVBOMlJIU2wwYTZEU0stNkxqd1ZOc1VNRlFqcHhSZXpmV3pLcVVGWVFLM1dVTGtsS3l5LTZmaHg3aU0weDdpV0ZHU1gyV3V6MmZHaVZFbUo4eF9zenFnX25XRUI1SmdMZ21rU0RLbkxKZ0ZrQVpkOVNNUVdXQ0tMSmlrT0h2X1A2akxTeG9CanB0Q0J2LUVILWNzbTk2elk4NVBYZHU4NjZzRlZCTlhkY1pOMVR3Ym9FLWNNaXhXdXkxR0E?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T18:53:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GNews: Anthropic Claude"
-      ],
-      "items": [
-        {
-          "id": "6b25e4776f6d4e861ca12ccc1a701b5b39eb16b9",
-          "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
-          "title_zh": null,
-          "title_en": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
-          "title_original": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T19:46:34Z"
-        },
-        {
-          "id": "3db36fccfed0cf75af5ace65e55140409bd81cb3",
-          "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
-          "title_zh": null,
-          "title_en": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
-          "title_original": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON05WSmFCWGV3RGFkaVBOMlJIU2wwYTZEU0stNkxqd1ZOc1VNRlFqcHhSZXpmV3pLcVVGWVFLM1dVTGtsS3l5LTZmaHg3aU0weDdpV0ZHU1gyV3V6MmZHaVZFbUo4eF9zenFnX25XRUI1SmdMZ21rU0RLbkxKZ0ZrQVpkOVNNUVdXQ0tMSmlrT0h2X1A2akxTeG9CanB0Q0J2LUVILWNzbTk2elk4NVBYZHU4NjZzRlZCTlhkY1pOMVR3Ym9FLWNNaXhXdXkxR0E?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-11T18:53:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5951,
-      "importance": 0.5951,
-      "importance_score": 0.5951,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.8225,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T18:53:00Z",
-      "latest_at": "2026-09-11T19:46:34Z",
-      "primary_item": {
-        "id": "6b25e4776f6d4e861ca12ccc1a701b5b39eb16b9",
-        "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
-        "title_zh": null,
-        "title_en": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
-        "title_original": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5",
-        "source": "GNews: Anthropic Claude",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     },
     {
@@ -2099,15 +1626,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.575,
-      "importance": 0.575,
-      "importance_score": 0.575,
+      "score": 0.5596,
+      "importance": 0.5596,
+      "importance_score": 0.5596,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8037,
+        "recency": 0.7179,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2132,7 +1659,446 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T09:51:45.652625Z"
+        "scored_at": "2026-09-12T17:42:20.951463Z"
+      }
+    },
+    {
+      "story_id": "story_e95b34cb28f9",
+      "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "source": "www.dwarkesh.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_en": null,
+          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T08:31:36.686000Z"
+        },
+        {
+          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
+          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_en": "AI researchers debate how close we are to recursive self-improvement",
+          "title_original": "AI researchers debate how close we are to recursive self-improvement",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T21:35:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.dwarkesh.com"
+      ],
+      "items": [
+        {
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_en": null,
+          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T08:31:36.686000Z"
+        },
+        {
+          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
+          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_en": "AI researchers debate how close we are to recursive self-improvement",
+          "title_original": "AI researchers debate how close we are to recursive self-improvement",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T21:35:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8832,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T21:35:29Z",
+      "latest_at": "2026-09-12T08:31:36.686000Z",
+      "primary_item": {
+        "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+        "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+        "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+        "title_en": null,
+        "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "source": "www.dwarkesh.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T17:42:20.951463Z"
+      }
+    },
+    {
+      "story_id": "story_e4952151ab1e",
+      "title": "数学领域中人工智能的偏差",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "primary_url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "source": "terrytao.wordpress.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+          "title": "数学领域中人工智能的偏差",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": null,
+          "title_original": "数学领域中人工智能的偏差",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "terrytao.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T19:07:02.862000Z"
+        },
+        {
+          "id": "267410680a72b7f080c151b1800a44d3211e7e12",
+          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": "A Misalignment of AI in Mathematics",
+          "title_original": "A Misalignment of AI in Mathematics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T17:30:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "terrytao.wordpress.com"
+      ],
+      "items": [
+        {
+          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+          "title": "数学领域中人工智能的偏差",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": null,
+          "title_original": "数学领域中人工智能的偏差",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "terrytao.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T19:07:02.862000Z"
+        },
+        {
+          "id": "267410680a72b7f080c151b1800a44d3211e7e12",
+          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": "A Misalignment of AI in Mathematics",
+          "title_original": "A Misalignment of AI in Mathematics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T17:30:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7277,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T17:30:26Z",
+      "latest_at": "2026-09-11T19:07:02.862000Z",
+      "primary_item": {
+        "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+        "title": "数学领域中人工智能的偏差",
+        "title_zh": "数学领域中人工智能的偏差",
+        "title_en": null,
+        "title_original": "数学领域中人工智能的偏差",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+        "source": "terrytao.wordpress.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T17:42:20.951463Z"
+      }
+    },
+    {
+      "story_id": "story_94d7dab25647",
+      "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+      "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+      "primary_url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": "Top mathematicians are outraged by OpenAI's methods",
+          "title_original": "Top mathematicians are outraged by OpenAI's methods",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T18:07:08Z"
+        },
+        {
+          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": null,
+          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T17:48:05.859000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": "Top mathematicians are outraged by OpenAI's methods",
+          "title_original": "Top mathematicians are outraged by OpenAI's methods",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T18:07:08Z"
+        },
+        {
+          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": null,
+          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T17:48:05.859000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7173,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T17:48:05.859000Z",
+      "latest_at": "2026-09-11T18:07:08Z",
+      "primary_item": {
+        "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+        "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+        "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+        "title_en": "Top mathematicians are outraged by OpenAI's methods",
+        "title_original": "Top mathematicians are outraged by OpenAI's methods",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T17:42:20.951463Z"
+      }
+    },
+    {
+      "story_id": "story_0a9c768075d0",
+      "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5",
+      "source": "GNews: Anthropic Claude",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "6b25e4776f6d4e861ca12ccc1a701b5b39eb16b9",
+          "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
+          "title_zh": null,
+          "title_en": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
+          "title_original": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-11T19:46:34Z"
+        },
+        {
+          "id": "3db36fccfed0cf75af5ace65e55140409bd81cb3",
+          "title": "Anthropic 表示，胡塞武装控制的也门用户试图利用人工智能开发先进武器 - 《华盛顿邮报》 / Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
+          "title_zh": "Anthropic 表示，胡塞武装控制的也门用户试图利用人工智能开发先进武器 - 《华盛顿邮报》",
+          "title_en": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
+          "title_original": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON05WSmFCWGV3RGFkaVBOMlJIU2wwYTZEU0stNkxqd1ZOc1VNRlFqcHhSZXpmV3pLcVVGWVFLM1dVTGtsS3l5LTZmaHg3aU0weDdpV0ZHU1gyV3V6MmZHaVZFbUo4eF9zenFnX25XRUI1SmdMZ21rU0RLbkxKZ0ZrQVpkOVNNUVdXQ0tMSmlrT0h2X1A2akxTeG9CanB0Q0J2LUVILWNzbTk2elk4NVBYZHU4NjZzRlZCTlhkY1pOMVR3Ym9FLWNNaXhXdXkxR0E?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-11T18:53:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GNews: Anthropic Claude"
+      ],
+      "items": [
+        {
+          "id": "6b25e4776f6d4e861ca12ccc1a701b5b39eb16b9",
+          "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
+          "title_zh": null,
+          "title_en": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
+          "title_original": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-11T19:46:34Z"
+        },
+        {
+          "id": "3db36fccfed0cf75af5ace65e55140409bd81cb3",
+          "title": "Anthropic 表示，胡塞武装控制的也门用户试图利用人工智能开发先进武器 - 《华盛顿邮报》 / Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
+          "title_zh": "Anthropic 表示，胡塞武装控制的也门用户试图利用人工智能开发先进武器 - 《华盛顿邮报》",
+          "title_en": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
+          "title_original": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - The Washington Post",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON05WSmFCWGV3RGFkaVBOMlJIU2wwYTZEU0stNkxqd1ZOc1VNRlFqcHhSZXpmV3pLcVVGWVFLM1dVTGtsS3l5LTZmaHg3aU0weDdpV0ZHU1gyV3V6MmZHaVZFbUo4eF9zenFnX25XRUI1SmdMZ21rU0RLbkxKZ0ZrQVpkOVNNUVdXQ0tMSmlrT0h2X1A2akxTeG9CanB0Q0J2LUVILWNzbTk2elk4NVBYZHU4NjZzRlZCTlhkY1pOMVR3Ym9FLWNNaXhXdXkxR0E?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-11T18:53:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5792,
+      "importance": 0.5792,
+      "importance_score": 0.5792,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.7347,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T18:53:00Z",
+      "latest_at": "2026-09-11T19:46:34Z",
+      "primary_item": {
+        "id": "6b25e4776f6d4e861ca12ccc1a701b5b39eb16b9",
+        "title": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
+        "title_zh": null,
+        "title_en": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
+        "title_original": "Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5",
+        "source": "GNews: Anthropic Claude",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T17:42:20.951463Z"
       }
     }
   ]
