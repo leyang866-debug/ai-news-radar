@@ -5,23 +5,23 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 12 Sep 2026 17:07:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 19:24:05 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Perplexity trusts GPT-6 Astra with end-to-end systems</title>
+<title>Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
 <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Sat, 12 Sep 2026 17:07:37 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 19:24:05 +0000</pubDate>
 </item>
 <item>
-<title>GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub</title>
-<link>https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github</guid>
-<description>GitHub AI &amp; ML</description>
+<title>OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160</title>
+<link>https://x.com/OpenAIDevs/status/2098827327832822014</link>
+<guid isPermaLink="true">https://x.com/OpenAIDevs/status/2098827327832822014</guid>
+<description>OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。（X：OpenAI Developers (@OpenAIDevs)）</description>
 <category>官方更新</category>
-<pubDate>Fri, 11 Sep 2026 18:26:10 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 17:33:23 +0000</pubDate>
 </item>
 <item>
 <title>Add VS Code Agents to Copilot usage metrics</title>
@@ -80,12 +80,12 @@
 <pubDate>Fri, 11 Sep 2026 23:22:39 +0000</pubDate>
 </item>
 <item>
-<title>Nvidia may bankroll Anthropic's massive IPO - Mashable</title>
-<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</guid>
+<title>Anthropic 首席执行官提出遏制人工智能发展的三步计划 - 雅虎科技 / Anthropic's CEO Proposes A Three-Step Plan To Curb AI Development - Yahoo Tech</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEdRbnhnN2phVXNyOFZmeGc0ZzBidVZYOWxIYmVjelZxMTR0bWhCMENUdzNWUmw5M3JKZDBtNmYyRldGX0M4N0JZYXFvM0tuRnBtVjZ6UEV5VGJQZnR4d052R29Fb0g2VmpEMUNGN0x5SEM1a3R0OE9Md3dwZHRMbzh2d3ZRSWZteS1aUDFHTFBqak05OWc?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEdRbnhnN2phVXNyOFZmeGc0ZzBidVZYOWxIYmVjelZxMTR0bWhCMENUdzNWUmw5M3JKZDBtNmYyRldGX0M4N0JZYXFvM0tuRnBtVjZ6UEV5VGJQZnR4d052R29Fb0g2VmpEMUNGN0x5SEM1a3R0OE9Md3dwZHRMbzh2d3ZRSWZteS1aUDFHTFBqak05OWc?oc=5</guid>
 <description>GNews: Anthropic Claude</description>
 <category>值得关注</category>
-<pubDate>Sat, 12 Sep 2026 15:27:45 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 16:37:31 +0000</pubDate>
 </item>
 <item>
 <title>Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too</title>
@@ -96,12 +96,12 @@
 <pubDate>Fri, 11 Sep 2026 20:59:47 +0000</pubDate>
 </item>
 <item>
-<title>A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - businessinsider.com</title>
-<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQdl9CNzFpU1IyZjY1T2hTbFpCZUJpbFFzRVlIeFJxdFJRQVlYVkhmaEpfUDNvOGhXbkl3VFpoaGU1Q3FJaWdBTnBlSjVULUlqU0NwMGZZVDVkdmJsSVlKajVKbDVjR3VxUnpuaW14WHpCd1Nsb2ZxQnJkXzRzV2szWDNTWjdkdw?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMihgFBVV95cUxQdl9CNzFpU1IyZjY1T2hTbFpCZUJpbFFzRVlIeFJxdFJRQVlYVkhmaEpfUDNvOGhXbkl3VFpoaGU1Q3FJaWdBTnBlSjVULUlqU0NwMGZZVDVkdmJsSVlKajVKbDVjR3VxUnpuaW14WHpCd1Nsb2ZxQnJkXzRzV2szWDNTWjdkdw?oc=5</guid>
+<title>Nvidia 可能会为 Anthropic 的大规模 IPO 提供资金 - Mashable / Nvidia may bankroll Anthropic's massive IPO - Mashable</title>
+<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</guid>
 <description>GNews: Anthropic Claude</description>
 <category>值得关注</category>
-<pubDate>Sat, 12 Sep 2026 09:47:16 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 15:27:45 +0000</pubDate>
 </item>
 <item>
 <title>英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI</title>
@@ -112,15 +112,15 @@
 <pubDate>Sat, 12 Sep 2026 16:37:21 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5</guid>
+<title>Anthropic 首席执行官敦促人工智能公司因担心滥用而放慢模型开发 - 雅虎！加拿大金融 / Anthropic CEO urges AI companies to slow model development amid fears over misuse - Yahoo! Finance Canada</title>
+<link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnFIQURVS2dJa3Y4d2xEYWJZVm1uMUlEUXNUeGtVTkItTjJEUzFUSWh1VFpUMnlBYjl5cU1fVW1LWDMyTmQ4MDcxYmdtM1pkTGltTmtaODVRNmdraDQ3ZXptd3JBeXBSMUwxR2hWTjJkdURvc2pXMEdHMHRvRzRiSHg0V2lsaGRW?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVnFIQURVS2dJa3Y4d2xEYWJZVm1uMUlEUXNUeGtVTkItTjJEUzFUSWh1VFpUMnlBYjl5cU1fVW1LWDMyTmQ4MDcxYmdtM1pkTGltTmtaODVRNmdraDQ3ZXptd3JBeXBSMUwxR2hWTjJkdURvc2pXMEdHMHRvRzRiSHg0V2lsaGRW?oc=5</guid>
 <description>GNews: Anthropic Claude</description>
 <category>值得关注</category>
-<pubDate>Sat, 12 Sep 2026 14:30:21 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 15:18:32 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic boss Dario Amodei calls for AI development to slow down</title>
+<title>人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down</title>
 <link>https://www.bbc.com/news/articles/c14dpgm0rg4o</link>
 <guid isPermaLink="true">https://www.bbc.com/news/articles/c14dpgm0rg4o</guid>
 <description>Hacker News (黑客新闻)</description>
@@ -128,12 +128,12 @@
 <pubDate>Sat, 12 Sep 2026 16:56:52 +0000</pubDate>
 </item>
 <item>
-<title>Litelm：精简版 LiteLLM，摒弃冗余 / Litelm: LiteLLM Without the Bloat</title>
-<link>https://github.com/kennethwolters/litelm</link>
-<guid isPermaLink="true">https://github.com/kennethwolters/litelm</guid>
-<description>Hacker News Front Page</description>
+<title>A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back. - Business Insider</title>
+<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQdl9CNzFpU1IyZjY1T2hTbFpCZUJpbFFzRVlIeFJxdFJRQVlYVkhmaEpfUDNvOGhXbkl3VFpoaGU1Q3FJaWdBTnBlSjVULUlqU0NwMGZZVDVkdmJsSVlKajVKbDVjR3VxUnpuaW14WHpCd1Nsb2ZxQnJkXzRzV2szWDNTWjdkdw?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMihgFBVV95cUxQdl9CNzFpU1IyZjY1T2hTbFpCZUJpbFFzRVlIeFJxdFJRQVlYVkhmaEpfUDNvOGhXbkl3VFpoaGU1Q3FJaWdBTnBlSjVULUlqU0NwMGZZVDVkdmJsSVlKajVKbDVjR3VxUnpuaW14WHpCd1Nsb2ZxQnJkXzRzV2szWDNTWjdkdw?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
 <category>值得关注</category>
-<pubDate>Sat, 12 Sep 2026 02:45:28 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 09:47:16 +0000</pubDate>
 </item>
 <item>
 <title>人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论</title>
@@ -144,28 +144,28 @@
 <pubDate>Sat, 12 Sep 2026 08:31:36 +0000</pubDate>
 </item>
 <item>
-<title>数学领域中人工智能的偏差</title>
-<link>https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics</link>
-<guid isPermaLink="true">https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics</guid>
-<description>terrytao.wordpress.com</description>
-<category>值得关注</category>
-<pubDate>Fri, 11 Sep 2026 19:07:02 +0000</pubDate>
-</item>
-<item>
-<title>顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods</title>
-<link>https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods</link>
-<guid isPermaLink="true">https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Fri, 11 Sep 2026 18:07:08 +0000</pubDate>
-</item>
-<item>
-<title>Users in Houthi-held Yemen tried to develop advanced weapons with AI, Anthropic says - NBC Bay Area</title>
-<link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmVQOXVoOElnOXEwZ0pidFJzZnJleGdvVnVQMFBXSkd5WC1xaVJwT2NhQVhYYk80TzJPUW9rSTJta2VQWm55d0R1Q1VjV0V4NzctVXBSM3VZZDR1Uk82emNvRU5HUWRwZXlxYUNUcGhHU0EzZnpzLWZYVkJzYmhLTTB6c2dHREdBVWZrQTQ5MmhKWWZhVnNaWWxfdm1USkZTd2xtTUlwbFpzckdRdGRIb3BCMkxyUlg40gHAAUFVX3lxTFA2MC1CWWJ0aWV2Y3UzQTVoTUJzSmhTSS1LVm5lMTNXNkFjczFzTElod2tJaHNzOXh1TkFsNllIdDUtV0gwZDVyVDVkQ2ZWcl9zNnlYS01kQllPOGxqZzZKa0doM1hkcnp1dzJlS3BlSDhHQUhLY1Nod0VJa21NbVk4UW5xZlk3ejYzNklCZ2pKajZxS05GUjItODFTcVRHdXg2dXljSWh1N3dVOE5jeko2WGduVm4yczFQYmVxVlMyUQ?oc=5</guid>
+<title>人类报告：Claude被利用进行战争、间谍活动和镇压的 5 种方式 - Axios / Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios</title>
+<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5</guid>
 <description>GNews: Anthropic Claude</description>
 <category>值得关注</category>
-<pubDate>Fri, 11 Sep 2026 19:46:34 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 14:30:21 +0000</pubDate>
+</item>
+<item>
+<title>Weapons, spyware and AI scams: Anthropic exposes Claude misuse - France 24</title>
+<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2Fhb3hveG5yeU95NGk2YmR4eVQ0R2RPSDBqMWd2cDBpRjNnVEZfRzZLYlU1LTdwS25fa1VzWXBaYXVXbGo2Yzh2TGZEekF1eWpDSWl0Vl9rS3QtUHhIbWNNUExkaVoydFg4YmdJdWRKaXJuanJpV0hTQlZHUGRKYmhQYUxRZFpveUVDMGhEZG5pNFl1bjJwenZmYkZ1R2RNSERZZUU0VWlfdVE?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2Fhb3hveG5yeU95NGk2YmR4eVQ0R2RPSDBqMWd2cDBpRjNnVEZfRzZLYlU1LTdwS25fa1VzWXBaYXVXbGo2Yzh2TGZEekF1eWpDSWl0Vl9rS3QtUHhIbWNNUExkaVoydFg4YmdJdWRKaXJuanJpV0hTQlZHUGRKYmhQYUxRZFpveUVDMGhEZG5pNFl1bjJwenZmYkZ1R2RNSERZZUU0VWlfdVE?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Fri, 11 Sep 2026 19:51:13 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 称Claude如何被用于武器、间谍和网络行动 - 路透 / How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Sat, 12 Sep 2026 04:34:31 +0000</pubDate>
 </item>
 </channel>
 </rss>
