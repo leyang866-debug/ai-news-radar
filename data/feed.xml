@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 13 Sep 2026 19:29:16 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 23:11:55 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -13,7 +13,7 @@
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Sun, 13 Sep 2026 19:29:16 +0000</pubDate>
+<pubDate>Sun, 13 Sep 2026 23:11:55 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic</title>
@@ -40,20 +40,20 @@
 <pubDate>Sun, 13 Sep 2026 05:56:03 +0000</pubDate>
 </item>
 <item>
-<title>Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…</title>
-<link>https://x.com/trq212/status/2098860941391872132</link>
-<guid isPermaLink="true">https://x.com/trq212/status/2098860941391872132</guid>
-<description>Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。（X：Thariq (@trq212)）</description>
-<category>行业动态</category>
-<pubDate>Sat, 12 Sep 2026 19:46:58 +0000</pubDate>
-</item>
-<item>
 <title>Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei</title>
 <link>https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario</link>
 <guid isPermaLink="true">https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario</guid>
 <description>Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。（Gary Marcus：The Road to AI We Can Trust（RSS））</description>
 <category>行业动态</category>
 <pubDate>Sun, 13 Sep 2026 18:34:31 +0000</pubDate>
+</item>
+<item>
+<title>克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</title>
+<link>https://www.vals.ai/blogs/fable-solves-cyphral-distich</link>
+<guid isPermaLink="true">https://www.vals.ai/blogs/fable-solves-cyphral-distich</guid>
+<description>Hacker News Front Page</description>
+<category>多源热议</category>
+<pubDate>Sun, 13 Sep 2026 22:25:23 +0000</pubDate>
 </item>
 <item>
 <title>大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models</title>
@@ -64,12 +64,12 @@
 <pubDate>Sun, 13 Sep 2026 18:45:18 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
-<link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026</guid>
-<description>TechCrunch AI</description>
+<title>AI recursive self-improvement might not come so quickly after all (August 2026)</title>
+<link>https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement</link>
+<guid isPermaLink="true">https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement</guid>
+<description>Hacker News Front Page</description>
 <category>值得关注</category>
-<pubDate>Sat, 12 Sep 2026 20:28:29 +0000</pubDate>
+<pubDate>Sun, 13 Sep 2026 18:49:44 +0000</pubDate>
 </item>
 <item>
 <title>加里·谭希望美国的开放式AI实验室也能“提炼”前沿模型 / Garry Tan wants US open-weight AI labs to 'distill' frontier models, too</title>
@@ -78,14 +78,6 @@
 <description>Hacker News Front Page</description>
 <category>值得关注</category>
 <pubDate>Sun, 13 Sep 2026 17:42:38 +0000</pubDate>
-</item>
-<item>
-<title>Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases</title>
-<link>https://withspecific.com/benchmarks/real-swe</link>
-<guid isPermaLink="true">https://withspecific.com/benchmarks/real-swe</guid>
-<description>Hacker News Front Page</description>
-<category>值得关注</category>
-<pubDate>Sun, 13 Sep 2026 01:18:53 +0000</pubDate>
 </item>
 <item>
 <title>为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?</title>
