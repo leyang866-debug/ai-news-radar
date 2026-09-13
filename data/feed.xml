@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 12 Sep 2026 23:04:04 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 00:58:37 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -13,7 +13,7 @@
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Sat, 12 Sep 2026 23:04:04 +0000</pubDate>
+<pubDate>Sun, 13 Sep 2026 00:58:37 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160</title>
@@ -24,20 +24,20 @@
 <pubDate>Sat, 12 Sep 2026 17:33:23 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析</title>
-<link>https://www.rubyhack.ai</link>
-<guid isPermaLink="true">https://www.rubyhack.ai</guid>
-<description>作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。（Hacker News 热门（buzzing.cc 中文翻译））</description>
-<category>多源热议</category>
-<pubDate>Sat, 12 Sep 2026 00:24:20 +0000</pubDate>
-</item>
-<item>
 <title>Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）</title>
 <link>https://www.minitap.ai/blog/i-expected-better-from-google</link>
 <guid isPermaLink="true">https://www.minitap.ai/blog/i-expected-better-from-google</guid>
 <description>Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。（Hacker News：AI 热帖）</description>
 <category>多源热议</category>
 <pubDate>Sat, 12 Sep 2026 05:37:39 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT</title>
+<link>https://x.com/OpenAIDevs/status/2098913661993603215</link>
+<guid isPermaLink="true">https://x.com/OpenAIDevs/status/2098913661993603215</guid>
+<description>OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。（X：OpenAI Developers (@OpenAIDevs)）</description>
+<category>官方更新</category>
+<pubDate>Sat, 12 Sep 2026 23:16:27 +0000</pubDate>
 </item>
 <item>
 <title>Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…</title>
@@ -72,14 +72,6 @@
 <pubDate>Sat, 12 Sep 2026 16:39:24 +0000</pubDate>
 </item>
 <item>
-<title>英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元</title>
-<link>https://www.ithome.com/1/001/488.htm</link>
-<guid isPermaLink="true">https://www.ithome.com/1/001/488.htm</guid>
-<description>据路透社报道，英伟达正与 Anthropic 洽谈以基石投资者身份参与其 IPO，考虑投资至多 100 亿美元。Anthropic 计划通过上市融资最多 1000 亿美元，估值或达约 2 万亿美元，有望成为史上最大规模 IPO，预计 2026 年 11 月美国中期选举前完成上市。（IT之家（RSS））</description>
-<category>行业动态</category>
-<pubDate>Fri, 11 Sep 2026 23:22:39 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
 <link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026</guid>
@@ -88,20 +80,20 @@
 <pubDate>Sat, 12 Sep 2026 20:28:29 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic Says Russian-Linked Developers Used Claude to Build Autonomous Kamikaze Drones - mezha.net</title>
+<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPU211YllIcjNxcE55cXhaTmhqVDRVbGk4MFVjRWt2MV8wTzZ6WmpkNVRkRHdEWG9VdTF5bWY1YTBBelRMdERoRElMWG5pbXRkZHdWeGMwZzBrZHp3LUpRS29RUk5BWE94NUNCaGFZVmduUXd2SWpWZTlSVzRMREJPTGtDSQ?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxPU211YllIcjNxcE55cXhaTmhqVDRVbGk4MFVjRWt2MV8wTzZ6WmpkNVRkRHdEWG9VdTF5bWY1YTBBelRMdERoRElMWG5pbXRkZHdWeGMwZzBrZHp3LUpRS29RUk5BWE94NUNCaGFZVmduUXd2SWpWZTlSVzRMREJPTGtDSQ?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Sat, 12 Sep 2026 16:19:40 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 首席执行官提出遏制人工智能发展的三步计划 - 雅虎科技 / Anthropic's CEO Proposes A Three-Step Plan To Curb AI Development - Yahoo Tech</title>
 <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEdRbnhnN2phVXNyOFZmeGc0ZzBidVZYOWxIYmVjelZxMTR0bWhCMENUdzNWUmw5M3JKZDBtNmYyRldGX0M4N0JZYXFvM0tuRnBtVjZ6UEV5VGJQZnR4d052R29Fb0g2VmpEMUNGN0x5SEM1a3R0OE9Md3dwZHRMbzh2d3ZRSWZteS1aUDFHTFBqak05OWc?oc=5</link>
 <guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEdRbnhnN2phVXNyOFZmeGc0ZzBidVZYOWxIYmVjelZxMTR0bWhCMENUdzNWUmw5M3JKZDBtNmYyRldGX0M4N0JZYXFvM0tuRnBtVjZ6UEV5VGJQZnR4d052R29Fb0g2VmpEMUNGN0x5SEM1a3R0OE9Md3dwZHRMbzh2d3ZRSWZteS1aUDFHTFBqak05OWc?oc=5</guid>
 <description>GNews: Anthropic Claude</description>
 <category>值得关注</category>
 <pubDate>Sat, 12 Sep 2026 16:37:31 +0000</pubDate>
-</item>
-<item>
-<title>Nvidia 可能会为 Anthropic 的大规模 IPO 提供资金 - Mashable / Nvidia may bankroll Anthropic's massive IPO - Mashable</title>
-<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</guid>
-<description>GNews: Anthropic Claude</description>
-<category>值得关注</category>
-<pubDate>Sat, 12 Sep 2026 15:27:45 +0000</pubDate>
 </item>
 <item>
 <title>英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI</title>
@@ -120,12 +112,28 @@
 <pubDate>Sat, 12 Sep 2026 09:47:16 +0000</pubDate>
 </item>
 <item>
+<title>最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle</title>
+<link>https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang</link>
+<guid isPermaLink="true">https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang</guid>
+<description>Hacker News Front Page</description>
+<category>值得关注</category>
+<pubDate>Sun, 13 Sep 2026 00:29:40 +0000</pubDate>
+</item>
+<item>
 <title>人类老板 Dario Amodei 呼吁放慢人工智能发展速度 / Anthropic boss Dario Amodei calls for AI development to slow down</title>
 <link>https://www.bbc.com/news/articles/c14dpgm0rg4o</link>
 <guid isPermaLink="true">https://www.bbc.com/news/articles/c14dpgm0rg4o</guid>
 <description>Hacker News · 24h最热</description>
 <category>值得关注</category>
 <pubDate>Sat, 12 Sep 2026 16:56:52 +0000</pubDate>
+</item>
+<item>
+<title>Nvidia 可能会为 Anthropic 的大规模 IPO 提供资金 - Mashable / Nvidia may bankroll Anthropic's massive IPO - Mashable</title>
+<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Sat, 12 Sep 2026 15:27:45 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 首席执行官敦促人工智能公司因担心滥用而放慢模型开发 - 雅虎！加拿大金融 / Anthropic CEO urges AI companies to slow model development amid fears over misuse - Yahoo! Finance Canada</title>
@@ -136,12 +144,12 @@
 <pubDate>Sat, 12 Sep 2026 15:18:32 +0000</pubDate>
 </item>
 <item>
-<title>人类报告：Claude被利用进行战争、间谍活动和镇压的 5 种方式 - Axios / Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5</guid>
+<title>China rejects Anthropic allegations of using Claude to train their models - The Times of India</title>
+<link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQWFvR2ZiUGFMNUFFNDdaVUtLbWJyUlB2QnhXRWpHNnp4S0pzcVV0R2ozYlVmQ0VUbzhTakJGbnlWUU1UdVVtUThIc0tqeFM0M083TEw4dU9fMEpWd2Zwa1E4UWNnTGs3akVuZi0wMlJKNjNKWjRDT3NDX1dfLXphbFpBYlFJOU5RbjAtQUUyN05xejByMHBCUXdZaVEydUFuTl93VVZVTDRZNUZYYTdrZlEtYlZGRTBsYUVZSF82VjdEZmZCWUE3SjBOck5qQ3NSR293WEtFaG9pWmdIME1NddIB5gFBVV95cUxOaDlfNkFxbk52V1QyalJoUWlINEZsT2RWME41Wl9qS1p4Nmt3QWtobG1MSUFWb1MtYVM5LTFOQXNwSmo5S2IwUkRubUVoUjNHMF85YVFuZ29iYmMxTnNJUVczZ2hCa2NTaXlzYUVTTEJLSk03QUVpendUd0lYRzdnUTZEdUdlNmtFUXBZQjgwWDRtWWY3VGlXQkJnVTVQOEM2amlmWUQta3Q3RG00Z2ZTUnYyMFlmLW16RWVHRWJBTVkyd29uUEd4d0dDNnFHb0xBT1owYmc0ZjZ1RDhTY1lqMVdpRjRBQQ?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQWFvR2ZiUGFMNUFFNDdaVUtLbWJyUlB2QnhXRWpHNnp4S0pzcVV0R2ozYlVmQ0VUbzhTakJGbnlWUU1UdVVtUThIc0tqeFM0M083TEw4dU9fMEpWd2Zwa1E4UWNnTGs3akVuZi0wMlJKNjNKWjRDT3NDX1dfLXphbFpBYlFJOU5RbjAtQUUyN05xejByMHBCUXdZaVEydUFuTl93VVZVTDRZNUZYYTdrZlEtYlZGRTBsYUVZSF82VjdEZmZCWUE3SjBOck5qQ3NSR293WEtFaG9pWmdIME1NddIB5gFBVV95cUxOaDlfNkFxbk52V1QyalJoUWlINEZsT2RWME41Wl9qS1p4Nmt3QWtobG1MSUFWb1MtYVM5LTFOQXNwSmo5S2IwUkRubUVoUjNHMF85YVFuZ29iYmMxTnNJUVczZ2hCa2NTaXlzYUVTTEJLSk03QUVpendUd0lYRzdnUTZEdUdlNmtFUXBZQjgwWDRtWWY3VGlXQkJnVTVQOEM2amlmWUQta3Q3RG00Z2ZTUnYyMFlmLW16RWVHRWJBTVkyd29uUEd4d0dDNnFHb0xBT1owYmc0ZjZ1RDhTY1lqMVdpRjRBQQ?oc=5</guid>
 <description>GNews: Anthropic Claude</description>
 <category>值得关注</category>
-<pubDate>Sat, 12 Sep 2026 14:30:21 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 08:44:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
