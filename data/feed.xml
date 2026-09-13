@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 13 Sep 2026 13:18:44 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 14:55:06 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
@@ -13,7 +13,7 @@
 <guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Sun, 13 Sep 2026 13:18:44 +0000</pubDate>
+<pubDate>Sun, 13 Sep 2026 14:55:06 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160</title>
@@ -64,14 +64,6 @@
 <pubDate>Sat, 12 Sep 2026 23:16:27 +0000</pubDate>
 </item>
 <item>
-<title>Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…</title>
-<link>https://x.com/PeterMcCrory/status/2098868931071226252</link>
-<guid isPermaLink="true">https://x.com/PeterMcCrory/status/2098868931071226252</guid>
-<description>Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。（X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory））</description>
-<category>行业动态</category>
-<pubDate>Sat, 12 Sep 2026 20:18:42 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</title>
 <link>https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026</guid>
@@ -104,12 +96,12 @@
 <pubDate>Sun, 13 Sep 2026 01:18:53 +0000</pubDate>
 </item>
 <item>
-<title>人类报告：Claude被利用进行战争、间谍活动和镇压的 5 种方式 - Axios / Anthropic report: 5 ways Claude was exploited for war, spying and repression - Axios</title>
-<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3UtUzlPZk9tWHZsV21qVFBnN1Y1dlhrM25jZl9sMmdPcWRMd1RTT2ctYzJ6NTl3MmVfWElNclhRYXVOWG02ZDdzVzJLZXBXbHNBclY1Vkt4ckJYVjVuTnNWRDdGMEt5dVdaa254U0FfX2M0LWJ5T2Jkd1dBWHhWN3piVQ?oc=5</guid>
+<title>Anthropic 首席执行官提出遏制人工智能发展的三步计划 - 雅虎科技 / Anthropic's CEO Proposes A Three-Step Plan To Curb AI Development - Yahoo Tech</title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEdRbnhnN2phVXNyOFZmeGc0ZzBidVZYOWxIYmVjelZxMTR0bWhCMENUdzNWUmw5M3JKZDBtNmYyRldGX0M4N0JZYXFvM0tuRnBtVjZ6UEV5VGJQZnR4d052R29Fb0g2VmpEMUNGN0x5SEM1a3R0OE9Md3dwZHRMbzh2d3ZRSWZteS1aUDFHTFBqak05OWc?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEdRbnhnN2phVXNyOFZmeGc0ZzBidVZYOWxIYmVjelZxMTR0bWhCMENUdzNWUmw5M3JKZDBtNmYyRldGX0M4N0JZYXFvM0tuRnBtVjZ6UEV5VGJQZnR4d052R29Fb0g2VmpEMUNGN0x5SEM1a3R0OE9Md3dwZHRMbzh2d3ZRSWZteS1aUDFHTFBqak05OWc?oc=5</guid>
 <description>GNews: Anthropic Claude</description>
 <category>值得关注</category>
-<pubDate>Sat, 12 Sep 2026 23:01:25 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 16:37:31 +0000</pubDate>
 </item>
 <item>
 <title>为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?</title>
@@ -128,12 +120,12 @@
 <pubDate>Sun, 13 Sep 2026 08:07:36 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 首席执行官提出遏制人工智能发展的三步计划 - 雅虎科技 / Anthropic's CEO Proposes A Three-Step Plan To Curb AI Development - Yahoo Tech</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEdRbnhnN2phVXNyOFZmeGc0ZzBidVZYOWxIYmVjelZxMTR0bWhCMENUdzNWUmw5M3JKZDBtNmYyRldGX0M4N0JZYXFvM0tuRnBtVjZ6UEV5VGJQZnR4d052R29Fb0g2VmpEMUNGN0x5SEM1a3R0OE9Md3dwZHRMbzh2d3ZRSWZteS1aUDFHTFBqak05OWc?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxNZEdRbnhnN2phVXNyOFZmeGc0ZzBidVZYOWxIYmVjelZxMTR0bWhCMENUdzNWUmw5M3JKZDBtNmYyRldGX0M4N0JZYXFvM0tuRnBtVjZ6UEV5VGJQZnR4d052R29Fb0g2VmpEMUNGN0x5SEM1a3R0OE9Md3dwZHRMbzh2d3ZRSWZteS1aUDFHTFBqak05OWc?oc=5</guid>
+<title>Nvidia 可能会为 Anthropic 的大规模 IPO 提供资金 - Mashable / Nvidia may bankroll Anthropic's massive IPO - Mashable</title>
+<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</guid>
 <description>GNews: Anthropic Claude</description>
 <category>值得关注</category>
-<pubDate>Sat, 12 Sep 2026 16:37:31 +0000</pubDate>
+<pubDate>Sat, 12 Sep 2026 15:27:45 +0000</pubDate>
 </item>
 <item>
 <title>除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me</title>
@@ -150,14 +142,6 @@
 <description>Hacker News · 24h最热</description>
 <category>值得关注</category>
 <pubDate>Sat, 12 Sep 2026 16:56:52 +0000</pubDate>
-</item>
-<item>
-<title>Nvidia 可能会为 Anthropic 的大规模 IPO 提供资金 - Mashable / Nvidia may bankroll Anthropic's massive IPO - Mashable</title>
-<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5</guid>
-<description>GNews: Anthropic Claude</description>
-<category>值得关注</category>
-<pubDate>Sat, 12 Sep 2026 15:27:45 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 首席执行官敦促人工智能公司因担心滥用而放慢模型开发 - 雅虎！加拿大金融 / Anthropic CEO urges AI companies to slow model development amid fears over misuse - Yahoo! Finance Canada</title>
