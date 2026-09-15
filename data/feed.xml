@@ -5,167 +5,167 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 14 Sep 2026 10:36:17 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 20:16:13 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems</title>
-<link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
-<guid isPermaLink="true">https://openai.com/index/perplexity-improving-accuracy-with-astra</guid>
-<description>OpenAI News</description>
+<title>Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking / Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
+<link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking</link>
+<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking</guid>
+<description>Google DeepMind</description>
 <category>官方更新</category>
-<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 19:53:25 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件 / Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic</title>
-<link>https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo</link>
-<guid isPermaLink="true">https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo</guid>
-<description>Anthropic 9 月威胁报告披露，据评估极可能关联胡塞组织的也门小组使用 Claude Code 开发制导火箭、射程超 2，000 公里弹道导弹及名为 R2000 的高超声速滑翔载具概念的相关软件。（Hacker News：AI 热帖）</description>
+<title>Your Agent Aced the Task. Will It Do It Again?</title>
+<link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 15 Sep 2026 16:00:44 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot suggests custom properties definitions</title>
+<link>https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 15 Sep 2026 19:07:47 +0000</pubDate>
+</item>
+<item>
+<title>AI for Societal Impact</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Enforce GitHub Advanced Security configurations</title>
+<link>https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 15 Sep 2026 19:31:58 +0000</pubDate>
+</item>
+<item>
+<title>Building AI to accelerate science and improve lives</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety</title>
+<link>https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety</link>
+<guid isPermaLink="true">https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety</guid>
+<description>Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
-<pubDate>Sun, 13 Sep 2026 14:15:40 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 09:04:36 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台</title>
-<link>https://www.aibase.com/news/31029</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31029</guid>
+<title>科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech's AI slowdown a safety pact or a cartel？</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel</guid>
+<description>Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的"卡特尔"。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 14 Sep 2026 22:59:41 +0000</pubDate>
+</item>
+<item>
+<title>Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂 / Inside OpenAI's agentic software factory</title>
+<link>https://newsletter.pragmaticengineer.com/p/openai-software-factory</link>
+<guid isPermaLink="true">https://newsletter.pragmaticengineer.com/p/openai-software-factory</guid>
+<description>Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。（Pragmatic Engineer（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 15 Sep 2026 15:41:25 +0000</pubDate>
+</item>
+<item>
+<title>SHA-1 in HTTPS on GitHub sunset</title>
+<link>https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 15 Sep 2026 16:47:20 +0000</pubDate>
+</item>
+<item>
+<title>Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”</title>
+<link>https://www.aibase.com/news/31065</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31065</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:17 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 18:16:13 +0000</pubDate>
 </item>
 <item>
-<title>小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先</title>
-<link>https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&amp;mid=2247496383&amp;idx=1&amp;sn=2db8607f797615a3647d9fec7e54f448</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&amp;mid=2247496383&amp;idx=1&amp;sn=2db8607f797615a3647d9fec7e54f448</guid>
-<description>小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。（公众号：小红书技术（dots.llm））</description>
+<title>404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型</title>
+<link>https://www.ithome.com/1/002/750.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/002/750.htm</guid>
+<description>404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。（IT之家（RSS））</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 09:59:00 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 11:48:13 +0000</pubDate>
 </item>
 <item>
-<title>DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放</title>
-<link>https://www.aibase.com/news/31028</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31028</guid>
+<title>New insights from Google’s AI &amp; Economy ATLAS</title>
+<link>https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026</link>
+<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 15 Sep 2026 13:00:00 +0000</pubDate>
+</item>
+<item>
+<title>生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&amp;mid=2247489246&amp;idx=2&amp;sn=b23b39da69f6c75594eccac11854111f</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&amp;mid=2247489246&amp;idx=2&amp;sn=b23b39da69f6c75594eccac11854111f</guid>
+<description>生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。（公众号：生数科技（Vidu·视频））</description>
+<category>行业动态</category>
+<pubDate>Tue, 15 Sep 2026 14:30:59 +0000</pubDate>
+</item>
+<item>
+<title>阶跃星辰王炸发布 StepAudio 3 系列语音大模型，强势斩获多项全球第一！</title>
+<link>https://www.aibase.com/news/31066</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31066</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:17 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 18:16:13 +0000</pubDate>
 </item>
 <item>
-<title>ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问</title>
-<link>https://www.aibase.com/news/31030</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31030</guid>
+<title>Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划 / Claude for Small Business launches new workflows， integrations， and training programs</title>
+<link>https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</link>
+<guid isPermaLink="true">https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</guid>
+<description>Anthropic 为 Claude for Small Business 新增 43 个工作流和 27 个集成，覆盖 Shopify、Salesforce、Stripe、Gusto 等，该产品自 5 月上线以来安装量超过 90 万次。工作流默认处于审批模式，所有发送、发布或付款需用户确认；今秋将在 10 个美国城市举办免费工作坊，14 个集成伙伴从 9 月底到 11 月各举办一场免费网络研讨会。（Claude：Blog（网页））</description>
+<category>行业动态</category>
+<pubDate>Tue, 15 Sep 2026 17:21:21 +0000</pubDate>
+</item>
+<item>
+<title>数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?</title>
+<link>https://www.aibase.com/news/31062</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31062</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:17 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 17:16:13 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6 Astra展现恐怖统治力：模拟售货机一年狂揽1.5万美元，成绩碾压Claude近3倍</title>
-<link>https://www.aibase.com/news/31035</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31035</guid>
+<title>阶跃发布StepAudio3系列模型:五款模型同步上线开放平台</title>
+<link>https://www.aibase.com/news/31063</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31063</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:17 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 17:16:13 +0000</pubDate>
 </item>
 <item>
-<title>Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样</title>
-<link>https://www.aibase.com/news/31033</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31033</guid>
+<title>微信回应小微AI隐私争议:不会读取用户已删除朋友圈</title>
+<link>https://www.aibase.com/news/31061</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31061</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:17 +0000</pubDate>
-</item>
-<item>
-<title>WorkBuddy 升级 PPT 能力:一句话生成可上台版，原文件可续改</title>
-<link>https://www.aibase.com/news/31036</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31036</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:17 +0000</pubDate>
-</item>
-<item>
-<title>YC 总裁反对封杀蒸馏：与其禁，不如让开源实验室走“正门”合法获取能力</title>
-<link>https://www.aibase.com/news/31037</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31037</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:17 +0000</pubDate>
-</item>
-<item>
-<title>克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码 / Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher</title>
-<link>https://www.vals.ai/blogs/fable-solves-cyphral-distich</link>
-<guid isPermaLink="true">https://www.vals.ai/blogs/fable-solves-cyphral-distich</guid>
-<description>Hacker News Front Page</description>
-<category>多源热议</category>
-<pubDate>Sun, 13 Sep 2026 22:25:23 +0000</pubDate>
-</item>
-<item>
-<title>奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面</title>
-<link>https://www.aibase.com/news/31031</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31031</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:17 +0000</pubDate>
-</item>
-<item>
-<title>大卫·萨克斯：OpenAI和Anthropic无需监管来控制前沿模型的发展步伐 / David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models</title>
-<link>https://twitter.com/DavidSacks/status/2098973625252708460</link>
-<guid isPermaLink="true">https://twitter.com/DavidSacks/status/2098973625252708460</guid>
-<description>Hacker News Front Page</description>
-<category>值得关注</category>
-<pubDate>Sun, 13 Sep 2026 18:45:18 +0000</pubDate>
-</item>
-<item>
-<title>宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元</title>
-<link>https://www.aibase.com/news/31032</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31032</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:17 +0000</pubDate>
-</item>
-<item>
-<title>开源人工智能与开放模型推荐书单 / Open-source AI and open models reading list</title>
-<link>https://www.interconnects.ai/p/open-source-ai-reading-list</link>
-<guid isPermaLink="true">https://www.interconnects.ai/p/open-source-ai-reading-list</guid>
-<description>Hacker News Front Page</description>
-<category>值得关注</category>
-<pubDate>Mon, 14 Sep 2026 08:25:17 +0000</pubDate>
-</item>
-<item>
-<title>百图生科牵手华大智造：联合构建专属细胞大模型，押注"设备+模型+智能体"一体化</title>
-<link>https://www.aibase.com/news/31027</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31027</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:17 +0000</pubDate>
-</item>
-<item>
-<title>"Chilling" warning or overreaction? AI bioweapons report divides experts</title>
-<link>https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts</link>
-<guid isPermaLink="true">https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts</guid>
-<description>Hacker News Front Page</description>
-<category>值得关注</category>
-<pubDate>Mon, 14 Sep 2026 00:07:09 +0000</pubDate>
-</item>
-<item>
-<title>蓝虫具身发布模块化人形机器人“小白”，0. 98 万元起售</title>
-<link>https://www.aibase.com/news/31038</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31038</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 10:36:17 +0000</pubDate>
-</item>
-<item>
-<title>AI recursive self-improvement might not come so quickly after all (August 2026)</title>
-<link>https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement</link>
-<guid isPermaLink="true">https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement</guid>
-<description>Hacker News Front Page</description>
-<category>值得关注</category>
-<pubDate>Sun, 13 Sep 2026 18:49:44 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同</title>
-<link>https://www.aibase.com/news/31008</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31008</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 14 Sep 2026 06:17:07 +0000</pubDate>
+<pubDate>Tue, 15 Sep 2026 16:16:13 +0000</pubDate>
 </item>
 </channel>
 </rss>
