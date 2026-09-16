@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:32:16.054170Z",
+  "generated_at": "2026-09-16T15:24:59.801564Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -55,8 +55,8 @@
         },
         {
           "id": "51f2aedc3da6daf7a24b962f3bc92bee2cc9a453",
-          "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "title_zh": null,
+          "title": "Gemini3.8直播和3.8直播延伸思考 / Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "title_zh": "Gemini3.8直播和3.8直播延伸思考",
           "title_en": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
           "title_original": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
           "summary": null,
@@ -120,8 +120,8 @@
         },
         {
           "id": "51f2aedc3da6daf7a24b962f3bc92bee2cc9a453",
-          "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "title_zh": null,
+          "title": "Gemini3.8直播和3.8直播延伸思考 / Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "title_zh": "Gemini3.8直播和3.8直播延伸思考",
           "title_en": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
           "title_original": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
           "summary": null,
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8849,
-      "importance": 0.8849,
-      "importance_score": 0.8849,
+      "score": 0.8774,
+      "importance": 0.8774,
+      "importance_score": 0.8774,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7662,
+        "recency": 0.7245,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,12 +171,208 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
+      }
+    },
+    {
+      "story_id": "story_2b45947d7367",
+      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "primary_url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "title_en": "Reimagining advertising with AI",
+          "title_original": "Reimagining advertising with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "title_en": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "title_original": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T13:51:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "title_en": "Reimagining advertising with AI",
+          "title_original": "Reimagining advertising with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "title_en": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "title_original": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T13:51:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8708,
+      "importance": 0.8708,
+      "importance_score": 0.8708,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9657,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:00:00Z",
+      "latest_at": "2026-09-16T13:51:15Z",
+      "primary_item": {
+        "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+        "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+        "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+        "title_en": "Reimagining advertising with AI",
+        "title_original": "Reimagining advertising with AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/reimagining-advertising-with-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T15:56:36.492186Z"
+      }
+    },
+    {
+      "story_id": "story_b7506bc123b9",
+      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": null,
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:26:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": null,
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:26:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9718,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:26:06Z",
+      "latest_at": "2026-09-16T13:26:06Z",
+      "primary_item": {
+        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_zh": null,
+        "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
       "story_id": "story_3a48419d9a0c",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "title": "您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "source": "Hugging Face Blog",
@@ -184,8 +380,8 @@
       "sources": [
         {
           "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-          "title": "Your Agent Aced the Task. Will It Do It Again?",
-          "title_zh": null,
+          "title": "您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?",
+          "title_zh": "您的代理人完成了任务。它会再次这样做吗？",
           "title_en": "Your Agent Aced the Task. Will It Do It Again?",
           "title_original": "Your Agent Aced the Task. Will It Do It Again?",
           "summary": null,
@@ -204,8 +400,8 @@
       "items": [
         {
           "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-          "title": "Your Agent Aced the Task. Will It Do It Again?",
-          "title_zh": null,
+          "title": "您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?",
+          "title_zh": "您的代理人完成了任务。它会再次这样做吗？",
           "title_en": "Your Agent Aced the Task. Will It Do It Again?",
           "title_original": "Your Agent Aced the Task. Will It Do It Again?",
           "summary": null,
@@ -219,15 +415,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7543,
+        "recency": 0.7132,
         "story_heat": 0.0
       },
       "category": "official",
@@ -240,8 +436,8 @@
       "latest_at": "2026-09-15T16:00:44Z",
       "primary_item": {
         "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-        "title": "Your Agent Aced the Task. Will It Do It Again?",
-        "title_zh": null,
+        "title": "您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?",
+        "title_zh": "您的代理人完成了任务。它会再次这样做吗？",
         "title_en": "Your Agent Aced the Task. Will It Do It Again?",
         "title_original": "Your Agent Aced the Task. Will It Do It Again?",
         "summary": null,
@@ -254,90 +450,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
-      }
-    },
-    {
-      "story_id": "story_47bd15dd2064",
-      "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-          "title_zh": "GitHub Copilot 建议自定义属性定义",
-          "title_en": "GitHub Copilot suggests custom properties definitions",
-          "title_original": "GitHub Copilot suggests custom properties definitions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-          "title_zh": "GitHub Copilot 建议自定义属性定义",
-          "title_en": "GitHub Copilot suggests custom properties definitions",
-          "title_original": "GitHub Copilot suggests custom properties definitions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.789,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T19:07:47Z",
-      "latest_at": "2026-09-15T19:07:47Z",
-      "primary_item": {
-        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-        "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-        "title_zh": "GitHub Copilot 建议自定义属性定义",
-        "title_en": "GitHub Copilot suggests custom properties definitions",
-        "title_original": "GitHub Copilot suggests custom properties definitions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
@@ -385,15 +498,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7542,
+        "recency": 0.7131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,30 +533,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
-      "story_id": "story_9d2155aa5b6f",
-      "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-      "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "story_id": "story_47bd15dd2064",
+      "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-          "title_zh": "强制执行 GitHub 高级安全配置",
-          "title_en": "Enforce GitHub Advanced Security configurations",
-          "title_original": "Enforce GitHub Advanced Security configurations",
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+          "title_zh": "GitHub Copilot 建议自定义属性定义",
+          "title_en": "GitHub Copilot suggests custom properties definitions",
+          "title_original": "GitHub Copilot suggests custom properties definitions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
+          "published_at": "2026-09-15T19:07:47Z"
         }
       ],
       "source_count": 1,
@@ -452,31 +565,31 @@
       ],
       "items": [
         {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-          "title_zh": "强制执行 GitHub 高级安全配置",
-          "title_en": "Enforce GitHub Advanced Security configurations",
-          "title_original": "Enforce GitHub Advanced Security configurations",
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+          "title_zh": "GitHub Copilot 建议自定义属性定义",
+          "title_en": "GitHub Copilot suggests custom properties definitions",
+          "title_original": "GitHub Copilot suggests custom properties definitions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
+          "published_at": "2026-09-15T19:07:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7936,
+        "ai_relevance": 0.91,
+        "recency": 0.7461,
         "story_heat": 0.0
       },
       "category": "official",
@@ -485,17 +598,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T19:31:58Z",
-      "latest_at": "2026-09-15T19:31:58Z",
+      "earliest_at": "2026-09-15T19:07:47Z",
+      "latest_at": "2026-09-15T19:07:47Z",
       "primary_item": {
-        "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-        "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
-        "title_zh": "强制执行 GitHub 高级安全配置",
-        "title_en": "Enforce GitHub Advanced Security configurations",
-        "title_original": "Enforce GitHub Advanced Security configurations",
+        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+        "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+        "title_zh": "GitHub Copilot 建议自定义属性定义",
+        "title_en": "GitHub Copilot suggests custom properties definitions",
+        "title_original": "GitHub Copilot suggests custom properties definitions",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -503,7 +616,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
+      }
+    },
+    {
+      "story_id": "story_1615464a9e77",
+      "title": "何夕2077 AI 深度信号周报 2026 W37",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9727,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:29:54Z",
+      "latest_at": "2026-09-16T13:29:54Z",
+      "primary_item": {
+        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+        "title": "何夕2077 AI 深度信号周报 2026 W37",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 2026 W37",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
@@ -551,15 +746,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7542,
+        "recency": 0.7131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -586,7 +781,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
@@ -634,15 +829,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9455,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -668,7 +863,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
+      }
+    },
+    {
+      "story_id": "story_0155d9a74bfb",
+      "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
+      "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "primary_url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+          "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
+          "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
+          "title_en": "https://x.com/i/article/2100222503125917696",
+          "title_original": "https://x.com/i/article/2100222503125917696",
+          "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T14:01:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
+      ],
+      "items": [
+        {
+          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+          "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
+          "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
+          "title_en": "https://x.com/i/article/2100222503125917696",
+          "title_original": "https://x.com/i/article/2100222503125917696",
+          "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T14:01:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9801,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T14:01:39Z",
+      "latest_at": "2026-09-16T14:01:39Z",
+      "primary_item": {
+        "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+        "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
+        "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
+        "title_en": "https://x.com/i/article/2100222503125917696",
+        "title_original": "https://x.com/i/article/2100222503125917696",
+        "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T15:56:36.492186Z"
+      }
+    },
+    {
+      "story_id": "story_9d2155aa5b6f",
+      "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
+      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
+          "title_zh": "强制执行 GitHub 高级安全配置",
+          "title_en": "Enforce GitHub Advanced Security configurations",
+          "title_original": "Enforce GitHub Advanced Security configurations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T19:31:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+          "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
+          "title_zh": "强制执行 GitHub 高级安全配置",
+          "title_en": "Enforce GitHub Advanced Security configurations",
+          "title_original": "Enforce GitHub Advanced Security configurations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T19:31:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7504,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T19:31:58Z",
+      "latest_at": "2026-09-15T19:31:58Z",
+      "primary_item": {
+        "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+        "title": "强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations",
+        "title_zh": "强制执行 GitHub 高级安全配置",
+        "title_en": "Enforce GitHub Advanced Security configurations",
+        "title_original": "Enforce GitHub Advanced Security configurations",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
@@ -716,15 +1076,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7508,
+        "recency": 0.7099,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -749,90 +1109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
-      }
-    },
-    {
-      "story_id": "story_e9723634bac0",
-      "title": "SHA-1 in HTTPS on GitHub sunset",
-      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "SHA-1 in HTTPS on GitHub sunset",
-          "title_zh": null,
-          "title_en": "SHA-1 in HTTPS on GitHub sunset",
-          "title_original": "SHA-1 in HTTPS on GitHub sunset",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "SHA-1 in HTTPS on GitHub sunset",
-          "title_zh": null,
-          "title_en": "SHA-1 in HTTPS on GitHub sunset",
-          "title_original": "SHA-1 in HTTPS on GitHub sunset",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7628,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:47:20Z",
-      "latest_at": "2026-09-15T16:47:20Z",
-      "primary_item": {
-        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-        "title": "SHA-1 in HTTPS on GitHub sunset",
-        "title_zh": null,
-        "title_en": "SHA-1 in HTTPS on GitHub sunset",
-        "title_original": "SHA-1 in HTTPS on GitHub sunset",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
@@ -880,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7542,
+        "recency": 0.7131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -915,7 +1192,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
@@ -963,15 +1240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9455,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -997,250 +1274,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
-      "story_id": "story_76c680c2d727",
-      "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-      "url": "https://www.ithome.com/1/002/750.htm",
-      "primary_url": "https://www.ithome.com/1/002/750.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_e9723634bac0",
+      "title": "SHA-1 in HTTPS on GitHub sunset",
+      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
-          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-          "title_zh": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-          "title_en": null,
-          "title_original": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-          "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "SHA-1 in HTTPS on GitHub sunset",
+          "title_zh": null,
+          "title_en": "SHA-1 in HTTPS on GitHub sunset",
+          "title_original": "SHA-1 in HTTPS on GitHub sunset",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/002/750.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T11:48:13Z"
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:47:20Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
-          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-          "title_zh": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-          "title_en": null,
-          "title_original": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-          "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+          "title": "SHA-1 in HTTPS on GitHub sunset",
+          "title_zh": null,
+          "title_en": "SHA-1 in HTTPS on GitHub sunset",
+          "title_original": "SHA-1 in HTTPS on GitHub sunset",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/002/750.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T11:48:13Z"
+          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-15T16:47:20Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
-      "importance_label": "行业动态",
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7098,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-15T11:48:13Z",
-      "latest_at": "2026-09-15T11:48:13Z",
+      "earliest_at": "2026-09-15T16:47:20Z",
+      "latest_at": "2026-09-15T16:47:20Z",
       "primary_item": {
-        "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
-        "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-        "title_zh": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-        "title_en": null,
-        "title_original": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-        "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
+        "title": "SHA-1 in HTTPS on GitHub sunset",
+        "title_zh": null,
+        "title_en": "SHA-1 in HTTPS on GitHub sunset",
+        "title_original": "SHA-1 in HTTPS on GitHub sunset",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/002/750.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
-      }
-    },
-    {
-      "story_id": "story_357c98674764",
-      "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶 / Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-      "url": "https://x.com/arena/status/2099971741993050236",
-      "primary_url": "https://x.com/arena/status/2099971741993050236",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶 / Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "title_zh": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-          "title_en": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "title_original": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "summary": "Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2099971741993050236",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T21:20:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶 / Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "title_zh": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-          "title_en": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "title_original": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "summary": "Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2099971741993050236",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T21:20:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8147,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T21:20:53Z",
-      "latest_at": "2026-09-15T21:20:53Z",
-      "primary_item": {
-        "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-        "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶 / Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-        "title_zh": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-        "title_en": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-        "title_original": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-        "summary": "Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2099971741993050236",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
-      }
-    },
-    {
-      "story_id": "story_1f03fd5fd50a",
-      "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元 / We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
-      "url": "https://x.com/AravSrinivas/status/2099957318935028173",
-      "primary_url": "https://x.com/AravSrinivas/status/2099957318935028173",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "221ebd9826c4329ea766beb02d2c6824314439fc",
-          "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元 / We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
-          "title_zh": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-          "title_en": "We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
-          "title_original": "We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
-          "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AravSrinivas/status/2099957318935028173",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T20:23:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "221ebd9826c4329ea766beb02d2c6824314439fc",
-          "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元 / We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
-          "title_zh": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-          "title_en": "We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
-          "title_original": "We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
-          "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AravSrinivas/status/2099957318935028173",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T20:23:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8036,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T20:23:34Z",
-      "latest_at": "2026-09-15T20:23:34Z",
-      "primary_item": {
-        "id": "221ebd9826c4329ea766beb02d2c6824314439fc",
-        "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元 / We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
-        "title_zh": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-        "title_en": "We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
-        "title_original": "We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
-        "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AravSrinivas/status/2099957318935028173",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
@@ -1288,15 +1405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9455,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1322,90 +1439,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
-      }
-    },
-    {
-      "story_id": "story_b933e12f991b",
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "title_zh": null,
-          "title_en": "New insights from Google’s AI & Economy ATLAS",
-          "title_original": "New insights from Google’s AI & Economy ATLAS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "title_zh": null,
-          "title_en": "New insights from Google’s AI & Economy ATLAS",
-          "title_original": "New insights from Google’s AI & Economy ATLAS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.794,
-      "importance": 0.794,
-      "importance_score": 0.794,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7222,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T13:00:00Z",
-      "latest_at": "2026-09-15T13:00:00Z",
-      "primary_item": {
-        "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-        "title": "New insights from Google’s AI & Economy ATLAS",
-        "title_zh": null,
-        "title_en": "New insights from Google’s AI & Economy ATLAS",
-        "title_original": "New insights from Google’s AI & Economy ATLAS",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
@@ -1453,15 +1487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9455,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1487,7 +1521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
@@ -1535,15 +1569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9455,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1569,94 +1603,121 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
-      "story_id": "story_f90f376fdee8",
-      "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-      "url": "https://www.aibase.com/news/31091",
-      "primary_url": "https://www.aibase.com/news/31091",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_609ad4eabb3c",
+      "title": "Microsoft AI chief warns Anthropic’s humanlike Claude is risky - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3lVZEplQnlOWUwwVl8ySUprZ3NwWjBnUkUyam1kQ3F1VnNCUzFCN3RSR2VFcjRSeW9lQmk5M3E0VkJ2dWFtc3Fab1FfZVlrMDQ4a1RhVXBfVjFCZ3k2RkROektTM3lNRGxxWUdhVm5lcUZRZ1VDMjQ2TlI3R0J2YXNSazhKOXJoZnpqc1Rja0FXc0JOSFFHUzZjVVFnSmF0NU1WRGc5cXdJdzh2VGdPN3ZNUk82c1AtREVJ0gHAAUFVX3lxTFBVb25GYl9sN05BTTNnT2xCYUxfa1hNMDhQQS1KRVc3cWh3R1lGYlEyUEdqZklsekM5QmE4bk01MlBOM3U0Qmp5ZFBvdGt1T1ZrSXpjOHh2MkFhMWt3dmtHajBmNnFpQ2tDbEhXYWVXWTN6NGFFMlh3dXVJb3o5V1paNEQ2dFVxT2ZFYW9lNmp4OVVBcEdyejVUczIyendPcHFUVGwxOS1Xc2c0bnRnY2JKbzJnRlRxXzhPT1NlZlVUeA?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3lVZEplQnlOWUwwVl8ySUprZ3NwWjBnUkUyam1kQ3F1VnNCUzFCN3RSR2VFcjRSeW9lQmk5M3E0VkJ2dWFtc3Fab1FfZVlrMDQ4a1RhVXBfVjFCZ3k2RkROektTM3lNRGxxWUdhVm5lcUZRZ1VDMjQ2TlI3R0J2YXNSazhKOXJoZnpqc1Rja0FXc0JOSFFHUzZjVVFnSmF0NU1WRGc5cXdJdzh2VGdPN3ZNUk82c1AtREVJ0gHAAUFVX3lxTFBVb25GYl9sN05BTTNnT2xCYUxfa1hNMDhQQS1KRVc3cWh3R1lGYlEyUEdqZklsekM5QmE4bk01MlBOM3U0Qmp5ZFBvdGt1T1ZrSXpjOHh2MkFhMWt3dmtHajBmNnFpQ2tDbEhXYWVXWTN6NGFFMlh3dXVJb3o5V1paNEQ2dFVxT2ZFYW9lNmp4OVVBcEdyejVUczIyendPcHFUVGwxOS1Xc2c0bnRnY2JKbzJnRlRxXzhPT1NlZlVUeA?oc=5",
+      "source": "GNews: Anthropic Claude",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
-          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "title_en": null,
-          "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
+          "id": "3a8fae0799f1445e96419b80f22a992e3276dfae",
+          "title": "Microsoft AI chief warns Anthropic’s humanlike Claude is risky - Moneycontrol.com",
+          "title_zh": null,
+          "title_en": "Microsoft AI chief warns Anthropic’s humanlike Claude is risky - Moneycontrol.com",
+          "title_original": "Microsoft AI chief warns Anthropic’s humanlike Claude is risky - Moneycontrol.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31091",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T11:32:16.054170Z"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3lVZEplQnlOWUwwVl8ySUprZ3NwWjBnUkUyam1kQ3F1VnNCUzFCN3RSR2VFcjRSeW9lQmk5M3E0VkJ2dWFtc3Fab1FfZVlrMDQ4a1RhVXBfVjFCZ3k2RkROektTM3lNRGxxWUdhVm5lcUZRZ1VDMjQ2TlI3R0J2YXNSazhKOXJoZnpqc1Rja0FXc0JOSFFHUzZjVVFnSmF0NU1WRGc5cXdJdzh2VGdPN3ZNUk82c1AtREVJ0gHAAUFVX3lxTFBVb25GYl9sN05BTTNnT2xCYUxfa1hNMDhQQS1KRVc3cWh3R1lGYlEyUEdqZklsekM5QmE4bk01MlBOM3U0Qmp5ZFBvdGt1T1ZrSXpjOHh2MkFhMWt3dmtHajBmNnFpQ2tDbEhXYWVXWTN6NGFFMlh3dXVJb3o5V1paNEQ2dFVxT2ZFYW9lNmp4OVVBcEdyejVUczIyendPcHFUVGwxOS1Xc2c0bnRnY2JKbzJnRlRxXzhPT1NlZlVUeA?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T14:53:04Z"
+        },
+        {
+          "id": "e4321d85940daf3d95c587985f7bb88284f4e885",
+          "title": "Microsoft AI Chief Warns Anthropic’s Humanlike Claude Is Risky - Bloomberg",
+          "title_zh": null,
+          "title_en": "Microsoft AI Chief Warns Anthropic’s Humanlike Claude Is Risky - Bloomberg",
+          "title_original": "Microsoft AI Chief Warns Anthropic’s Humanlike Claude Is Risky - Bloomberg",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1JCREtIdFpLTWZNUmZFUnM2UGZBdUR0bTFBMDNwQnZSeVFiRFEtOGdSX1ZiSUE3d05RZlhjT3owRFE2MmlyY1BLeHJYZ2l0RXk4LVg1bkZfU3ZWM0VMNWkzZ1NoVG0zRkZXRXNwOVd3MjZuVlVlbUxvdVllZzBJWE1XRFVIci16UDVZSXBVRzQ0UVJJZTJzRVdyc0RwOVRaRzhWYkdOa21JU3NYREpMaEhldw?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T14:08:07Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "GNews: Anthropic Claude"
       ],
       "items": [
         {
-          "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
-          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "title_en": null,
-          "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
+          "id": "3a8fae0799f1445e96419b80f22a992e3276dfae",
+          "title": "Microsoft AI chief warns Anthropic’s humanlike Claude is risky - Moneycontrol.com",
+          "title_zh": null,
+          "title_en": "Microsoft AI chief warns Anthropic’s humanlike Claude is risky - Moneycontrol.com",
+          "title_original": "Microsoft AI chief warns Anthropic’s humanlike Claude is risky - Moneycontrol.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31091",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T11:32:16.054170Z"
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3lVZEplQnlOWUwwVl8ySUprZ3NwWjBnUkUyam1kQ3F1VnNCUzFCN3RSR2VFcjRSeW9lQmk5M3E0VkJ2dWFtc3Fab1FfZVlrMDQ4a1RhVXBfVjFCZ3k2RkROektTM3lNRGxxWUdhVm5lcUZRZ1VDMjQ2TlI3R0J2YXNSazhKOXJoZnpqc1Rja0FXc0JOSFFHUzZjVVFnSmF0NU1WRGc5cXdJdzh2VGdPN3ZNUk82c1AtREVJ0gHAAUFVX3lxTFBVb25GYl9sN05BTTNnT2xCYUxfa1hNMDhQQS1KRVc3cWh3R1lGYlEyUEdqZklsekM5QmE4bk01MlBOM3U0Qmp5ZFBvdGt1T1ZrSXpjOHh2MkFhMWt3dmtHajBmNnFpQ2tDbEhXYWVXWTN6NGFFMlh3dXVJb3o5V1paNEQ2dFVxT2ZFYW9lNmp4OVVBcEdyejVUczIyendPcHFUVGwxOS1Xc2c0bnRnY2JKbzJnRlRxXzhPT1NlZlVUeA?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T14:53:04Z"
+        },
+        {
+          "id": "e4321d85940daf3d95c587985f7bb88284f4e885",
+          "title": "Microsoft AI Chief Warns Anthropic’s Humanlike Claude Is Risky - Bloomberg",
+          "title_zh": null,
+          "title_en": "Microsoft AI Chief Warns Anthropic’s Humanlike Claude Is Risky - Bloomberg",
+          "title_original": "Microsoft AI Chief Warns Anthropic’s Humanlike Claude Is Risky - Bloomberg",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc1JCREtIdFpLTWZNUmZFUnM2UGZBdUR0bTFBMDNwQnZSeVFiRFEtOGdSX1ZiSUE3d05RZlhjT3owRFE2MmlyY1BLeHJYZ2l0RXk4LVg1bkZfU3ZWM0VMNWkzZ1NoVG0zRkZXRXNwOVd3MjZuVlVlbUxvdVllZzBJWE1XRFVIci16UDVZSXBVRzQ0UVJJZTJzRVdyc0RwOVRaRzhWYkdOa21JU3NYREpMaEhldw?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-16T14:08:07Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6256,
+      "importance": 0.6256,
+      "importance_score": 0.6256,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.9923,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-16T11:32:16.054170Z",
-      "latest_at": "2026-09-16T11:32:16.054170Z",
+      "earliest_at": "2026-09-16T14:08:07Z",
+      "latest_at": "2026-09-16T14:53:04Z",
       "primary_item": {
-        "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
-        "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-        "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-        "title_en": null,
-        "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
+        "id": "3a8fae0799f1445e96419b80f22a992e3276dfae",
+        "title": "Microsoft AI chief warns Anthropic’s humanlike Claude is risky - Moneycontrol.com",
+        "title_zh": null,
+        "title_en": "Microsoft AI chief warns Anthropic’s humanlike Claude is risky - Moneycontrol.com",
+        "title_original": "Microsoft AI chief warns Anthropic’s humanlike Claude is risky - Moneycontrol.com",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31091",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3lVZEplQnlOWUwwVl8ySUprZ3NwWjBnUkUyam1kQ3F1VnNCUzFCN3RSR2VFcjRSeW9lQmk5M3E0VkJ2dWFtc3Fab1FfZVlrMDQ4a1RhVXBfVjFCZ3k2RkROektTM3lNRGxxWUdhVm5lcUZRZ1VDMjQ2TlI3R0J2YXNSazhKOXJoZnpqc1Rja0FXc0JOSFFHUzZjVVFnSmF0NU1WRGc5cXdJdzh2VGdPN3ZNUk82c1AtREVJ0gHAAUFVX3lxTFBVb25GYl9sN05BTTNnT2xCYUxfa1hNMDhQQS1KRVc3cWh3R1lGYlEyUEdqZklsekM5QmE4bk01MlBOM3U0Qmp5ZFBvdGt1T1ZrSXpjOHh2MkFhMWt3dmtHajBmNnFpQ2tDbEhXYWVXWTN6NGFFMlh3dXVJb3o5V1paNEQ2dFVxT2ZFYW9lNmp4OVVBcEdyejVUczIyendPcHFUVGwxOS1Xc2c0bnRnY2JKbzJnRlRxXzhPT1NlZlVUeA?oc=5",
+        "source": "GNews: Anthropic Claude",
+        "source_name": "OPML RSS"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     },
     {
       "story_id": "story_e505711c206e",
-      "title": "在LLM时代学习编程 / Learning Programming in an Age of LLMs",
+      "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
       "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
       "primary_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
       "source": "Hacker News Front Page",
@@ -1664,8 +1725,8 @@
       "sources": [
         {
           "id": "93bf9eea3ddbb38fb33e022bae892a285a490808",
-          "title": "在LLM时代学习编程 / Learning Programming in an Age of LLMs",
-          "title_zh": "在LLM时代学习编程",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在大语言模型时代学习编程",
           "title_en": "Learning Programming in an Age of LLMs",
           "title_original": "Learning Programming in an Age of LLMs",
           "summary": null,
@@ -1675,6 +1736,20 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-09-16T09:12:34Z"
+        },
+        {
+          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+          "title": "在大语言模型时代学习编程",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": null,
+          "title_original": "在大语言模型时代学习编程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "blog.ploeh.dk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T12:57:28.012000Z"
         },
         {
           "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
@@ -1691,16 +1766,17 @@
           "published_at": "2026-09-16T09:12:34Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News Front Page",
+        "blog.ploeh.dk",
         "hackernews"
       ],
       "items": [
         {
           "id": "93bf9eea3ddbb38fb33e022bae892a285a490808",
-          "title": "在LLM时代学习编程 / Learning Programming in an Age of LLMs",
-          "title_zh": "在LLM时代学习编程",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在大语言模型时代学习编程",
           "title_en": "Learning Programming in an Age of LLMs",
           "title_original": "Learning Programming in an Age of LLMs",
           "summary": null,
@@ -1710,6 +1786,20 @@
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
           "published_at": "2026-09-16T09:12:34Z"
+        },
+        {
+          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+          "title": "在大语言模型时代学习编程",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": null,
+          "title_original": "在大语言模型时代学习编程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "blog.ploeh.dk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T12:57:28.012000Z"
         },
         {
           "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
@@ -1726,29 +1816,29 @@
           "published_at": "2026-09-16T09:12:34Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6044,
-      "importance": 0.6044,
-      "importance_score": 0.6044,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6199,
+      "importance": 0.6199,
+      "importance_score": 0.6199,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9669,
-        "story_heat": 0.25
+        "recency": 0.9143,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-09-16T09:12:34Z",
-      "latest_at": "2026-09-16T09:12:34Z",
+      "latest_at": "2026-09-16T12:57:28.012000Z",
       "primary_item": {
         "id": "93bf9eea3ddbb38fb33e022bae892a285a490808",
-        "title": "在LLM时代学习编程 / Learning Programming in an Age of LLMs",
-        "title_zh": "在LLM时代学习编程",
+        "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+        "title_zh": "在大语言模型时代学习编程",
         "title_en": "Learning Programming in an Age of LLMs",
         "title_original": "Learning Programming in an Age of LLMs",
         "summary": null,
@@ -1761,7 +1851,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T11:33:44.777200Z"
+        "scored_at": "2026-09-16T15:56:36.492186Z"
       }
     }
   ]
