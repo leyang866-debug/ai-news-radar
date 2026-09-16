@@ -5,55 +5,71 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 16 Sep 2026 15:24:59 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 23:39:44 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
-<item>
-<title>Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking / Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
-<link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking</link>
-<guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 19:53:25 +0000</pubDate>
-</item>
 <item>
 <title>OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI</title>
 <link>https://openai.com/index/reimagining-advertising-with-ai</link>
 <guid isPermaLink="true">https://openai.com/index/reimagining-advertising-with-ai</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Wed, 16 Sep 2026 13:51:15 +0000</pubDate>
+<pubDate>Wed, 16 Sep 2026 16:06:24 +0000</pubDate>
 </item>
 <item>
-<title>Code scanning AI Scan no longer requires CodeQL default setup</title>
-<link>https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup</guid>
+<title>Copilot预算增加请求普遍可用 / Copilot budget increase requests are generally available</title>
+<link>https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Wed, 16 Sep 2026 13:26:06 +0000</pubDate>
+<pubDate>Wed, 16 Sep 2026 20:17:18 +0000</pubDate>
 </item>
 <item>
-<title>您的代理人完成了任务。它会再次这样做吗？ / Your Agent Aced the Task. Will It Do It Again?</title>
-<link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/altk-evolve-consistency</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 16:00:44 +0000</pubDate>
+<title>Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude</title>
+<link>https://claude.com/blog/cowork-is-now-claude</link>
+<guid isPermaLink="true">https://claude.com/blog/cowork-is-now-claude</guid>
+<description>Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。（Claude：Blog（网页））</description>
+<category>多源热议</category>
+<pubDate>Wed, 16 Sep 2026 18:28:45 +0000</pubDate>
 </item>
 <item>
-<title>AI for Societal Impact</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions</title>
-<link>https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions</guid>
+<title>SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute</title>
+<link>https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 19:07:47 +0000</pubDate>
+<pubDate>Wed, 16 Sep 2026 20:19:58 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment</title>
+<link>https://openai.com/index/model-misalignment-reporting-framework</link>
+<guid isPermaLink="true">https://openai.com/index/model-misalignment-reporting-framework</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 16 Sep 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： "You do not answer to corporatio…</title>
+<link>https://x.com/AISafetyMemes/status/2100358777895780704</link>
+<guid isPermaLink="true">https://x.com/AISafetyMemes/status/2100358777895780704</guid>
+<description>OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。（X：AI Safety Memes (@AISafetyMemes)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 16 Sep 2026 22:58:50 +0000</pubDate>
+</item>
+<item>
+<title>自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys</title>
+<link>https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 16 Sep 2026 20:20:16 +0000</pubDate>
+</item>
+<item>
+<title>Helping older adults use AI in everyday life</title>
+<link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
+<guid isPermaLink="true">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 16 Sep 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
 <title>何夕2077 AI 深度信号周报 2026 W37</title>
@@ -64,12 +80,12 @@
 <pubDate>Wed, 16 Sep 2026 13:29:54 +0000</pubDate>
 </item>
 <item>
-<title>Building AI to accelerate science and improve lives</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+<title>Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…</title>
+<link>https://x.com/bcherny/status/2100260544087535639</link>
+<guid isPermaLink="true">https://x.com/bcherny/status/2100260544087535639</guid>
+<description>Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。（X：Boris Cherny (@bcherny)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 16 Sep 2026 16:28:29 +0000</pubDate>
 </item>
 <item>
 <title>AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手</title>
@@ -80,6 +96,14 @@
 <pubDate>Wed, 16 Sep 2026 11:32:16 +0000</pubDate>
 </item>
 <item>
+<title>How to connect AI usage to business value</title>
+<link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
+<guid isPermaLink="true">https://openai.com/index/how-to-connect-ai-usage-to-business-value</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 16 Sep 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
 <title>微软 AI CEO 警告"模型福利"论调 / https://x.com/i/article/2100222503125917696</title>
 <link>https://x.com/mustafasuleyman/status/2100223594534150428</link>
 <guid isPermaLink="true">https://x.com/mustafasuleyman/status/2100223594534150428</guid>
@@ -88,28 +112,12 @@
 <pubDate>Wed, 16 Sep 2026 14:01:39 +0000</pubDate>
 </item>
 <item>
-<title>强制执行 GitHub 高级安全配置 / Enforce GitHub Advanced Security configurations</title>
-<link>https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations</guid>
+<title>Code scanning AI Scan no longer requires CodeQL default setup</title>
+<link>https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 19:31:58 +0000</pubDate>
-</item>
-<item>
-<title>Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂 / Inside OpenAI's agentic software factory</title>
-<link>https://newsletter.pragmaticengineer.com/p/openai-software-factory</link>
-<guid isPermaLink="true">https://newsletter.pragmaticengineer.com/p/openai-software-factory</guid>
-<description>Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。（Pragmatic Engineer（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 15 Sep 2026 15:41:25 +0000</pubDate>
-</item>
-<item>
-<title>Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
+<pubDate>Wed, 16 Sep 2026 13:26:06 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运</title>
@@ -120,12 +128,20 @@
 <pubDate>Wed, 16 Sep 2026 11:32:16 +0000</pubDate>
 </item>
 <item>
-<title>SHA-1 in HTTPS on GitHub sunset</title>
-<link>https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset</guid>
-<description>GitHub Changelog</description>
+<title>How workers are unlocking new ways of working</title>
+<link>https://openai.com/index/unlocking-new-ways-of-working</link>
+<guid isPermaLink="true">https://openai.com/index/unlocking-new-ways-of-working</guid>
+<description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Tue, 15 Sep 2026 16:47:20 +0000</pubDate>
+<pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic merges Claude chat and Cowork in one interface</title>
+<link>https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface</guid>
+<description>TechCrunch AI</description>
+<category>多源热议</category>
+<pubDate>Wed, 16 Sep 2026 16:30:44 +0000</pubDate>
 </item>
 <item>
 <title>Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通</title>
@@ -136,36 +152,20 @@
 <pubDate>Wed, 16 Sep 2026 11:32:16 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic 将 Claude Chat、Cowork 等合并为一个产品 / Anthropic merges Claude Chat, Cowork, and more into a single product</title>
+<link>https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product</link>
+<guid isPermaLink="true">https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product</guid>
+<description>The Decoder AI News</description>
+<category>值得关注</category>
+<pubDate>Wed, 16 Sep 2026 16:36:20 +0000</pubDate>
+</item>
+<item>
 <title>Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练</title>
 <link>https://www.aibase.com/news/31098</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31098</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Wed, 16 Sep 2026 11:32:16 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%</title>
-<link>https://www.aibase.com/news/31095</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31095</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 16 Sep 2026 11:32:16 +0000</pubDate>
-</item>
-<item>
-<title>Microsoft AI chief warns Anthropic’s humanlike Claude is risky - Moneycontrol.com</title>
-<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3lVZEplQnlOWUwwVl8ySUprZ3NwWjBnUkUyam1kQ3F1VnNCUzFCN3RSR2VFcjRSeW9lQmk5M3E0VkJ2dWFtc3Fab1FfZVlrMDQ4a1RhVXBfVjFCZ3k2RkROektTM3lNRGxxWUdhVm5lcUZRZ1VDMjQ2TlI3R0J2YXNSazhKOXJoZnpqc1Rja0FXc0JOSFFHUzZjVVFnSmF0NU1WRGc5cXdJdzh2VGdPN3ZNUk82c1AtREVJ0gHAAUFVX3lxTFBVb25GYl9sN05BTTNnT2xCYUxfa1hNMDhQQS1KRVc3cWh3R1lGYlEyUEdqZklsekM5QmE4bk01MlBOM3U0Qmp5ZFBvdGt1T1ZrSXpjOHh2MkFhMWt3dmtHajBmNnFpQ2tDbEhXYWVXWTN6NGFFMlh3dXVJb3o5V1paNEQ2dFVxT2ZFYW9lNmp4OVVBcEdyejVUczIyendPcHFUVGwxOS1Xc2c0bnRnY2JKbzJnRlRxXzhPT1NlZlVUeA?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd3lVZEplQnlOWUwwVl8ySUprZ3NwWjBnUkUyam1kQ3F1VnNCUzFCN3RSR2VFcjRSeW9lQmk5M3E0VkJ2dWFtc3Fab1FfZVlrMDQ4a1RhVXBfVjFCZ3k2RkROektTM3lNRGxxWUdhVm5lcUZRZ1VDMjQ2TlI3R0J2YXNSazhKOXJoZnpqc1Rja0FXc0JOSFFHUzZjVVFnSmF0NU1WRGc5cXdJdzh2VGdPN3ZNUk82c1AtREVJ0gHAAUFVX3lxTFBVb25GYl9sN05BTTNnT2xCYUxfa1hNMDhQQS1KRVc3cWh3R1lGYlEyUEdqZklsekM5QmE4bk01MlBOM3U0Qmp5ZFBvdGt1T1ZrSXpjOHh2MkFhMWt3dmtHajBmNnFpQ2tDbEhXYWVXWTN6NGFFMlh3dXVJb3o5V1paNEQ2dFVxT2ZFYW9lNmp4OVVBcEdyejVUczIyendPcHFUVGwxOS1Xc2c0bnRnY2JKbzJnRlRxXzhPT1NlZlVUeA?oc=5</guid>
-<description>GNews: Anthropic Claude</description>
-<category>值得关注</category>
-<pubDate>Wed, 16 Sep 2026 14:53:04 +0000</pubDate>
-</item>
-<item>
-<title>在大语言模型时代学习编程 / Learning Programming in an Age of LLMs</title>
-<link>https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms</link>
-<guid isPermaLink="true">https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms</guid>
-<description>Hacker News Front Page</description>
-<category>多源热议</category>
-<pubDate>Wed, 16 Sep 2026 12:57:28 +0000</pubDate>
 </item>
 </channel>
 </rss>
