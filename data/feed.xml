@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 19 Sep 2026 12:30:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 14:23:15 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>美军因 AI 幻觉情报报告险些拦截中国船只 / US Military had close call after using AI for hallucinated intelligence report</title>
@@ -32,22 +32,6 @@
 <pubDate>Fri, 18 Sep 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>新专家加入 Google 人工智能与经济团队 / New experts join Google’s AI &amp; Economy team</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 18 Sep 2026 14:00:00 +0000</pubDate>
-</item>
-<item>
-<title>研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI</title>
-<link>https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai</guid>
-<description>Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。（TechCrunch：AI（RSS））</description>
-<category>多源热议</category>
-<pubDate>Fri, 18 Sep 2026 14:00:14 +0000</pubDate>
-</item>
-<item>
 <title>GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14</title>
 <link>https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14</guid>
@@ -70,14 +54,6 @@
 <description>谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的"捕获旗帜"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。（IT之家（RSS））</description>
 <category>行业动态</category>
 <pubDate>Fri, 18 Sep 2026 23:11:25 +0000</pubDate>
-</item>
-<item>
-<title>与 Google 共同创造时尚的未来 / Co-creating the future of fashion with Google</title>
-<link>https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week</link>
-<guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 18 Sep 2026 13:00:00 +0000</pubDate>
 </item>
 <item>
 <title>FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …</title>
@@ -166,6 +142,30 @@
 <description>Hacker News Front Page</description>
 <category>多源热议</category>
 <pubDate>Sat, 19 Sep 2026 06:27:05 +0000</pubDate>
+</item>
+<item>
+<title>Gemini 首次利用谷歌人工智能攻击了三家公司 / Gemini Hacked Three Companies in First Known Breakout by Google’s AI</title>
+<link>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies</guid>
+<description>Simon Willison</description>
+<category>多源热议</category>
+<pubDate>Sat, 19 Sep 2026 01:40:35 +0000</pubDate>
+</item>
+<item>
+<title>研究小组利用 Anthropic 的 Claude 来破解 A.I.竞争对手 - 现代加纳 / Research group utilizes Anthropic's Claude to hack A.I. competitor - Modern Ghana</title>
+<link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxUEhMMFhWOV9xZ3NVcWdGZ0loQ1p3NTkwXzdac3dzZ2hYdnowQzlhV3FEX3ZJejZVRUF5eUozNlMxYVBZcU5PV1dLQUJYdzVMeWQxLXBuQ2xCZW1CRFdv0gFcQVVfeXFMUHNxTGwtOTdOMGQ4LUFxTGMwNUl1Wk9VUXJNRDBlWldMcGx6emhDUzNxUVBLOGVHZEZUZFhMNmlUUHdBN0RHamQ2amNhQ1ZIbDJvbWYzMVJNRW51T2U?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxUEhMMFhWOV9xZ3NVcWdGZ0loQ1p3NTkwXzdac3dzZ2hYdnowQzlhV3FEX3ZJejZVRUF5eUozNlMxYVBZcU5PV1dLQUJYdzVMeWQxLXBuQ2xCZW1CRFdv0gFcQVVfeXFMUHNxTGwtOTdOMGQ4LUFxTGMwNUl1Wk9VUXJNRDBlWldMcGx6emhDUzNxUVBLOGVHZEZUZFhMNmlUUHdBN0RHamQ2amNhQ1ZIbDJvbWYzMVJNRW51T2U?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Sat, 19 Sep 2026 03:11:13 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6 Astra 破解了一段一战时期的德国无线电密文 / GPT-6 Astra Solves a WWI German Radio Cipher</title>
+<link>https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</link>
+<guid isPermaLink="true">https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio</guid>
+<description>Hacker News Front Page</description>
+<category>多源热议</category>
+<pubDate>Sat, 19 Sep 2026 09:35:29 +0000</pubDate>
 </item>
 </channel>
 </rss>
