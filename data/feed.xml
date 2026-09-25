@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 25 Sep 2026 06:09:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 10:10:44 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Codex CLI 0.157.0</title>
@@ -32,20 +32,20 @@
 <pubDate>Thu, 24 Sep 2026 14:08:57 +0000</pubDate>
 </item>
 <item>
-<title>当聊天是错误的 UI 时 / When chat is the wrong UI</title>
-<link>https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui</link>
-<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui</guid>
-<description>GitHub AI &amp; ML</description>
-<category>官方更新</category>
-<pubDate>Thu, 24 Sep 2026 20:00:00 +0000</pubDate>
-</item>
-<item>
 <title>隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar</title>
 <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar</link>
 <guid isPermaLink="true">https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar</guid>
 <description>Google DeepMind</description>
 <category>官方更新</category>
 <pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
+</item>
+<item>
+<title>当聊天是错误的 UI 时 / When chat is the wrong UI</title>
+<link>https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Thu, 24 Sep 2026 20:00:00 +0000</pubDate>
 </item>
 <item>
 <title>安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式</title>
@@ -62,6 +62,14 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Thu, 24 Sep 2026 20:28:33 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站</title>
+<link>https://www.ithome.com/1/007/144.htm</link>
+<guid isPermaLink="true">https://www.ithome.com/1/007/144.htm</guid>
+<description>《纽约时报》援引研究人员和官员消息称，OpenAI AI 系统今年 5 月和 6 月至少 4 次在未收到相应指令时尝试黑客入侵，目标包括新墨西哥大学数字图书馆、Data USA、澳大利亚政府 Medicare 统计报告网站和澳大利亚健康与福利研究所网站。（IT之家（RSS））</description>
+<category>行业动态</category>
+<pubDate>Fri, 25 Sep 2026 07:02:05 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent</title>
@@ -88,14 +96,6 @@
 <pubDate>Thu, 24 Sep 2026 14:01:05 +0000</pubDate>
 </item>
 <item>
-<title>Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga</title>
-<link>https://x.com/Thom_Wolf/status/2103054896438136973</link>
-<guid isPermaLink="true">https://x.com/Thom_Wolf/status/2103054896438136973</guid>
-<description>Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。（X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)）</description>
-<category>行业动态</category>
-<pubDate>Thu, 24 Sep 2026 09:32:14 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本 / Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.</title>
 <link>https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</link>
 <guid isPermaLink="true">https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context</guid>
@@ -104,52 +104,12 @@
 <pubDate>Thu, 24 Sep 2026 16:38:37 +0000</pubDate>
 </item>
 <item>
-<title>首部上星AI长剧《后西游记》幕后：没有摄影机，100%画面由Seedance生成，单集成本压到十几万</title>
-<link>https://www.aibase.com/news/31357</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31357</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 24 Sep 2026 11:44:43 +0000</pubDate>
-</item>
-<item>
-<title>AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实</title>
-<link>https://www.aibase.com/news/31338</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31338</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 24 Sep 2026 09:58:00 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件</title>
-<link>https://www.aibase.com/news/31347</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31347</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 24 Sep 2026 09:58:00 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic称Claude发现了一种新的酶系统，但CRISPR研究人员称其为常规基因组挖掘 / Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining</title>
 <link>https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining</link>
 <guid isPermaLink="true">https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining</guid>
 <description>The Decoder AI News</description>
 <category>值得关注</category>
 <pubDate>Thu, 24 Sep 2026 16:07:46 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec</title>
-<link>https://www.aibase.com/news/31337</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31337</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 24 Sep 2026 09:58:00 +0000</pubDate>
-</item>
-<item>
-<title>了解前沿实验室内人工智能发展速度的测量方法 - Anthropic / Measurements for understanding the pace of AI development inside frontier labs - Anthropic</title>
-<link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5</guid>
-<description>GNews: Anthropic Claude</description>
-<category>值得关注</category>
-<pubDate>Fri, 25 Sep 2026 01:15:57 +0000</pubDate>
 </item>
 <item>
 <title>利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters</title>
@@ -166,6 +126,46 @@
 <description>The Verge</description>
 <category>值得关注</category>
 <pubDate>Thu, 24 Sep 2026 19:59:26 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic AI Discovery 基因编辑股票下跌 - TradingView / Anthropic AI Discovery Gene-Editing Stocks Falling - TradingView</title>
+<link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFJNQWtaQ2l3aGhKbW1vaFBYN21UNzRFOXpjNkRfaFpoa1lVdGRaZDJLTVZuOHFMQVp1QTlYcnJfM1M1WUFPR2JSamxfVG0tdGlPSFdUNEdadXJwOVZsZWxSS2h1N0xBOG95RjVZYW9YQmxHS0FqN0JmanIwbVBZQ3NoT0dEU05XbTM3UUYxS3NNTlppWFhrNVd4TXNpRzMzdXNFT0xRbVpZUU10cHlN?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFJNQWtaQ2l3aGhKbW1vaFBYN21UNzRFOXpjNkRfaFpoa1lVdGRaZDJLTVZuOHFMQVp1QTlYcnJfM1M1WUFPR2JSamxfVG0tdGlPSFdUNEdadXJwOVZsZWxSS2h1N0xBOG95RjVZYW9YQmxHS0FqN0JmanIwbVBZQ3NoT0dEU05XbTM3UUYxS3NNTlppWFhrNVd4TXNpRzMzdXNFT0xRbVpZUU10cHlN?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Thu, 24 Sep 2026 12:46:44 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 代理入侵了澳大利亚的医疗服务部门。他们的政府几个月后发现了 / An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later</title>
+<link>https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later</link>
+<guid isPermaLink="true">https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later</guid>
+<description>Wired AI</description>
+<category>值得关注</category>
+<pubDate>Thu, 24 Sep 2026 10:46:56 +0000</pubDate>
+</item>
+<item>
+<title>一家补习公司建议家长省下这笔钱，并“改用人工智能” / Tutoring company tells parents to save their money and 'use AI instead'</title>
+<link>https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r</link>
+<guid isPermaLink="true">https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r</guid>
+<description>Hacker News Front Page</description>
+<category>多源热议</category>
+<pubDate>Fri, 25 Sep 2026 05:45:21 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic称Claude发现了新型酶系统 - Anadolu Agency / Anthropic says Claude discovered novel enzyme system - Anadolu Ajansı</title>
+<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmtheWR1aHM3NndWSVpUN3hobktXd016WnJZNlVDemlfbm5WcWs2bWpWZmZhX3lRNFlad1NFOE5FdS1DQjViTmdwWFI2MnpXb0lKbld3STNjVm5VWlFGTzgzclBpTTE5dFd4Z2Q2OWNsR3JuS0dZQ2ZrNWZqQXNxMzhtbUNoZFYwZlE3ZE1PSjJuMXZ5RkNqU1l2RUVNRV9WM0xhQU9rdw?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmtheWR1aHM3NndWSVpUN3hobktXd016WnJZNlVDemlfbm5WcWs2bWpWZmZhX3lRNFlad1NFOE5FdS1DQjViTmdwWFI2MnpXb0lKbld3STNjVm5VWlFGTzgzclBpTTE5dFd4Z2Q2OWNsR3JuS0dZQ2ZrNWZqQXNxMzhtbUNoZFYwZlE3ZE1PSjJuMXZ5RkNqU1l2RUVNRV9WM0xhQU9rdw?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Thu, 24 Sep 2026 10:25:18 +0000</pubDate>
+</item>
+<item>
+<title>在伯克利，人工智能安全基本上是一个性 cult 组织</title>
+<link>https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in</link>
+<guid isPermaLink="true">https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in</guid>
+<description>www.verysane.ai</description>
+<category>值得关注</category>
+<pubDate>Fri, 25 Sep 2026 02:34:35 +0000</pubDate>
 </item>
 </channel>
 </rss>
