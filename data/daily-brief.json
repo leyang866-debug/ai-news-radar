@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:31:33.413344Z",
+  "generated_at": "2026-09-24T23:53:40.650976Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8502,
-      "importance": 0.8502,
-      "importance_score": 0.8502,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.912,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
+      }
+    },
+    {
+      "story_id": "story_3bb099e6ac71",
+      "title": "Require proof of presence for high-impact actions",
+      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+      "primary_url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
+          "title": "Require proof of presence for high-impact actions",
+          "title_zh": null,
+          "title_en": "Require proof of presence for high-impact actions",
+          "title_original": "Require proof of presence for high-impact actions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T20:28:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
+          "title": "Require proof of presence for high-impact actions",
+          "title_zh": null,
+          "title_en": "Require proof of presence for high-impact actions",
+          "title_original": "Require proof of presence for high-impact actions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T20:28:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9518,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T20:28:33Z",
+      "latest_at": "2026-09-24T20:28:33Z",
+      "primary_item": {
+        "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
+        "title": "Require proof of presence for high-impact actions",
+        "title_zh": null,
+        "title_en": "Require proof of presence for high-impact actions",
+        "title_original": "Require proof of presence for high-impact actions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9924,
+        "recency": 0.9453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9414,
+        "recency": 0.8967,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -355,15 +438,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9548,
+        "recency": 0.9095,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -390,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -438,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9703,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,90 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
-      }
-    },
-    {
-      "story_id": "story_a34e63681a0b",
-      "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
-      "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-      "primary_url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-          "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
-          "title_zh": "请求和配置 Copilot 代码审查的更多方法",
-          "title_en": "More ways to request and configure Copilot code reviews",
-          "title_original": "More ways to request and configure Copilot code reviews",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T21:25:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-          "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
-          "title_zh": "请求和配置 Copilot 代码审查的更多方法",
-          "title_en": "More ways to request and configure Copilot code reviews",
-          "title_original": "More ways to request and configure Copilot code reviews",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T21:25:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7164,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T21:25:58Z",
-      "latest_at": "2026-09-23T21:25:58Z",
-      "primary_item": {
-        "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-        "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
-        "title_zh": "请求和配置 Copilot 代码审查的更多方法",
-        "title_en": "More ways to request and configure Copilot code reviews",
-        "title_original": "More ways to request and configure Copilot code reviews",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -604,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8958,
+        "recency": 0.8533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -638,7 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -686,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9103,
+        "recency": 0.8671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,7 +720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -768,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.8128,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -802,231 +802,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
-      }
-    },
-    {
-      "story_id": "story_4731b1d29236",
-      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "primary_url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a27344df02311e900846f6b1755060b1061300c",
-          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
-          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "www.smh.com.au",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
-          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统 / OpenAI breaches Medicare, Albanese reveals",
-          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_en": "OpenAI breaches Medicare, Albanese reveals",
-          "title_original": "OpenAI breaches Medicare, Albanese reveals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-23T21:01:48Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.smh.com.au"
-      ],
-      "items": [
-        {
-          "id": "8a27344df02311e900846f6b1755060b1061300c",
-          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
-          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "www.smh.com.au",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
-          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统 / OpenAI breaches Medicare, Albanese reveals",
-          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_en": "OpenAI breaches Medicare, Albanese reveals",
-          "title_original": "OpenAI breaches Medicare, Albanese reveals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-23T21:01:48Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7319,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T21:01:48Z",
-      "latest_at": "2026-09-23T22:54:29.320000Z",
-      "primary_item": {
-        "id": "8a27344df02311e900846f6b1755060b1061300c",
-        "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-        "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-        "title_en": null,
-        "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-        "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
-        "recommend_reason_zh": null,
-        "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
-      }
-    },
-    {
-      "story_id": "story_e8c6ef86f111",
-      "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
-      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-      "primary_url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-          "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
-          "title_zh": "Node 20 在 GitHub Actions 中不再可用",
-          "title_en": "Node 20 is no longer available in GitHub Actions",
-          "title_original": "Node 20 is no longer available in GitHub Actions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T20:46:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-          "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
-          "title_zh": "Node 20 在 GitHub Actions 中不再可用",
-          "title_en": "Node 20 is no longer available in GitHub Actions",
-          "title_original": "Node 20 is no longer available in GitHub Actions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T20:46:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7096,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T20:46:07Z",
-      "latest_at": "2026-09-23T20:46:07Z",
-      "primary_item": {
-        "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-        "title": "Node 20 在 GitHub Actions 中不再可用 / Node 20 is no longer available in GitHub Actions",
-        "title_zh": "Node 20 在 GitHub Actions 中不再可用",
-        "title_en": "Node 20 is no longer available in GitHub Actions",
-        "title_original": "Node 20 is no longer available in GitHub Actions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -1074,21 +850,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9455,
+        "recency": 0.9006,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-24T16:38:37.757000Z",
       "latest_at": "2026-09-24T16:38:37.757000Z",
@@ -1108,7 +883,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -1156,21 +931,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7648,
+        "recency": 0.7285,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-24T01:57:36Z",
       "latest_at": "2026-09-24T01:57:36Z",
@@ -1190,7 +964,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -1238,15 +1012,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7739,
+        "recency": 0.7371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1271,7 +1045,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -1319,15 +1093,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8809,
+        "recency": 0.8391,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1352,7 +1126,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -1400,15 +1174,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7565,
+        "recency": 0.7206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1433,7 +1207,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -1481,15 +1255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8901,
+        "recency": 0.8478,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1514,7 +1288,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
@@ -1562,15 +1336,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7435,
+        "recency": 0.7082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1595,169 +1369,361 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
-      "story_id": "story_cc7e5e42155c",
-      "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-      "url": "https://x.com/natolambert/status/2102872133244183038",
-      "primary_url": "https://x.com/natolambert/status/2102872133244183038",
-      "source": "X：Nathan Lambert (@natolambert)",
-      "source_name": "AI HOT",
+      "story_id": "story_e6d6f5c7088b",
+      "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+      "url": "https://www.aibase.com/news/31338",
+      "primary_url": "https://www.aibase.com/news/31338",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+          "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
+          "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "title_en": null,
+          "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2102872133244183038",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:26:00Z"
+          "url": "https://www.aibase.com/news/31338",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T09:58:00.144984Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Nathan Lambert (@natolambert)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+          "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
+          "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "title_en": null,
+          "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2102872133244183038",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:26:00Z"
+          "url": "https://www.aibase.com/news/31338",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T09:58:00.144984Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7164,
+        "recency": 0.8178,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-23T21:26:00Z",
-      "latest_at": "2026-09-23T21:26:00Z",
+      "earliest_at": "2026-09-24T09:58:00.144984Z",
+      "latest_at": "2026-09-24T09:58:00.144984Z",
       "primary_item": {
-        "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-        "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-        "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+        "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
+        "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+        "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+        "title_en": null,
+        "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/natolambert/status/2102872133244183038",
-        "source": "X：Nathan Lambert (@natolambert)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31338",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     },
     {
-      "story_id": "story_c584793b4299",
-      "title": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-      "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-      "primary_url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
+      "story_id": "story_c8560cd1bebf",
+      "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+      "url": "https://www.aibase.com/news/31347",
+      "primary_url": "https://www.aibase.com/news/31347",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "e05ba012ca0ce4f3fb7bcfe0f8f06ff3efaffaec",
-          "title": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "title_zh": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度",
-          "title_en": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "title_original": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "summary": "Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。",
+          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
+          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "title_en": null,
+          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:23:41Z"
+          "url": "https://www.aibase.com/news/31347",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T09:58:00.144984Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e05ba012ca0ce4f3fb7bcfe0f8f06ff3efaffaec",
-          "title": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "title_zh": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度",
-          "title_en": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "title_original": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "summary": "Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。",
+          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
+          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "title_en": null,
+          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:23:41Z"
+          "url": "https://www.aibase.com/news/31347",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T09:58:00.144984Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
-      "importance_label": "官方更新",
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 1.0,
+        "editorial": 0.72,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.716,
+        "recency": 0.8178,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-23T21:23:41Z",
-      "latest_at": "2026-09-23T21:23:41Z",
+      "earliest_at": "2026-09-24T09:58:00.144984Z",
+      "latest_at": "2026-09-24T09:58:00.144984Z",
       "primary_item": {
-        "id": "e05ba012ca0ce4f3fb7bcfe0f8f06ff3efaffaec",
-        "title": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-        "title_zh": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度",
-        "title_en": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-        "title_original": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-        "summary": "Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。",
+        "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
+        "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+        "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+        "title_en": null,
+        "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31347",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:32:33.322641Z"
+        "scored_at": "2026-09-25T00:11:37.444947Z"
+      }
+    },
+    {
+      "story_id": "story_65a06990034d",
+      "title": "Anthropic称Claude发现了一种新的酶系统，但CRISPR研究人员称其为常规基因组挖掘 / Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+      "url": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining",
+      "primary_url": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining",
+      "source": "The Decoder AI News",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "8221c07aaef96104f178fa22c75b76048c21654c",
+          "title": "Anthropic称Claude发现了一种新的酶系统，但CRISPR研究人员称其为常规基因组挖掘 / Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+          "title_zh": "Anthropic称Claude发现了一种新的酶系统，但CRISPR研究人员称其为常规基因组挖掘",
+          "title_en": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+          "title_original": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-24T16:04:26Z"
+        },
+        {
+          "id": "aff9bc339863a48cd3350e044fe6838816993275",
+          "title": "Anthropic 称Claude发现了一种新的酶系统，但 CRISPR 研究人员称其为常规基因组挖掘 - the-decoder.com / Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining - the-decoder.com",
+          "title_zh": "Anthropic 称Claude发现了一种新的酶系统，但 CRISPR 研究人员称其为常规基因组挖掘 - the-decoder.com",
+          "title_en": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining - the-decoder.com",
+          "title_original": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining - the-decoder.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTTU3UHVvN0ctUC16ZnpLMzdwSTdfY0pBcVY1b09XZTdtandTWDVNOC1DYk9iV0hJVWU1YzI3VkowZkJpSm1GNkR0cHVaQVlNX1NDcG5ma2hTZnNpYjJwR1BYdTJQVVExRzhXaHQtb3NwcGtKaFZGemJFWnFieUszWXVRMGkzYTRPWWUxNWtZTUZKaDhhMUdpV2pZbTZYUUVBRGEyUjQxSGVEZ2tyMzRwLUNZRS1oeXpMUnlkUDhfcGhuT0RiSnZ2NDhB?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T16:07:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GNews: Anthropic Claude",
+        "The Decoder AI News"
+      ],
+      "items": [
+        {
+          "id": "8221c07aaef96104f178fa22c75b76048c21654c",
+          "title": "Anthropic称Claude发现了一种新的酶系统，但CRISPR研究人员称其为常规基因组挖掘 / Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+          "title_zh": "Anthropic称Claude发现了一种新的酶系统，但CRISPR研究人员称其为常规基因组挖掘",
+          "title_en": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+          "title_original": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-24T16:04:26Z"
+        },
+        {
+          "id": "aff9bc339863a48cd3350e044fe6838816993275",
+          "title": "Anthropic 称Claude发现了一种新的酶系统，但 CRISPR 研究人员称其为常规基因组挖掘 - the-decoder.com / Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining - the-decoder.com",
+          "title_zh": "Anthropic 称Claude发现了一种新的酶系统，但 CRISPR 研究人员称其为常规基因组挖掘 - the-decoder.com",
+          "title_en": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining - the-decoder.com",
+          "title_original": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining - the-decoder.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTTU3UHVvN0ctUC16ZnpLMzdwSTdfY0pBcVY1b09XZTdtandTWDVNOC1DYk9iV0hJVWU1YzI3VkowZkJpSm1GNkR0cHVaQVlNX1NDcG5ma2hTZnNpYjJwR1BYdTJQVVExRzhXaHQtb3NwcGtKaFZGemJFWnFieUszWXVRMGkzYTRPWWUxNWtZTUZKaDhhMUdpV2pZbTZYUUVBRGEyUjQxSGVEZ2tyMzRwLUNZRS1oeXpMUnlkUDhfcGhuT0RiSnZ2NDhB?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T16:07:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6545,
+      "importance": 0.6545,
+      "importance_score": 0.6545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.8932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-24T16:04:26Z",
+      "latest_at": "2026-09-24T16:07:46Z",
+      "primary_item": {
+        "id": "8221c07aaef96104f178fa22c75b76048c21654c",
+        "title": "Anthropic称Claude发现了一种新的酶系统，但CRISPR研究人员称其为常规基因组挖掘 / Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+        "title_zh": "Anthropic称Claude发现了一种新的酶系统，但CRISPR研究人员称其为常规基因组挖掘",
+        "title_en": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+        "title_original": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining",
+        "source": "The Decoder AI News",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T00:11:37.444947Z"
+      }
+    },
+    {
+      "story_id": "story_62d09ee666d6",
+      "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+      "url": "https://www.aibase.com/news/31337",
+      "primary_url": "https://www.aibase.com/news/31337",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "245c318705eb80e431da2cd6507dbc63b4eda95f",
+          "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+          "title_zh": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+          "title_en": null,
+          "title_original": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31337",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T09:58:00.144984Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "245c318705eb80e431da2cd6507dbc63b4eda95f",
+          "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+          "title_zh": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+          "title_en": null,
+          "title_original": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31337",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T09:58:00.144984Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8178,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-24T09:58:00.144984Z",
+      "latest_at": "2026-09-24T09:58:00.144984Z",
+      "primary_item": {
+        "id": "245c318705eb80e431da2cd6507dbc63b4eda95f",
+        "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+        "title_zh": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+        "title_en": null,
+        "title_original": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31337",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T00:11:37.444947Z"
       }
     }
   ]
