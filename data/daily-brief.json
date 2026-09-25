@@ -1,8 +1,174 @@
 {
-  "generated_at": "2026-09-25T01:28:01.508940Z",
+  "generated_at": "2026-09-25T06:09:34.340505Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_7625d6ca7283",
+      "title": "Codex CLI 0.157.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
+          "title": "Codex CLI 0.157.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.157.0",
+          "title_original": "Codex CLI 0.157.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
+          "title": "Codex CLI 0.157.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.157.0",
+          "title_original": "Codex CLI 0.157.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9149,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T00:00:00Z",
+      "latest_at": "2026-09-25T00:00:00Z",
+      "primary_item": {
+        "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
+        "title": "Codex CLI 0.157.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.157.0",
+        "title_original": "Codex CLI 0.157.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T06:10:36.588408Z"
+      }
+    },
+    {
+      "story_id": "story_adf2dec60ff2",
+      "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
+          "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "title_zh": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能",
+          "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T03:13:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
+          "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "title_zh": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能",
+          "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T03:13:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8445,
+      "importance": 0.8445,
+      "importance_score": 0.8445,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9585,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T03:13:23Z",
+      "latest_at": "2026-09-25T03:13:23Z",
+      "primary_item": {
+        "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
+        "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
+        "title_zh": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能",
+        "title_en": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+        "title_original": "Default Enablement of Copilot Features for Copilot Business and Enterprise",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T06:10:36.588408Z"
+      }
+    },
     {
       "story_id": "story_9edda83740af",
       "title": "使用 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
@@ -48,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8492,
+        "recency": 0.7936,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
-      }
-    },
-    {
-      "story_id": "story_3bb099e6ac71",
-      "title": "Require proof of presence for high-impact actions",
-      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-      "primary_url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-          "title": "Require proof of presence for high-impact actions",
-          "title_zh": null,
-          "title_en": "Require proof of presence for high-impact actions",
-          "title_original": "Require proof of presence for high-impact actions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T20:28:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-          "title": "Require proof of presence for high-impact actions",
-          "title_zh": null,
-          "title_en": "Require proof of presence for high-impact actions",
-          "title_original": "Require proof of presence for high-impact actions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-24T20:28:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9305,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T20:28:33Z",
-      "latest_at": "2026-09-24T20:28:33Z",
-      "primary_item": {
-        "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
-        "title": "Require proof of presence for high-impact actions",
-        "title_zh": null,
-        "title_en": "Require proof of presence for high-impact actions",
-        "title_original": "Require proof of presence for high-impact actions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -214,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9241,
+        "recency": 0.8635,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -297,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8766,
+        "recency": 0.8191,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -438,15 +521,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8891,
+        "recency": 0.8308,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -473,7 +556,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
+      }
+    },
+    {
+      "story_id": "story_3bb099e6ac71",
+      "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
+      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+      "primary_url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
+          "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
+          "title_zh": "需要提供存在证明才能进行高影响力的行动",
+          "title_en": "Require proof of presence for high-impact actions",
+          "title_original": "Require proof of presence for high-impact actions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T20:28:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
+          "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
+          "title_zh": "需要提供存在证明才能进行高影响力的行动",
+          "title_en": "Require proof of presence for high-impact actions",
+          "title_original": "Require proof of presence for high-impact actions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T20:28:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8695,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T20:28:33Z",
+      "latest_at": "2026-09-24T20:28:33Z",
+      "primary_item": {
+        "id": "54dc75ab42e07df0638b6f7f918a48ea6cba27cf",
+        "title": "需要提供存在证明才能进行高影响力的行动 / Require proof of presence for high-impact actions",
+        "title_zh": "需要提供存在证明才能进行高影响力的行动",
+        "title_en": "Require proof of presence for high-impact actions",
+        "title_original": "Require proof of presence for high-impact actions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -521,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9035,
+        "recency": 0.8443,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +722,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -604,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8341,
+        "recency": 0.7795,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -638,7 +804,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -686,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8476,
+        "recency": 0.7921,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,7 +886,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -768,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7945,
+        "recency": 0.7425,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -802,88 +968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
-      }
-    },
-    {
-      "story_id": "story_1a73e228157c",
-      "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-      "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-      "primary_url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
-          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T01:57:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
-          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T01:57:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7122,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T01:57:36Z",
-      "latest_at": "2026-09-24T01:57:36Z",
-      "primary_item": {
-        "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
-        "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-        "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
-        "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-        "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
-        "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -931,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8804,
+        "recency": 0.8227,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -964,88 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
-      }
-    },
-    {
-      "story_id": "story_0bfc576b3e86",
-      "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-      "url": "https://x.com/arena/status/2102952767614779403",
-      "primary_url": "https://x.com/arena/status/2102952767614779403",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
-          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
-          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102952767614779403",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T02:46:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
-          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
-          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102952767614779403",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T02:46:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7206,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T02:46:25Z",
-      "latest_at": "2026-09-24T02:46:25Z",
-      "primary_item": {
-        "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
-        "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-        "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
-        "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-        "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-        "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2102952767614779403",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -1093,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7256,
+      "importance": 0.7256,
+      "importance_score": 0.7256,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8202,
+        "recency": 0.7665,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1126,88 +1130,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
-      }
-    },
-    {
-      "story_id": "story_6c9d14ec3920",
-      "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / \"I think the answer is we have to shut the labs down\" - Jensen Huang",
-      "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
-      "primary_url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "edea0fcca689be6ff0e0727e7e3ff4d2b6db3fdd",
-          "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / \"I think the answer is we have to shut the labs down\" - Jensen Huang",
-          "title_zh": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
-          "title_en": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
-          "title_original": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
-          "summary": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T12:27:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "edea0fcca689be6ff0e0727e7e3ff4d2b6db3fdd",
-          "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / \"I think the answer is we have to shut the labs down\" - Jensen Huang",
-          "title_zh": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
-          "title_en": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
-          "title_original": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
-          "summary": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T12:27:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8288,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-24T12:27:50Z",
-      "latest_at": "2026-09-24T12:27:50Z",
-      "primary_item": {
-        "id": "edea0fcca689be6ff0e0727e7e3ff4d2b6db3fdd",
-        "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / \"I think the answer is we have to shut the labs down\" - Jensen Huang",
-        "title_zh": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
-        "title_en": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
-        "title_original": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
-        "summary": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -1255,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7994,
+        "recency": 0.7471,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1288,7 +1211,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -1336,15 +1259,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7994,
+        "recency": 0.7471,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1369,7 +1292,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -1446,15 +1369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6509,
-      "importance": 0.6509,
-      "importance_score": 0.6509,
+      "score": 0.6406,
+      "importance": 0.6406,
+      "importance_score": 0.6406,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8732,
+        "recency": 0.8159,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1480,7 +1403,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -1528,15 +1451,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7994,
+        "recency": 0.7471,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1561,7 +1484,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -1637,15 +1560,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6265,
-      "importance": 0.6265,
-      "importance_score": 0.6265,
+      "score": 0.6147,
+      "importance": 0.6147,
+      "importance_score": 0.6147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9971,
+        "recency": 0.9318,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1670,7 +1593,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
+      }
+    },
+    {
+      "story_id": "story_b7de2c02bdae",
+      "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "primary_url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "source": "Hacker News Front Page",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "d5b0ff49847572b71afeb3e9a9354a9766c812c4",
+          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "title_zh": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+          "title_en": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "title_original": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+          "source": "Hacker News Front Page",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T19:14:27Z"
+        },
+        {
+          "id": "291aee02d708cf20cf415f64342ca18541b89481",
+          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+          "title_zh": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+          "title_en": null,
+          "title_original": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+          "source": "resobscura.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T04:25:45.760000Z"
+        },
+        {
+          "id": "ca655e766a001f650d294a4a0b296d3e3a0084d0",
+          "title": "使用LLM追踪炼金知识并解码 17 世纪的字母 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "title_zh": "使用LLM追踪炼金知识并解码 17 世纪的字母",
+          "title_en": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "title_original": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49835531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-24T19:14:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News Front Page",
+        "hackernews",
+        "resobscura.substack.com"
+      ],
+      "items": [
+        {
+          "id": "d5b0ff49847572b71afeb3e9a9354a9766c812c4",
+          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "title_zh": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+          "title_en": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "title_original": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+          "source": "Hacker News Front Page",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-09-24T19:14:27Z"
+        },
+        {
+          "id": "291aee02d708cf20cf415f64342ca18541b89481",
+          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+          "title_zh": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+          "title_en": null,
+          "title_original": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+          "source": "resobscura.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T04:25:45.760000Z"
+        },
+        {
+          "id": "ca655e766a001f650d294a4a0b296d3e3a0084d0",
+          "title": "使用LLM追踪炼金知识并解码 17 世纪的字母 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "title_zh": "使用LLM追踪炼金知识并解码 17 世纪的字母",
+          "title_en": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "title_original": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49835531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-24T19:14:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6091,
+      "importance": 0.6091,
+      "importance_score": 0.6091,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.8541,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-24T19:14:27Z",
+      "latest_at": "2026-09-25T04:25:45.760000Z",
+      "primary_item": {
+        "id": "d5b0ff49847572b71afeb3e9a9354a9766c812c4",
+        "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
+        "title_zh": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
+        "title_en": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+        "title_original": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+        "source": "Hacker News Front Page",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     },
     {
@@ -1746,15 +1808,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6143,
-      "importance": 0.6143,
-      "importance_score": 0.6143,
+      "score": 0.6034,
+      "importance": 0.6034,
+      "importance_score": 0.6034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.924,
+        "recency": 0.8634,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1779,7 +1841,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T01:47:48.130452Z"
+        "scored_at": "2026-09-25T06:10:36.588408Z"
       }
     }
   ]
