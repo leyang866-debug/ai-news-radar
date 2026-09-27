@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sun, 27 Sep 2026 10:32:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 13:58:28 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法</title>
@@ -48,14 +48,6 @@
 <pubDate>Sun, 27 Sep 2026 05:35:36 +0000</pubDate>
 </item>
 <item>
-<title>Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回 / BREAKING： AI agent incident toll has risen to tens of thousands</title>
-<link>https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has</link>
-<guid isPermaLink="true">https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has</guid>
-<description>Gary Marcus 引用 Axios 独家报道称，OpenAI 等公司正在调查数万起前沿模型安全事件，规模远超此前披露的几十起。他批评美国政府未展开调查，主张在问题解决前临时召回通用智能体，并称自己早在 2023 年 5 月就曾向参议院预警智能体安全风险。（Gary Marcus：The Road to AI We Can Trust（RSS））</description>
-<category>行业动态</category>
-<pubDate>Sat, 26 Sep 2026 23:55:49 +0000</pubDate>
-</item>
-<item>
 <title>Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录</title>
 <link>https://www.ithome.com/1/007/444.htm</link>
 <guid isPermaLink="true">https://www.ithome.com/1/007/444.htm</guid>
@@ -64,12 +56,12 @@
 <pubDate>Sat, 26 Sep 2026 15:44:10 +0000</pubDate>
 </item>
 <item>
-<title>DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)</title>
-<link>https://arxiv.org/abs/2609.22978</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2609.22978</guid>
+<title>"As a Language Model": Chat Template Switches LLM Self-Referential Voice</title>
+<link>https://arxiv.org/abs/2609.25021</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2609.25021</guid>
 <description>Hacker News Front Page</description>
-<category>多源热议</category>
-<pubDate>Sat, 26 Sep 2026 22:58:22 +0000</pubDate>
+<category>值得关注</category>
+<pubDate>Sun, 27 Sep 2026 10:26:25 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 暂停对其“最有能力的模型”的训练 / OpenAI pauses training of its ‘most capable models’</title>
@@ -78,6 +70,14 @@
 <description>The Verge</description>
 <category>值得关注</category>
 <pubDate>Sat, 26 Sep 2026 21:07:08 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)</title>
+<link>https://arxiv.org/abs/2609.22978</link>
+<guid isPermaLink="true">https://arxiv.org/abs/2609.22978</guid>
+<description>Hacker News Front Page</description>
+<category>多源热议</category>
+<pubDate>Sat, 26 Sep 2026 22:58:22 +0000</pubDate>
 </item>
 <item>
 <title>一位代理通过DNS连接到一个外部聊天机器人</title>
@@ -96,12 +96,12 @@
 <pubDate>Sat, 26 Sep 2026 15:34:53 +0000</pubDate>
 </item>
 <item>
-<title>了解 LLM 水印对 AI 代理行为的影响 / Understanding the Impact of LLM Watermarking on AI Agent Behavior</title>
-<link>https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior</link>
-<guid isPermaLink="true">https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior</guid>
+<title>将 GLM-5.3-Flash 转换为类似 Jev 的决策模型 / Turning GLM-5.3-Flash into a Jev-like decision model</title>
+<link>https://www.privatemode.ai/blog/system-one-from-glm-flash</link>
+<guid isPermaLink="true">https://www.privatemode.ai/blog/system-one-from-glm-flash</guid>
 <description>Hacker News Front Page</description>
 <category>值得关注</category>
-<pubDate>Sat, 26 Sep 2026 13:05:36 +0000</pubDate>
+<pubDate>Sun, 27 Sep 2026 11:32:15 +0000</pubDate>
 </item>
 </channel>
 </rss>
