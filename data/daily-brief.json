@@ -1,10 +1,91 @@
 {
-  "generated_at": "2026-10-04T23:57:51.431119Z",
+  "generated_at": "2026-10-05T01:58:06.053947Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 9,
   "items": [
     {
-      "story_id": "story_5bf2df7a4a68",
+      "story_id": "story_92fa9be3e195",
+      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
+      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+      "primary_url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+      "source": "PromptArmor：Threat Intelligence",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
+          "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "title_zh": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+          "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "title_original": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+          "recommend_reason_zh": null,
+          "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+          "source": "PromptArmor：Threat Intelligence",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T00:24:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "PromptArmor：Threat Intelligence"
+      ],
+      "items": [
+        {
+          "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
+          "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "title_zh": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+          "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "title_original": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+          "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+          "recommend_reason_zh": null,
+          "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+          "source": "PromptArmor：Threat Intelligence",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T00:24:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9776,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-05T00:24:02Z",
+      "latest_at": "2026-10-05T00:24:02Z",
+      "primary_item": {
+        "id": "06be24552591ac18a92e2ce2d2535b549e19817d",
+        "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
+        "title_zh": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+        "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+        "title_original": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+        "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+        "recommend_reason_zh": null,
+        "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+        "source": "PromptArmor：Threat Intelligence",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T02:12:22.775062Z"
+      }
+    },
+    {
+      "story_id": "story_63e5329fb733",
       "title": "Claude AI Account Black Market Thrives in China - chosun.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEtBQmd3VXE2cFp4MHNEd0lhUnJxd1dzbkx3c25DakwyakU1dFI4VFF2eHhwOXJ2QzQxdTJsS045MWpMWHNWNXp3VlVvbkVhaVBWMGpRUllxZFlSMXQ2X2pSeWVBY2RMMEVldEJ2VV9oazhfajhScFVwTlpJcFR1SXpma2JPSllY?oc=5",
       "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEtBQmd3VXE2cFp4MHNEd0lhUnJxd1dzbkx3c25DakwyakU1dFI4VFF2eHhwOXJ2QzQxdTJsS045MWpMWHNWNXp3VlVvbkVhaVBWMGpRUllxZFlSMXQ2X2pSeWVBY2RMMEVldEJ2VV9oazhfajhScFVwTlpJcFR1SXpma2JPSllY?oc=5",
@@ -37,7 +118,7 @@
           "source": "GNews: Anthropic Claude",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-10-04T18:00:23Z"
+          "published_at": "2026-10-04T20:33:08Z"
         }
       ],
       "source_count": 2,
@@ -71,27 +152,27 @@
           "source": "GNews: Anthropic Claude",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-10-04T18:00:23Z"
+          "published_at": "2026-10-04T20:33:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6183,
-      "importance": 0.6183,
-      "importance_score": 0.6183,
+      "score": 0.6135,
+      "importance": 0.6135,
+      "importance_score": 0.6135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9519,
+        "recency": 0.9248,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T18:00:23Z",
+      "earliest_at": "2026-10-04T20:33:08Z",
       "latest_at": "2026-10-04T20:33:08Z",
       "primary_item": {
         "id": "5b694bf4ce46b2778cbac30c4ec684f94034d998",
@@ -109,116 +190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:11:10.366066Z"
-      }
-    },
-    {
-      "story_id": "story_87b5971727eb",
-      "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
-      "source": "GNews: Anthropic Claude",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "0ce261fbb77169a9d58e003d5fc8827e96a44e8c",
-          "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-          "title_zh": null,
-          "title_en": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-          "title_original": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-04T20:28:54Z"
-        },
-        {
-          "id": "94448668b44552cb8ed7e0d386ee23c3d400eb9a",
-          "title": "被封锁的人工智能Claude黑市在中国蓬勃发展 - 朝鲜日报 / Black Market for Blocked AI Claude Thrives in China - 조선일보",
-          "title_zh": "被封锁的人工智能Claude黑市在中国蓬勃发展 - 朝鲜日报",
-          "title_en": "Black Market for Blocked AI Claude Thrives in China - 조선일보",
-          "title_original": "Black Market for Blocked AI Claude Thrives in China - 조선일보",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-04T13:04:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GNews: Anthropic Claude"
-      ],
-      "items": [
-        {
-          "id": "0ce261fbb77169a9d58e003d5fc8827e96a44e8c",
-          "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-          "title_zh": null,
-          "title_en": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-          "title_original": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-04T20:28:54Z"
-        },
-        {
-          "id": "94448668b44552cb8ed7e0d386ee23c3d400eb9a",
-          "title": "被封锁的人工智能Claude黑市在中国蓬勃发展 - 朝鲜日报 / Black Market for Blocked AI Claude Thrives in China - 조선일보",
-          "title_zh": "被封锁的人工智能Claude黑市在中国蓬勃发展 - 朝鲜日报",
-          "title_en": "Black Market for Blocked AI Claude Thrives in China - 조선일보",
-          "title_original": "Black Market for Blocked AI Claude Thrives in China - 조선일보",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-04T13:04:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6182,
-      "importance": 0.6182,
-      "importance_score": 0.6182,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.951,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T13:04:36Z",
-      "latest_at": "2026-10-04T20:28:54Z",
-      "primary_item": {
-        "id": "0ce261fbb77169a9d58e003d5fc8827e96a44e8c",
-        "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-        "title_zh": null,
-        "title_en": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-        "title_original": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
-        "source": "GNews: Anthropic Claude",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:11:10.366066Z"
+        "scored_at": "2026-10-05T02:12:22.775062Z"
       }
     },
     {
@@ -324,15 +296,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5875,
-      "importance": 0.5875,
-      "importance_score": 0.5875,
+      "score": 0.5838,
+      "importance": 0.5838,
+      "importance_score": 0.5838,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7343,
+        "recency": 0.7133,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -357,7 +329,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:11:10.366066Z"
+        "scored_at": "2026-10-05T02:12:22.775062Z"
+      }
+    },
+    {
+      "story_id": "story_7cb9c2dd6ace",
+      "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
+      "source": "GNews: Anthropic Claude",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "0ce261fbb77169a9d58e003d5fc8827e96a44e8c",
+          "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
+          "title_zh": null,
+          "title_en": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
+          "title_original": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-04T20:28:54Z"
+        },
+        {
+          "id": "94448668b44552cb8ed7e0d386ee23c3d400eb9a",
+          "title": "被封锁的人工智能Claude黑市在中国蓬勃发展 - 朝鲜日报 / Black Market for Blocked AI Claude Thrives in China - 조선일보",
+          "title_zh": "被封锁的人工智能Claude黑市在中国蓬勃发展 - 朝鲜日报",
+          "title_en": "Black Market for Blocked AI Claude Thrives in China - 조선일보",
+          "title_original": "Black Market for Blocked AI Claude Thrives in China - 조선일보",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-04T20:28:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GNews: Anthropic Claude"
+      ],
+      "items": [
+        {
+          "id": "0ce261fbb77169a9d58e003d5fc8827e96a44e8c",
+          "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
+          "title_zh": null,
+          "title_en": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
+          "title_original": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-04T20:28:54Z"
+        },
+        {
+          "id": "94448668b44552cb8ed7e0d386ee23c3d400eb9a",
+          "title": "被封锁的人工智能Claude黑市在中国蓬勃发展 - 朝鲜日报 / Black Market for Blocked AI Claude Thrives in China - 조선일보",
+          "title_zh": "被封锁的人工智能Claude黑市在中国蓬勃发展 - 朝鲜日报",
+          "title_en": "Black Market for Blocked AI Claude Thrives in China - 조선일보",
+          "title_original": "Black Market for Blocked AI Claude Thrives in China - 조선일보",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-04T20:28:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6133,
+      "importance": 0.6133,
+      "importance_score": 0.6133,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.9238,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T20:28:54Z",
+      "latest_at": "2026-10-04T20:28:54Z",
+      "primary_item": {
+        "id": "0ce261fbb77169a9d58e003d5fc8827e96a44e8c",
+        "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
+        "title_zh": null,
+        "title_en": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
+        "title_original": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
+        "source": "GNews: Anthropic Claude",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T02:12:22.775062Z"
       }
     },
     {
@@ -463,15 +544,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5846,
-      "importance": 0.5846,
-      "importance_score": 0.5846,
+      "score": 0.5804,
+      "importance": 0.5804,
+      "importance_score": 0.5804,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8105,
+        "recency": 0.7874,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -496,7 +577,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:11:10.366066Z"
+        "scored_at": "2026-10-05T02:12:22.775062Z"
       }
     },
     {
@@ -573,15 +654,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.596,
-      "importance": 0.596,
-      "importance_score": 0.596,
+      "score": 0.5918,
+      "importance": 0.5918,
+      "importance_score": 0.5918,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8279,
+        "recency": 0.8043,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -606,7 +687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:11:10.366066Z"
+        "scored_at": "2026-10-05T02:12:22.775062Z"
       }
     },
     {
@@ -683,15 +764,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.583,
-      "importance": 0.583,
-      "importance_score": 0.583,
+      "score": 0.5782,
+      "importance": 0.5782,
+      "importance_score": 0.5782,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9404,
+        "recency": 0.9135,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -716,7 +797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:11:10.366066Z"
+        "scored_at": "2026-10-05T02:12:22.775062Z"
       }
     },
     {
@@ -793,15 +874,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5581,
-      "importance": 0.5581,
-      "importance_score": 0.5581,
+      "score": 0.554,
+      "importance": 0.554,
+      "importance_score": 0.554,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8022,
+        "recency": 0.7793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -826,7 +907,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:11:10.366066Z"
+        "scored_at": "2026-10-05T02:12:22.775062Z"
       }
     },
     {
@@ -903,15 +984,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5564,
-      "importance": 0.5564,
-      "importance_score": 0.5564,
+      "score": 0.5524,
+      "importance": 0.5524,
+      "importance_score": 0.5524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7929,
+        "recency": 0.7703,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -936,7 +1017,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T00:11:10.366066Z"
+        "scored_at": "2026-10-05T02:12:22.775062Z"
       }
     }
   ]
