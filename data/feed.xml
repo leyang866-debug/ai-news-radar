@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 05 Oct 2026 01:58:06 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 07:02:03 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
 <title>PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills</title>
@@ -16,7 +16,15 @@
 <pubDate>Mon, 05 Oct 2026 00:24:02 +0000</pubDate>
 </item>
 <item>
-<title>Claude AI Account Black Market Thrives in China - chosun.com</title>
+<title>人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge</title>
+<link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
+<guid isPermaLink="true">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</guid>
+<description>Hacker News Front Page</description>
+<category>值得关注</category>
+<pubDate>Mon, 05 Oct 2026 05:37:40 +0000</pubDate>
+</item>
+<item>
+<title>Claude人工智能账户黑市在中国蓬勃发展 - chosun.com / Claude AI Account Black Market Thrives in China - chosun.com</title>
 <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEtBQmd3VXE2cFp4MHNEd0lhUnJxd1dzbkx3c25DakwyakU1dFI4VFF2eHhwOXJ2QzQxdTJsS045MWpMWHNWNXp3VlVvbkVhaVBWMGpRUllxZFlSMXQ2X2pSeWVBY2RMMEVldEJ2VV9oazhfajhScFVwTlpJcFR1SXpma2JPSllY?oc=5</link>
 <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEtBQmd3VXE2cFp4MHNEd0lhUnJxd1dzbkx3c25DakwyakU1dFI4VFF2eHhwOXJ2QzQxdTJsS045MWpMWHNWNXp3VlVvbkVhaVBWMGpRUllxZFlSMXQ2X2pSeWVBY2RMMEVldEJ2VV9oazhfajhScFVwTlpJcFR1SXpma2JPSllY?oc=5</guid>
 <description>GNews: Anthropic Claude</description>
@@ -24,15 +32,7 @@
 <pubDate>Sun, 04 Oct 2026 20:33:08 +0000</pubDate>
 </item>
 <item>
-<title>宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic</title>
-<link>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</link>
-<guid isPermaLink="true">https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</guid>
-<description>Hacker News Front Page</description>
-<category>多源热议</category>
-<pubDate>Sun, 04 Oct 2026 12:57:08 +0000</pubDate>
-</item>
-<item>
-<title>Black Market for Blocked AI Claude Thrives in China - chosun.com</title>
+<title>被封锁的人工智能黑市 Claude 在中国蓬勃发展 - chosun.com / Black Market for Blocked AI Claude Thrives in China - chosun.com</title>
 <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5</link>
 <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5</guid>
 <description>GNews: Anthropic Claude</description>
@@ -48,6 +48,14 @@
 <pubDate>Sun, 04 Oct 2026 19:42:50 +0000</pubDate>
 </item>
 <item>
+<title>朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews</title>
+<link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&amp;hl=en-CA&amp;gl=CA&amp;ceid=CA%3Aen</guid>
+<description>news.google.com</description>
+<category>值得关注</category>
+<pubDate>Mon, 05 Oct 2026 04:05:55 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic 要求 Claude 用户共享语音数据以进行 AI 模型训练 - BleepingComputer / Anthropic asks Claude users to share voice data for AI model training - BleepingComputer</title>
 <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxNYXdOQkNGN2NyMjVhNDlOZUVRTUdMWkE1OVNsaEtCQUcyS1hzQ2R3UkhLX1A4VjlWX2lOSHZXSjNSQ3NTT0g1M3ZCX0ltWHJSaGhDelJqdjJwbmVKeENqSkFIallKdzdVUWdqR0IwcndOLWhDbjdnbHN2NXFwTk1UczBMNkRoM3NVdllOcUhJUkFDZ3dWM0dfWnV4V19ldVVnS21UbEg3bnhBWV9FNzFHM3ZieWlYTy05aDJfYm9YYzZYdlJUODZBV0ZyTm3SAdIBQVVfeXFMTXhoYkFWNEtHOEVIclNCSlc0X3BsWk8yaGlGLVQyeFRZUm5rX2hNVjZtY0owZFIxZFFqdUxtbXNaQUgyR040UEpYM21Hdi1UTF9DbVJLRjRSa1RxdHA3cXNROFNtZ09ldEwtLWpSNGtJYnFqaVIta3BKdkdacXZqNFRWd0xZR0tLMUpWLVdUSUlhLUtvTUxSdGJEWS0zbEg1UkxPNHFDOURSalhKTHY5RXQ2b2xyNHRjbC1FNEMxcFR4Z1RWQnhyRVA1amZ1NHBqX1N3?oc=5</link>
 <guid isPermaLink="true">https://news.google.com/rss/articles/CBMizAFBVV95cUxNYXdOQkNGN2NyMjVhNDlOZUVRTUdMWkE1OVNsaEtCQUcyS1hzQ2R3UkhLX1A4VjlWX2lOSHZXSjNSQ3NTT0g1M3ZCX0ltWHJSaGhDelJqdjJwbmVKeENqSkFIallKdzdVUWdqR0IwcndOLWhDbjdnbHN2NXFwTk1UczBMNkRoM3NVdllOcUhJUkFDZ3dWM0dfWnV4V19ldVVnS21UbEg3bnhBWV9FNzFHM3ZieWlYTy05aDJfYm9YYzZYdlJUODZBV0ZyTm3SAdIBQVVfeXFMTXhoYkFWNEtHOEVIclNCSlc0X3BsWk8yaGlGLVQyeFRZUm5rX2hNVjZtY0owZFIxZFFqdUxtbXNaQUgyR040UEpYM21Hdi1UTF9DbVJLRjRSa1RxdHA3cXNROFNtZ09ldEwtLWpSNGtJYnFqaVIta3BKdkdacXZqNFRWd0xZR0tLMUpWLVdUSUlhLUtvTUxSdGJEWS0zbEg1UkxPNHFDOURSalhKTHY5RXQ2b2xyNHRjbC1FNEMxcFR4Z1RWQnhyRVA1amZ1NHBqX1N3?oc=5</guid>
@@ -56,7 +64,7 @@
 <pubDate>Sun, 04 Oct 2026 13:44:26 +0000</pubDate>
 </item>
 <item>
-<title>Homa: The end of TCP for AI clusters [video]</title>
+<title>Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]</title>
 <link>https://www.youtube.com/watch?v=eZ8WWZzoaR0</link>
 <guid isPermaLink="true">https://www.youtube.com/watch?v=eZ8WWZzoaR0</guid>
 <description>Hacker News Front Page</description>
@@ -64,7 +72,7 @@
 <pubDate>Sun, 04 Oct 2026 19:42:25 +0000</pubDate>
 </item>
 <item>
-<title>How to scale intent, quality, and artistry with AI [video]</title>
+<title>如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]</title>
 <link>https://www.youtube.com/watch?v=GLvFTMtw4Jk</link>
 <guid isPermaLink="true">https://www.youtube.com/watch?v=GLvFTMtw4Jk</guid>
 <description>Hacker News Front Page</description>
@@ -72,7 +80,7 @@
 <pubDate>Sun, 04 Oct 2026 08:41:58 +0000</pubDate>
 </item>
 <item>
-<title>What's the future for pure math research in the age of AI?</title>
+<title>人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?</title>
 <link>https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai</link>
 <guid isPermaLink="true">https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai</guid>
 <description>Hacker News Front Page</description>

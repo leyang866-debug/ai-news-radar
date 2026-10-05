@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T01:58:06.053947Z",
+  "generated_at": "2026-10-05T07:02:03.297526Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_92fa9be3e195",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9776,
+        "recency": 0.9087,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -81,12 +81,122 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T02:12:22.775062Z"
+        "scored_at": "2026-10-05T07:02:59.861448Z"
+      }
+    },
+    {
+      "story_id": "story_a0cf0e1c0e34",
+      "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "Hacker News Front Page",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "a1aa370b2c5d551a2d2fa86ad418644bf638cf79",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "Hacker News Front Page",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-05T05:37:40Z"
+        },
+        {
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49961057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T05:37:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News Front Page",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a1aa370b2c5d551a2d2fa86ad418644bf638cf79",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "Hacker News Front Page",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-05T05:37:40Z"
+        },
+        {
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49961057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T05:37:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6067,
+      "importance": 0.6067,
+      "importance_score": 0.6067,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9799,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T05:37:40Z",
+      "latest_at": "2026-10-05T05:37:40Z",
+      "primary_item": {
+        "id": "a1aa370b2c5d551a2d2fa86ad418644bf638cf79",
+        "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+        "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
+        "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+        "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "source": "Hacker News Front Page",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T07:02:59.861448Z"
       }
     },
     {
       "story_id": "story_63e5329fb733",
-      "title": "Claude AI Account Black Market Thrives in China - chosun.com",
+      "title": "Claude人工智能账户黑市在中国蓬勃发展 - chosun.com / Claude AI Account Black Market Thrives in China - chosun.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEtBQmd3VXE2cFp4MHNEd0lhUnJxd1dzbkx3c25DakwyakU1dFI4VFF2eHhwOXJ2QzQxdTJsS045MWpMWHNWNXp3VlVvbkVhaVBWMGpRUllxZFlSMXQ2X2pSeWVBY2RMMEVldEJ2VV9oazhfajhScFVwTlpJcFR1SXpma2JPSllY?oc=5",
       "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVEtBQmd3VXE2cFp4MHNEd0lhUnJxd1dzbkx3c25DakwyakU1dFI4VFF2eHhwOXJ2QzQxdTJsS045MWpMWHNWNXp3VlVvbkVhaVBWMGpRUllxZFlSMXQ2X2pSeWVBY2RMMEVldEJ2VV9oazhfajhScFVwTlpJcFR1SXpma2JPSllY?oc=5",
       "source": "GNews: Anthropic Claude",
@@ -94,8 +204,8 @@
       "sources": [
         {
           "id": "5b694bf4ce46b2778cbac30c4ec684f94034d998",
-          "title": "Claude AI Account Black Market Thrives in China - chosun.com",
-          "title_zh": null,
+          "title": "Claude人工智能账户黑市在中国蓬勃发展 - chosun.com / Claude AI Account Black Market Thrives in China - chosun.com",
+          "title_zh": "Claude人工智能账户黑市在中国蓬勃发展 - chosun.com",
           "title_en": "Claude AI Account Black Market Thrives in China - chosun.com",
           "title_original": "Claude AI Account Black Market Thrives in China - chosun.com",
           "summary": null,
@@ -128,8 +238,8 @@
       "items": [
         {
           "id": "5b694bf4ce46b2778cbac30c4ec684f94034d998",
-          "title": "Claude AI Account Black Market Thrives in China - chosun.com",
-          "title_zh": null,
+          "title": "Claude人工智能账户黑市在中国蓬勃发展 - chosun.com / Claude AI Account Black Market Thrives in China - chosun.com",
+          "title_zh": "Claude人工智能账户黑市在中国蓬勃发展 - chosun.com",
           "title_en": "Claude AI Account Black Market Thrives in China - chosun.com",
           "title_original": "Claude AI Account Black Market Thrives in China - chosun.com",
           "summary": null,
@@ -157,15 +267,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6135,
-      "importance": 0.6135,
-      "importance_score": 0.6135,
+      "score": 0.6017,
+      "importance": 0.6017,
+      "importance_score": 0.6017,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9248,
+        "recency": 0.8595,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -176,8 +286,8 @@
       "latest_at": "2026-10-04T20:33:08Z",
       "primary_item": {
         "id": "5b694bf4ce46b2778cbac30c4ec684f94034d998",
-        "title": "Claude AI Account Black Market Thrives in China - chosun.com",
-        "title_zh": null,
+        "title": "Claude人工智能账户黑市在中国蓬勃发展 - chosun.com / Claude AI Account Black Market Thrives in China - chosun.com",
+        "title_zh": "Claude人工智能账户黑市在中国蓬勃发展 - chosun.com",
         "title_en": "Claude AI Account Black Market Thrives in China - chosun.com",
         "title_original": "Claude AI Account Black Market Thrives in China - chosun.com",
         "summary": null,
@@ -190,151 +300,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T02:12:22.775062Z"
-      }
-    },
-    {
-      "story_id": "story_55d0dc988302",
-      "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "source": "Hacker News Front Page",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "fee7023327a5e4d8b7ee56784ed7ba71ff544b61",
-          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
-          "title_zh": "宗教学者与Anthropic公司进行了会面",
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "Hacker News Front Page",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
-          "title": "宗教学者与Anthropic公司进行了会面",
-          "title_zh": "宗教学者与Anthropic公司进行了会面",
-          "title_en": null,
-          "title_original": "宗教学者与Anthropic公司进行了会面",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T12:57:08.561000Z"
-        },
-        {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
-          "title_zh": "宗教学者会见人类",
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49950052",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News Front Page",
-        "hackernews",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "fee7023327a5e4d8b7ee56784ed7ba71ff544b61",
-          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
-          "title_zh": "宗教学者与Anthropic公司进行了会面",
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "Hacker News Front Page",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
-          "title": "宗教学者与Anthropic公司进行了会面",
-          "title_zh": "宗教学者与Anthropic公司进行了会面",
-          "title_en": null,
-          "title_original": "宗教学者与Anthropic公司进行了会面",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T12:57:08.561000Z"
-        },
-        {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "宗教学者会见人类 / Religious scholars met with Anthropic",
-          "title_zh": "宗教学者会见人类",
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49950052",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5838,
-      "importance": 0.5838,
-      "importance_score": 0.5838,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.7133,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T02:34:22Z",
-      "latest_at": "2026-10-04T12:57:08.561000Z",
-      "primary_item": {
-        "id": "fee7023327a5e4d8b7ee56784ed7ba71ff544b61",
-        "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
-        "title_zh": "宗教学者与Anthropic公司进行了会面",
-        "title_en": "Religious scholars met with Anthropic",
-        "title_original": "Religious scholars met with Anthropic",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-        "source": "Hacker News Front Page",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T02:12:22.775062Z"
+        "scored_at": "2026-10-05T07:02:59.861448Z"
       }
     },
     {
       "story_id": "story_7cb9c2dd6ace",
-      "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
+      "title": "被封锁的人工智能黑市 Claude 在中国蓬勃发展 - chosun.com / Black Market for Blocked AI Claude Thrives in China - chosun.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
       "primary_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
       "source": "GNews: Anthropic Claude",
@@ -342,8 +313,8 @@
       "sources": [
         {
           "id": "0ce261fbb77169a9d58e003d5fc8827e96a44e8c",
-          "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-          "title_zh": null,
+          "title": "被封锁的人工智能黑市 Claude 在中国蓬勃发展 - chosun.com / Black Market for Blocked AI Claude Thrives in China - chosun.com",
+          "title_zh": "被封锁的人工智能黑市 Claude 在中国蓬勃发展 - chosun.com",
           "title_en": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
           "title_original": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
           "summary": null,
@@ -376,8 +347,8 @@
       "items": [
         {
           "id": "0ce261fbb77169a9d58e003d5fc8827e96a44e8c",
-          "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-          "title_zh": null,
+          "title": "被封锁的人工智能黑市 Claude 在中国蓬勃发展 - chosun.com / Black Market for Blocked AI Claude Thrives in China - chosun.com",
+          "title_zh": "被封锁的人工智能黑市 Claude 在中国蓬勃发展 - chosun.com",
           "title_en": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
           "title_original": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
           "summary": null,
@@ -405,15 +376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6133,
-      "importance": 0.6133,
-      "importance_score": 0.6133,
+      "score": 0.6016,
+      "importance": 0.6016,
+      "importance_score": 0.6016,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9238,
+        "recency": 0.8587,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -424,8 +395,8 @@
       "latest_at": "2026-10-04T20:28:54Z",
       "primary_item": {
         "id": "0ce261fbb77169a9d58e003d5fc8827e96a44e8c",
-        "title": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
-        "title_zh": null,
+        "title": "被封锁的人工智能黑市 Claude 在中国蓬勃发展 - chosun.com / Black Market for Blocked AI Claude Thrives in China - chosun.com",
+        "title_zh": "被封锁的人工智能黑市 Claude 在中国蓬勃发展 - chosun.com",
         "title_en": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
         "title_original": "Black Market for Blocked AI Claude Thrives in China - chosun.com",
         "summary": null,
@@ -438,7 +409,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T02:12:22.775062Z"
+        "scored_at": "2026-10-05T07:02:59.861448Z"
       }
     },
     {
@@ -544,15 +515,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5804,
-      "importance": 0.5804,
-      "importance_score": 0.5804,
+      "score": 0.5705,
+      "importance": 0.5705,
+      "importance_score": 0.5705,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7874,
+        "recency": 0.7318,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -577,7 +548,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T02:12:22.775062Z"
+        "scored_at": "2026-10-05T07:02:59.861448Z"
+      }
+    },
+    {
+      "story_id": "story_d522c5cd6fae",
+      "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
+          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "title_en": null,
+          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T04:05:55.362000Z"
+        },
+        {
+          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
+          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
+          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
+          "title_en": null,
+          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T19:58:49.689000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
+          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "title_en": null,
+          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T04:05:55.362000Z"
+        },
+        {
+          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
+          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
+          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
+          "title_en": null,
+          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T19:58:49.689000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9585,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T19:58:49.689000Z",
+      "latest_at": "2026-10-05T04:05:55.362000Z",
+      "primary_item": {
+        "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
+        "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+        "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+        "title_en": null,
+        "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T07:02:59.861448Z"
       }
     },
     {
@@ -654,15 +734,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5918,
-      "importance": 0.5918,
-      "importance_score": 0.5918,
+      "score": 0.5816,
+      "importance": 0.5816,
+      "importance_score": 0.5816,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8043,
+        "recency": 0.7476,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -687,12 +767,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T02:12:22.775062Z"
+        "scored_at": "2026-10-05T07:02:59.861448Z"
       }
     },
     {
       "story_id": "story_8d78ad21f2cb",
-      "title": "Homa: The end of TCP for AI clusters [video]",
+      "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
       "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
       "primary_url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
       "source": "Hacker News Front Page",
@@ -700,8 +780,8 @@
       "sources": [
         {
           "id": "c29ed3e86fb4d48ebe4a5167ea2b1152c46c79c6",
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "title_zh": null,
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
           "title_original": "Homa: The end of TCP for AI clusters [video]",
           "summary": null,
@@ -714,8 +794,8 @@
         },
         {
           "id": "9e486460324147a03e5d58cce165a51ef198aaed",
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "title_zh": null,
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
           "title_original": "Homa: The end of TCP for AI clusters [video]",
           "summary": null,
@@ -735,8 +815,8 @@
       "items": [
         {
           "id": "c29ed3e86fb4d48ebe4a5167ea2b1152c46c79c6",
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "title_zh": null,
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
           "title_original": "Homa: The end of TCP for AI clusters [video]",
           "summary": null,
@@ -749,8 +829,8 @@
         },
         {
           "id": "9e486460324147a03e5d58cce165a51ef198aaed",
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "title_zh": null,
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
           "title_original": "Homa: The end of TCP for AI clusters [video]",
           "summary": null,
@@ -764,15 +844,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5782,
-      "importance": 0.5782,
-      "importance_score": 0.5782,
+      "score": 0.5666,
+      "importance": 0.5666,
+      "importance_score": 0.5666,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9135,
+        "recency": 0.8491,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -783,8 +863,8 @@
       "latest_at": "2026-10-04T19:42:25Z",
       "primary_item": {
         "id": "c29ed3e86fb4d48ebe4a5167ea2b1152c46c79c6",
-        "title": "Homa: The end of TCP for AI clusters [video]",
-        "title_zh": null,
+        "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+        "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
         "title_en": "Homa: The end of TCP for AI clusters [video]",
         "title_original": "Homa: The end of TCP for AI clusters [video]",
         "summary": null,
@@ -797,12 +877,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T02:12:22.775062Z"
+        "scored_at": "2026-10-05T07:02:59.861448Z"
       }
     },
     {
       "story_id": "story_7690a865b944",
-      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
       "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
       "primary_url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
       "source": "Hacker News Front Page",
@@ -810,8 +890,8 @@
       "sources": [
         {
           "id": "a73c8777dc44ba75bb06245ed0bbc2866aaf8915",
-          "title": "How to scale intent, quality, and artistry with AI [video]",
-          "title_zh": null,
+          "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
+          "title_zh": "如何利用 AI 衡量意图、质量和艺术性 [视频]",
           "title_en": "How to scale intent, quality, and artistry with AI [video]",
           "title_original": "How to scale intent, quality, and artistry with AI [video]",
           "summary": null,
@@ -824,8 +904,8 @@
         },
         {
           "id": "fa300572c7d49ccf86ce50c455d9d890c8ce828b",
-          "title": "How to scale intent, quality, and artistry with AI [video]",
-          "title_zh": null,
+          "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
+          "title_zh": "如何利用 AI 衡量意图、质量和艺术性 [视频]",
           "title_en": "How to scale intent, quality, and artistry with AI [video]",
           "title_original": "How to scale intent, quality, and artistry with AI [video]",
           "summary": null,
@@ -845,8 +925,8 @@
       "items": [
         {
           "id": "a73c8777dc44ba75bb06245ed0bbc2866aaf8915",
-          "title": "How to scale intent, quality, and artistry with AI [video]",
-          "title_zh": null,
+          "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
+          "title_zh": "如何利用 AI 衡量意图、质量和艺术性 [视频]",
           "title_en": "How to scale intent, quality, and artistry with AI [video]",
           "title_original": "How to scale intent, quality, and artistry with AI [video]",
           "summary": null,
@@ -859,8 +939,8 @@
         },
         {
           "id": "fa300572c7d49ccf86ce50c455d9d890c8ce828b",
-          "title": "How to scale intent, quality, and artistry with AI [video]",
-          "title_zh": null,
+          "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
+          "title_zh": "如何利用 AI 衡量意图、质量和艺术性 [视频]",
           "title_en": "How to scale intent, quality, and artistry with AI [video]",
           "title_original": "How to scale intent, quality, and artistry with AI [video]",
           "summary": null,
@@ -874,15 +954,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.554,
-      "importance": 0.554,
-      "importance_score": 0.554,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7793,
+        "recency": 0.7243,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -893,8 +973,8 @@
       "latest_at": "2026-10-04T08:41:58Z",
       "primary_item": {
         "id": "a73c8777dc44ba75bb06245ed0bbc2866aaf8915",
-        "title": "How to scale intent, quality, and artistry with AI [video]",
-        "title_zh": null,
+        "title": "如何利用 AI 衡量意图、质量和艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
+        "title_zh": "如何利用 AI 衡量意图、质量和艺术性 [视频]",
         "title_en": "How to scale intent, quality, and artistry with AI [video]",
         "title_original": "How to scale intent, quality, and artistry with AI [video]",
         "summary": null,
@@ -907,12 +987,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T02:12:22.775062Z"
+        "scored_at": "2026-10-05T07:02:59.861448Z"
       }
     },
     {
       "story_id": "story_a55f7b341908",
-      "title": "What's the future for pure math research in the age of AI?",
+      "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
       "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
       "primary_url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
       "source": "Hacker News Front Page",
@@ -920,8 +1000,8 @@
       "sources": [
         {
           "id": "c4a4b96faef99c75520165c857c4bc07bce1e5c0",
-          "title": "What's the future for pure math research in the age of AI?",
-          "title_zh": null,
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
+          "title_zh": "人工智能时代纯数学研究的未来是什么？",
           "title_en": "What's the future for pure math research in the age of AI?",
           "title_original": "What's the future for pure math research in the age of AI?",
           "summary": null,
@@ -934,8 +1014,8 @@
         },
         {
           "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "What's the future for pure math research in the age of AI?",
-          "title_zh": null,
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
+          "title_zh": "人工智能时代纯数学研究的未来是什么？",
           "title_en": "What's the future for pure math research in the age of AI?",
           "title_original": "What's the future for pure math research in the age of AI?",
           "summary": null,
@@ -955,8 +1035,8 @@
       "items": [
         {
           "id": "c4a4b96faef99c75520165c857c4bc07bce1e5c0",
-          "title": "What's the future for pure math research in the age of AI?",
-          "title_zh": null,
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
+          "title_zh": "人工智能时代纯数学研究的未来是什么？",
           "title_en": "What's the future for pure math research in the age of AI?",
           "title_original": "What's the future for pure math research in the age of AI?",
           "summary": null,
@@ -969,8 +1049,8 @@
         },
         {
           "id": "e0107a07192b52e623f73e779a90b98fe272f119",
-          "title": "What's the future for pure math research in the age of AI?",
-          "title_zh": null,
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
+          "title_zh": "人工智能时代纯数学研究的未来是什么？",
           "title_en": "What's the future for pure math research in the age of AI?",
           "title_original": "What's the future for pure math research in the age of AI?",
           "summary": null,
@@ -984,15 +1064,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5524,
-      "importance": 0.5524,
-      "importance_score": 0.5524,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7703,
+        "recency": 0.716,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1003,8 +1083,8 @@
       "latest_at": "2026-10-04T07:53:45Z",
       "primary_item": {
         "id": "c4a4b96faef99c75520165c857c4bc07bce1e5c0",
-        "title": "What's the future for pure math research in the age of AI?",
-        "title_zh": null,
+        "title": "人工智能时代纯数学研究的未来是什么？ / What's the future for pure math research in the age of AI?",
+        "title_zh": "人工智能时代纯数学研究的未来是什么？",
         "title_en": "What's the future for pure math research in the age of AI?",
         "title_original": "What's the future for pure math research in the age of AI?",
         "summary": null,
@@ -1017,7 +1097,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T02:12:22.775062Z"
+        "scored_at": "2026-10-05T07:02:59.861448Z"
       }
     }
   ]
