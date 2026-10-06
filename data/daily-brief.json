@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T07:33:58.714406Z",
+  "generated_at": "2026-10-06T12:00:31.484339Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8659,
-      "importance": 0.8659,
-      "importance_score": 0.8659,
+      "score": 0.8548,
+      "importance": 0.8548,
+      "importance_score": 0.8548,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9882,
+        "recency": 0.9268,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,30 +83,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
-      "story_id": "story_45464a737294",
-      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "story_id": "story_ae3c4f5c0420",
+      "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
+          "published_at": "2026-10-06T10:23:38Z"
         }
       ],
       "source_count": 1,
@@ -115,31 +115,31 @@
       ],
       "items": [
         {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
+          "published_at": "2026-10-06T10:23:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8799,
+        "recency": 0.977,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,17 +148,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-05T22:42:14Z",
-      "latest_at": "2026-10-05T22:42:14Z",
+      "earliest_at": "2026-10-06T10:23:38Z",
+      "latest_at": "2026-10-06T10:23:38Z",
       "primary_item": {
-        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+        "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
+        "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
+        "title_en": "Code scanning AI Scan enablement status in security overview",
+        "title_original": "Code scanning AI Scan enablement status in security overview",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -166,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
-      }
-    },
-    {
-      "story_id": "story_b4c0a1b83afc",
-      "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
-          "title_en": "ReviewBench: An open benchmark for AI code review",
-          "title_original": "ReviewBench: An open benchmark for AI code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T15:59:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
-          "title_en": "ReviewBench: An open benchmark for AI code review",
-          "title_original": "ReviewBench: An open benchmark for AI code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T15:59:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.7986,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T15:59:40Z",
-      "latest_at": "2026-10-05T15:59:40Z",
-      "primary_item": {
-        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-        "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-        "title_zh": "ReviewBench：人工智能代码审查的开放基准",
-        "title_en": "ReviewBench: An open benchmark for AI code review",
-        "title_original": "ReviewBench: An open benchmark for AI code review",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
@@ -297,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7872,
+        "recency": 0.7383,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +249,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
+      }
+    },
+    {
+      "story_id": "story_b4c0a1b83afc",
+      "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+          "title_en": "ReviewBench: An open benchmark for AI code review",
+          "title_original": "ReviewBench: An open benchmark for AI code review",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+          "title_en": "ReviewBench: An open benchmark for AI code review",
+          "title_original": "ReviewBench: An open benchmark for AI code review",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.749,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:59:40Z",
+      "latest_at": "2026-10-05T15:59:40Z",
+      "primary_item": {
+        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+        "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+        "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+        "title_en": "ReviewBench: An open benchmark for AI code review",
+        "title_original": "ReviewBench: An open benchmark for AI code review",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8208,
+        "recency": 0.7698,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -473,7 +473,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
+      }
+    },
+    {
+      "story_id": "story_45464a737294",
+      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8252,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T22:42:14Z",
+      "latest_at": "2026-10-05T22:42:14Z",
+      "primary_item": {
+        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
@@ -521,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7776,
+      "importance": 0.7776,
+      "importance_score": 0.7776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9836,
+        "recency": 0.9225,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,7 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
@@ -603,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.914,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -637,90 +720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
-      }
-    },
-    {
-      "story_id": "story_aec85adef32a",
-      "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "primary_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-          "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-          "title_en": "Building advertising for the way people use AI",
-          "title_original": "Building advertising for the way people use AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-          "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-          "title_en": "Building advertising for the way people use AI",
-          "title_original": "Building advertising for the way people use AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7324,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T10:00:00Z",
-      "latest_at": "2026-10-05T10:00:00Z",
-      "primary_item": {
-        "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-        "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-        "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-        "title_en": "Building advertising for the way people use AI",
-        "title_original": "Building advertising for the way people use AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
@@ -797,15 +797,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8464,
+        "recency": 0.7938,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -832,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
@@ -880,21 +880,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9299,
+        "recency": 0.8721,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T02:31:56Z",
       "latest_at": "2026-10-06T02:31:56Z",
@@ -914,88 +913,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
-      }
-    },
-    {
-      "story_id": "story_6d96ce488e8a",
-      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
-      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "primary_url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "source": "Latent Space（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
-          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
-          "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
-          "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-          "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-          "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
-          "recommend_reason_zh": null,
-          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:28:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Latent Space（RSS）"
-      ],
-      "items": [
-        {
-          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
-          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
-          "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
-          "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-          "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-          "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
-          "recommend_reason_zh": null,
-          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-          "source": "Latent Space（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:28:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9844,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T06:28:43Z",
-      "latest_at": "2026-10-06T06:28:43Z",
-      "primary_item": {
-        "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
-        "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
-        "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
-        "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-        "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-        "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
-        "recommend_reason_zh": null,
-        "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-        "source": "Latent Space（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
@@ -1043,15 +961,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9004,
+        "recency": 0.8444,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1076,7 +994,197 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
+      }
+    },
+    {
+      "story_id": "story_6d96ce488e8a",
+      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "primary_url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "source": "Latent Space（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+          "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+          "recommend_reason_zh": null,
+          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:28:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Latent Space（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+          "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+          "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+          "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+          "recommend_reason_zh": null,
+          "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:28:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9232,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-06T06:28:43Z",
+      "latest_at": "2026-10-06T06:28:43Z",
+      "primary_item": {
+        "id": "3e5236252ad5fe9feb7411f79fb2ff4fe5fb1b64",
+        "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+        "title_zh": "Reflection 发布 501B-A23B 开源编码模型 Beam",
+        "title_en": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+        "title_original": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+        "summary": "Reflection 发布文本-only 的 501B 总参数 / 23B 激活 MoE 模型 Beam，面向编码、智能体和科学任务，从零训练，完整权重将在本月以 Apache 2.0 发布。",
+        "recommend_reason_zh": null,
+        "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+        "source": "Latent Space（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T12:02:07.991277Z"
+      }
+    },
+    {
+      "story_id": "story_b4298ff71a56",
+      "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
+      "source": "GNews: Anthropic Claude",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "8bb29acb4172ac766153568ed16ec64f510276b7",
+          "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters",
+          "title_en": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "title_original": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T02:42:51Z"
+        },
+        {
+          "id": "bc1e6c65edadbe628fac4f4b2936b314229ec8e4",
+          "title": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia / Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia",
+          "title_en": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "title_original": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXBPTXFwZXZPeEl5TlAwNWNRQWI5M3kydUZQOXV4a3lJOFY1ZkZja1Q4TWdad1FaaWJKWnZkYkRXNk5QMlV3TngzNWNWSWNVMlZ5NWRWeXFoSGlyNkNOamN5Y0pGa1BKTFR1MDZGYjlyd3BRVjdJZ0lIMWRoTmg3X0FpQ3dGMmd5R0NvZnpuVXRvRXJIbXc?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T00:31:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GNews: Anthropic Claude"
+      ],
+      "items": [
+        {
+          "id": "8bb29acb4172ac766153568ed16ec64f510276b7",
+          "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters",
+          "title_en": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "title_original": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T02:42:51Z"
+        },
+        {
+          "id": "bc1e6c65edadbe628fac4f4b2936b314229ec8e4",
+          "title": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia / Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia",
+          "title_en": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "title_original": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXBPTXFwZXZPeEl5TlAwNWNRQWI5M3kydUZQOXV4a3lJOFY1ZkZja1Q4TWdad1FaaWJKWnZkYkRXNk5QMlV3TngzNWNWSWNVMlZ5NWRWeXFoSGlyNkNOamN5Y0pGa1BKTFR1MDZGYjlyd3BRVjdJZ0lIMWRoTmg3X0FpQ3dGMmd5R0NvZnpuVXRvRXJIbXc?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T00:31:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6044,
+      "importance": 0.6044,
+      "importance_score": 0.6044,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.8744,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T00:31:39Z",
+      "latest_at": "2026-10-06T02:42:51Z",
+      "primary_item": {
+        "id": "8bb29acb4172ac766153568ed16ec64f510276b7",
+        "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+        "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters",
+        "title_en": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+        "title_original": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
+        "source": "GNews: Anthropic Claude",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
@@ -1182,15 +1290,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6139,
-      "importance": 0.6139,
-      "importance_score": 0.6139,
+      "score": 0.6041,
+      "importance": 0.6041,
+      "importance_score": 0.6041,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8808,
+        "recency": 0.8261,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1215,226 +1323,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
-      }
-    },
-    {
-      "story_id": "story_298805dceb2f",
-      "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-      "primary_url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "e90c6facaa12056e5a7805164db61157c4a303e7",
-          "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "title_zh": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？",
-          "title_en": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "title_original": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T12:00:00Z"
-        },
-        {
-          "id": "e5a9794ad1e9d588c4395cf1cc8ecf37de4a2043",
-          "title": "Safeworld 能否让人们相信新一代人工智能机器人不会伤害他们？ / Can Safeworld convince people that gen AI robots won’t hurt them?",
-          "title_zh": "Safeworld 能否让人们相信新一代人工智能机器人不会伤害他们？",
-          "title_en": "Can Safeworld convince people that gen AI robots won’t hurt them?",
-          "title_original": "Can Safeworld convince people that gen AI robots won’t hurt them?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T12:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "e90c6facaa12056e5a7805164db61157c4a303e7",
-          "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "title_zh": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？",
-          "title_en": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "title_original": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T12:00:00Z"
-        },
-        {
-          "id": "e5a9794ad1e9d588c4395cf1cc8ecf37de4a2043",
-          "title": "Safeworld 能否让人们相信新一代人工智能机器人不会伤害他们？ / Can Safeworld convince people that gen AI robots won’t hurt them?",
-          "title_zh": "Safeworld 能否让人们相信新一代人工智能机器人不会伤害他们？",
-          "title_en": "Can Safeworld convince people that gen AI robots won’t hurt them?",
-          "title_original": "Can Safeworld convince people that gen AI robots won’t hurt them?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T12:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6128,
-      "importance": 0.6128,
-      "importance_score": 0.6128,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.7539,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T12:00:00Z",
-      "latest_at": "2026-10-05T12:00:00Z",
-      "primary_item": {
-        "id": "e90c6facaa12056e5a7805164db61157c4a303e7",
-        "title": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?",
-        "title_zh": "Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？",
-        "title_en": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-        "title_original": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
-      }
-    },
-    {
-      "story_id": "story_572a06e96a4b",
-      "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-      "source": "GNews: Anthropic Claude",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "954686f265034381e0013ef05f6c33c197bda210",
-          "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
-          "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
-          "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
-          "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-06T01:07:09Z"
-        },
-        {
-          "id": "c1611c8a9cd2ba383f5a113f00dccd3033252415",
-          "title": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive / Anthropic, AWS step up FDE push - Channel Dive",
-          "title_zh": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive",
-          "title_en": "Anthropic, AWS step up FDE push - Channel Dive",
-          "title_original": "Anthropic, AWS step up FDE push - Channel Dive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-05T19:06:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GNews: Anthropic Claude"
-      ],
-      "items": [
-        {
-          "id": "954686f265034381e0013ef05f6c33c197bda210",
-          "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
-          "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
-          "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
-          "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-06T01:07:09Z"
-        },
-        {
-          "id": "c1611c8a9cd2ba383f5a113f00dccd3033252415",
-          "title": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive / Anthropic, AWS step up FDE push - Channel Dive",
-          "title_zh": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive",
-          "title_en": "Anthropic, AWS step up FDE push - Channel Dive",
-          "title_original": "Anthropic, AWS step up FDE push - Channel Dive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-05T19:06:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.611,
-      "importance": 0.611,
-      "importance_score": 0.611,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.9111,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T19:06:36Z",
-      "latest_at": "2026-10-06T01:07:09Z",
-      "primary_item": {
-        "id": "954686f265034381e0013ef05f6c33c197bda210",
-        "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
-        "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
-        "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
-        "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-        "source": "GNews: Anthropic Claude",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
@@ -1510,15 +1399,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6074,
-      "importance": 0.6074,
-      "importance_score": 0.6074,
+      "score": 0.5975,
+      "importance": 0.5975,
+      "importance_score": 0.5975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8858,
+        "recency": 0.8307,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1543,7 +1432,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
+      }
+    },
+    {
+      "story_id": "story_572a06e96a4b",
+      "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+      "source": "GNews: Anthropic Claude",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "954686f265034381e0013ef05f6c33c197bda210",
+          "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
+          "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
+          "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
+          "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T01:07:09Z"
+        },
+        {
+          "id": "c1611c8a9cd2ba383f5a113f00dccd3033252415",
+          "title": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive / Anthropic, AWS step up FDE push - Channel Dive",
+          "title_zh": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive",
+          "title_en": "Anthropic, AWS step up FDE push - Channel Dive",
+          "title_original": "Anthropic, AWS step up FDE push - Channel Dive",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-05T19:06:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GNews: Anthropic Claude"
+      ],
+      "items": [
+        {
+          "id": "954686f265034381e0013ef05f6c33c197bda210",
+          "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
+          "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
+          "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
+          "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T01:07:09Z"
+        },
+        {
+          "id": "c1611c8a9cd2ba383f5a113f00dccd3033252415",
+          "title": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive / Anthropic, AWS step up FDE push - Channel Dive",
+          "title_zh": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive",
+          "title_en": "Anthropic, AWS step up FDE push - Channel Dive",
+          "title_original": "Anthropic, AWS step up FDE push - Channel Dive",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-05T19:06:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6008,
+      "importance": 0.6008,
+      "importance_score": 0.6008,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.8545,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T19:06:36Z",
+      "latest_at": "2026-10-06T01:07:09Z",
+      "primary_item": {
+        "id": "954686f265034381e0013ef05f6c33c197bda210",
+        "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
+        "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
+        "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
+        "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+        "source": "GNews: Anthropic Claude",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
@@ -1649,15 +1647,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6105,
-      "importance": 0.6105,
-      "importance_score": 0.6105,
+      "score": 0.6008,
+      "importance": 0.6008,
+      "importance_score": 0.6008,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8616,
+        "recency": 0.8081,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1682,116 +1680,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
-      }
-    },
-    {
-      "story_id": "story_e4ad79bd85a6",
-      "title": "据报道，随着内部人工智能工具成为焦点，Meta 和微软正在削减人为依赖 - TradingView / Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZW5VMGdHeXdud2FrSEZGZVRoZ2o3dW9hQldhQWlDcEV1RDlnUHZsV0t0UVl1R0E5SmpaZThpNkFSSTB5VGhDVVU5b0ZyY19iZ21UYWMtWmZvb1hiSjFGSE1TTkRnZ0xRTGtsSVNTd0lKLUxoZGhmSC1oTkNzZGJqMExZY3V5X2RUV0RTZEhRc2dOMEhEaW1WYVZGaVNFakczSm5nQmtGSzFFVUF1dVAwRHdUZFRlT3lMLXY3YWtBNHJHVEFzREprRDhSdXRpTFBaZElmYkhVa3dQRGd2dURRUTF2TTNobm12?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZW5VMGdHeXdud2FrSEZGZVRoZ2o3dW9hQldhQWlDcEV1RDlnUHZsV0t0UVl1R0E5SmpaZThpNkFSSTB5VGhDVVU5b0ZyY19iZ21UYWMtWmZvb1hiSjFGSE1TTkRnZ0xRTGtsSVNTd0lKLUxoZGhmSC1oTkNzZGJqMExZY3V5X2RUV0RTZEhRc2dOMEhEaW1WYVZGaVNFakczSm5nQmtGSzFFVUF1dVAwRHdUZFRlT3lMLXY3YWtBNHJHVEFzREprRDhSdXRpTFBaZElmYkhVa3dQRGd2dURRUTF2TTNobm12?oc=5",
-      "source": "GNews: Anthropic Claude",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "b390e6460d6ad2345d430eed7172e4f8482b25d2",
-          "title": "据报道，随着内部人工智能工具成为焦点，Meta 和微软正在削减人为依赖 - TradingView / Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
-          "title_zh": "据报道，随着内部人工智能工具成为焦点，Meta 和微软正在削减人为依赖 - TradingView",
-          "title_en": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
-          "title_original": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZW5VMGdHeXdud2FrSEZGZVRoZ2o3dW9hQldhQWlDcEV1RDlnUHZsV0t0UVl1R0E5SmpaZThpNkFSSTB5VGhDVVU5b0ZyY19iZ21UYWMtWmZvb1hiSjFGSE1TTkRnZ0xRTGtsSVNTd0lKLUxoZGhmSC1oTkNzZGJqMExZY3V5X2RUV0RTZEhRc2dOMEhEaW1WYVZGaVNFakczSm5nQmtGSzFFVUF1dVAwRHdUZFRlT3lMLXY3YWtBNHJHVEFzREprRDhSdXRpTFBaZElmYkhVa3dQRGd2dURRUTF2TTNobm12?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-05T23:06:12Z"
-        },
-        {
-          "id": "825b38b246da8e0e81a48c496657152267d61aac",
-          "title": "据报道，随着内部人工智能工具成为焦点，Meta 和微软正在削减人为依赖 - Finance.yahoo.com / Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - finance.yahoo.com",
-          "title_zh": "据报道，随着内部人工智能工具成为焦点，Meta 和微软正在削减人为依赖 - Finance.yahoo.com",
-          "title_en": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - finance.yahoo.com",
-          "title_original": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - finance.yahoo.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGMxclpQYnBXYUtMZWNUSkEwa2tHcUkxVVVxeXp1bU1yazIxVlFZbEhFY2tPR1J2c0FnMTVLbEdYcllyb2UzOWZ6RkgwQnkwYURTYjBwN1JXZlExTW1tYTVBLWpKNEFnWVBJZDI1eXZKWnc5YWw3OWxkQVVZVHZXWHd1eFpOSFk3bGZyRnJkSVVZc3BfN2RGMnprYk5aZUs4aGROSmdHQQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-05T23:06:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GNews: Anthropic Claude"
-      ],
-      "items": [
-        {
-          "id": "b390e6460d6ad2345d430eed7172e4f8482b25d2",
-          "title": "据报道，随着内部人工智能工具成为焦点，Meta 和微软正在削减人为依赖 - TradingView / Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
-          "title_zh": "据报道，随着内部人工智能工具成为焦点，Meta 和微软正在削减人为依赖 - TradingView",
-          "title_en": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
-          "title_original": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZW5VMGdHeXdud2FrSEZGZVRoZ2o3dW9hQldhQWlDcEV1RDlnUHZsV0t0UVl1R0E5SmpaZThpNkFSSTB5VGhDVVU5b0ZyY19iZ21UYWMtWmZvb1hiSjFGSE1TTkRnZ0xRTGtsSVNTd0lKLUxoZGhmSC1oTkNzZGJqMExZY3V5X2RUV0RTZEhRc2dOMEhEaW1WYVZGaVNFakczSm5nQmtGSzFFVUF1dVAwRHdUZFRlT3lMLXY3YWtBNHJHVEFzREprRDhSdXRpTFBaZElmYkhVa3dQRGd2dURRUTF2TTNobm12?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-05T23:06:12Z"
-        },
-        {
-          "id": "825b38b246da8e0e81a48c496657152267d61aac",
-          "title": "据报道，随着内部人工智能工具成为焦点，Meta 和微软正在削减人为依赖 - Finance.yahoo.com / Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - finance.yahoo.com",
-          "title_zh": "据报道，随着内部人工智能工具成为焦点，Meta 和微软正在削减人为依赖 - Finance.yahoo.com",
-          "title_en": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - finance.yahoo.com",
-          "title_original": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - finance.yahoo.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVGMxclpQYnBXYUtMZWNUSkEwa2tHcUkxVVVxeXp1bU1yazIxVlFZbEhFY2tPR1J2c0FnMTVLbEdYcllyb2UzOWZ6RkgwQnkwYURTYjBwN1JXZlExTW1tYTVBLWpKNEFnWVBJZDI1eXZKWnc5YWw3OWxkQVVZVHZXWHd1eFpOSFk3bGZyRnJkSVVZc3BfN2RGMnprYk5aZUs4aGROSmdHQQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-05T23:06:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6063,
-      "importance": 0.6063,
-      "importance_score": 0.6063,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.885,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T23:06:12Z",
-      "latest_at": "2026-10-05T23:06:12Z",
-      "primary_item": {
-        "id": "b390e6460d6ad2345d430eed7172e4f8482b25d2",
-        "title": "据报道，随着内部人工智能工具成为焦点，Meta 和微软正在削减人为依赖 - TradingView / Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
-        "title_zh": "据报道，随着内部人工智能工具成为焦点，Meta 和微软正在削减人为依赖 - TradingView",
-        "title_en": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
-        "title_original": "Meta And Microsoft Reportedly Trim Anthropic Reliance as Internal AI Tools Take Center Stage - TradingView",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZW5VMGdHeXdud2FrSEZGZVRoZ2o3dW9hQldhQWlDcEV1RDlnUHZsV0t0UVl1R0E5SmpaZThpNkFSSTB5VGhDVVU5b0ZyY19iZ21UYWMtWmZvb1hiSjFGSE1TTkRnZ0xRTGtsSVNTd0lKLUxoZGhmSC1oTkNzZGJqMExZY3V5X2RUV0RTZEhRc2dOMEhEaW1WYVZGaVNFakczSm5nQmtGSzFFVUF1dVAwRHdUZFRlT3lMLXY3YWtBNHJHVEFzREprRDhSdXRpTFBaZElmYkhVa3dQRGd2dURRUTF2TTNobm12?oc=5",
-        "source": "GNews: Anthropic Claude",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
@@ -1868,15 +1757,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5984,
-      "importance": 0.5984,
-      "importance_score": 0.5984,
+      "score": 0.5899,
+      "importance": 0.5899,
+      "importance_score": 0.5899,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.7666,
+        "recency": 0.719,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1901,116 +1790,255 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     },
     {
-      "story_id": "story_953a658ded21",
-      "title": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - International Business Times UK",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BeTdPU3MwVEpqTzNhVU0tRURUOVdPZjVPLXJHeXlUV0JmXzhpcXY1NzVOZExkWlRDdWRXNjVxc00zb3FXNDlNTFhDOUwtTFlYZjM3YjItVFVWQmFVYThOQUg1cDdaZE4xWkdscmFhek81bVJKQjZYQWFvUQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BeTdPU3MwVEpqTzNhVU0tRURUOVdPZjVPLXJHeXlUV0JmXzhpcXY1NzVOZExkWlRDdWRXNjVxc00zb3FXNDlNTFhDOUwtTFlYZjM3YjItVFVWQmFVYThOQUg1cDdaZE4xWkdscmFhek81bVJKQjZYQWFvUQ?oc=5",
-      "source": "GNews: xAI Grok",
+      "story_id": "story_87f7fb7784d0",
+      "title": "报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - Investing.com / Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHRIVHloYVRjQkM4WlQ3eTV0VVRWeXo2MWFDR2dXZ2JGRDJhMDJKVHFqYkt2SkJ1alQyQ0tPckZGRHN6UTBHalpVX0dKVjNjTVd1WFluWk1iQ25abmQ5WWs1WjFRSldnRHNMTnRpU2cyaE9lVHFvZFVHemxMNzdkejhCdXpwajZGRXB1ZUUxU2ZkdDhhY0NFVEdEWkZtWXJCQ0FOdjlsX3I4ZFJLSmZDWEhhUUh3YlVBS0hGenJONTFtQnZPQUpvQ2FtRHE?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHRIVHloYVRjQkM4WlQ3eTV0VVRWeXo2MWFDR2dXZ2JGRDJhMDJKVHFqYkt2SkJ1alQyQ0tPckZGRHN6UTBHalpVX0dKVjNjTVd1WFluWk1iQ25abmQ5WWs1WjFRSldnRHNMTnRpU2cyaE9lVHFvZFVHemxMNzdkejhCdXpwajZGRXB1ZUUxU2ZkdDhhY0NFVEdEWkZtWXJCQ0FOdjlsX3I4ZFJLSmZDWEhhUUh3YlVBS0hGenJONTFtQnZPQUpvQ2FtRHE?oc=5",
+      "source": "GNews: Anthropic Claude",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "330f2162a4d48f2dae00f67c2a7688bb2501d3cb",
-          "title": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - International Business Times UK",
-          "title_zh": null,
-          "title_en": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - International Business Times UK",
-          "title_original": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - International Business Times UK",
+          "id": "29f7100a4d8e0cb10b2507aa409bb8fa7b3b2425",
+          "title": "报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - Investing.com / Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Investing.com",
+          "title_zh": "报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - Investing.com",
+          "title_en": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Investing.com",
+          "title_original": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Investing.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BeTdPU3MwVEpqTzNhVU0tRURUOVdPZjVPLXJHeXlUV0JmXzhpcXY1NzVOZExkWlRDdWRXNjVxc00zb3FXNDlNTFhDOUwtTFlYZjM3YjItVFVWQmFVYThOQUg1cDdaZE4xWkdscmFhek81bVJKQjZYQWFvUQ?oc=5",
-          "source": "GNews: xAI Grok",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHRIVHloYVRjQkM4WlQ3eTV0VVRWeXo2MWFDR2dXZ2JGRDJhMDJKVHFqYkt2SkJ1alQyQ0tPckZGRHN6UTBHalpVX0dKVjNjTVd1WFluWk1iQ25abmQ5WWs1WjFRSldnRHNMTnRpU2cyaE9lVHFvZFVHemxMNzdkejhCdXpwajZGRXB1ZUUxU2ZkdDhhY0NFVEdEWkZtWXJCQ0FOdjlsX3I4ZFJLSmZDWEhhUUh3YlVBS0hGenJONTFtQnZPQUpvQ2FtRHE?oc=5",
+          "source": "GNews: Anthropic Claude",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-10-05T10:59:02Z"
+          "published_at": "2026-10-05T23:57:53Z"
         },
         {
-          "id": "7c7f55c6e5d30ceed5124ed13c2d875bf0138fa1",
-          "title": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - ibtimes.co.uk",
-          "title_zh": null,
-          "title_en": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - ibtimes.co.uk",
-          "title_original": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - ibtimes.co.uk",
+          "id": "4f5984658afbc2d1098fd65714ca50b55d50e81e",
+          "title": "报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - 雅虎财经 / Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Yahoo Finance",
+          "title_zh": "报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - 雅虎财经",
+          "title_en": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Yahoo Finance",
+          "title_original": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Yahoo Finance",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BeTdPU3MwVEpqTzNhVU0tRURUOVdPZjVPLXJHeXlUV0JmXzhpcXY1NzVOZExkWlRDdWRXNjVxc00zb3FXNDlNTFhDOUwtTFlYZjM3YjItVFVWQmFVYThOQUg1cDdaZE4xWkdscmFhek81bVJKQjZYQWFvUQ?oc=5",
-          "source": "GNews: xAI Grok",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDd1S0xXV3o1YV9HTFVETHpnMHZad3lFSVktaXp3d25FMnU4emNBQlNvVTNaaFM5LUhETEp3VU51cER1SVRlUl93VU84eEdfeEk2SXlpUnBUeEpSbXdDeTRrNFNnYWpJbjFVa2dNemZTa1Fjb25qMEFVbEpZX1ZUR19zbkJGV25BWkpTbE9DQ0xCMHo5blR6bW9xemF3Vjg?oc=5",
+          "source": "GNews: Anthropic Claude",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-10-05T10:59:02Z"
+          "published_at": "2026-10-05T18:58:42Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GNews: xAI Grok"
+        "GNews: Anthropic Claude"
       ],
       "items": [
         {
-          "id": "330f2162a4d48f2dae00f67c2a7688bb2501d3cb",
-          "title": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - International Business Times UK",
-          "title_zh": null,
-          "title_en": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - International Business Times UK",
-          "title_original": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - International Business Times UK",
+          "id": "29f7100a4d8e0cb10b2507aa409bb8fa7b3b2425",
+          "title": "报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - Investing.com / Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Investing.com",
+          "title_zh": "报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - Investing.com",
+          "title_en": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Investing.com",
+          "title_original": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Investing.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BeTdPU3MwVEpqTzNhVU0tRURUOVdPZjVPLXJHeXlUV0JmXzhpcXY1NzVOZExkWlRDdWRXNjVxc00zb3FXNDlNTFhDOUwtTFlYZjM3YjItVFVWQmFVYThOQUg1cDdaZE4xWkdscmFhek81bVJKQjZYQWFvUQ?oc=5",
-          "source": "GNews: xAI Grok",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHRIVHloYVRjQkM4WlQ3eTV0VVRWeXo2MWFDR2dXZ2JGRDJhMDJKVHFqYkt2SkJ1alQyQ0tPckZGRHN6UTBHalpVX0dKVjNjTVd1WFluWk1iQ25abmQ5WWs1WjFRSldnRHNMTnRpU2cyaE9lVHFvZFVHemxMNzdkejhCdXpwajZGRXB1ZUUxU2ZkdDhhY0NFVEdEWkZtWXJCQ0FOdjlsX3I4ZFJLSmZDWEhhUUh3YlVBS0hGenJONTFtQnZPQUpvQ2FtRHE?oc=5",
+          "source": "GNews: Anthropic Claude",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-10-05T10:59:02Z"
+          "published_at": "2026-10-05T23:57:53Z"
         },
         {
-          "id": "7c7f55c6e5d30ceed5124ed13c2d875bf0138fa1",
-          "title": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - ibtimes.co.uk",
-          "title_zh": null,
-          "title_en": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - ibtimes.co.uk",
-          "title_original": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - ibtimes.co.uk",
+          "id": "4f5984658afbc2d1098fd65714ca50b55d50e81e",
+          "title": "报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - 雅虎财经 / Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Yahoo Finance",
+          "title_zh": "报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - 雅虎财经",
+          "title_en": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Yahoo Finance",
+          "title_original": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Yahoo Finance",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BeTdPU3MwVEpqTzNhVU0tRURUOVdPZjVPLXJHeXlUV0JmXzhpcXY1NzVOZExkWlRDdWRXNjVxc00zb3FXNDlNTFhDOUwtTFlYZjM3YjItVFVWQmFVYThOQUg1cDdaZE4xWkdscmFhek81bVJKQjZYQWFvUQ?oc=5",
-          "source": "GNews: xAI Grok",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDd1S0xXV3o1YV9HTFVETHpnMHZad3lFSVktaXp3d25FMnU4emNBQlNvVTNaaFM5LUhETEp3VU51cER1SVRlUl93VU84eEdfeEk2SXlpUnBUeEpSbXdDeTRrNFNnYWpJbjFVa2dNemZTa1Fjb25qMEFVbEpZX1ZUR19zbkJGV25BWkpTbE9DQ0xCMHo5blR6bW9xemF3Vjg?oc=5",
+          "source": "GNews: Anthropic Claude",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-10-05T10:59:02Z"
+          "published_at": "2026-10-05T18:58:42Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5641,
-      "importance": 0.5641,
-      "importance_score": 0.5641,
+      "score": 0.5983,
+      "importance": 0.5983,
+      "importance_score": 0.5983,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5112,
+        "editorial": 0.54,
         "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.7429,
+        "ai_relevance": 0.75,
+        "recency": 0.8404,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T10:59:02Z",
-      "latest_at": "2026-10-05T10:59:02Z",
+      "earliest_at": "2026-10-05T18:58:42Z",
+      "latest_at": "2026-10-05T23:57:53Z",
       "primary_item": {
-        "id": "330f2162a4d48f2dae00f67c2a7688bb2501d3cb",
-        "title": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - International Business Times UK",
-        "title_zh": null,
-        "title_en": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - International Business Times UK",
-        "title_original": "Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - International Business Times UK",
+        "id": "29f7100a4d8e0cb10b2507aa409bb8fa7b3b2425",
+        "title": "报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - Investing.com / Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Investing.com",
+        "title_zh": "报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - Investing.com",
+        "title_en": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Investing.com",
+        "title_original": "Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Investing.com",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BeTdPU3MwVEpqTzNhVU0tRURUOVdPZjVPLXJHeXlUV0JmXzhpcXY1NzVOZExkWlRDdWRXNjVxc00zb3FXNDlNTFhDOUwtTFlYZjM3YjItVFVWQmFVYThOQUg1cDdaZE4xWkdscmFhek81bVJKQjZYQWFvUQ?oc=5",
-        "source": "GNews: xAI Grok",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHRIVHloYVRjQkM4WlQ3eTV0VVRWeXo2MWFDR2dXZ2JGRDJhMDJKVHFqYkt2SkJ1alQyQ0tPckZGRHN6UTBHalpVX0dKVjNjTVd1WFluWk1iQ25abmQ5WWs1WjFRSldnRHNMTnRpU2cyaE9lVHFvZFVHemxMNzdkejhCdXpwajZGRXB1ZUUxU2ZkdDhhY0NFVEdEWkZtWXJCQ0FOdjlsX3I4ZFJLSmZDWEhhUUh3YlVBS0hGenJONTFtQnZPQUpvQ2FtRHE?oc=5",
+        "source": "GNews: Anthropic Claude",
         "source_name": "OPML RSS"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T07:35:01.585569Z"
+        "scored_at": "2026-10-06T12:02:07.991277Z"
+      }
+    },
+    {
+      "story_id": "story_47d885071ad3",
+      "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "source": "Hacker News Front Page",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "1d6065d8294cc492846e20be4e51cebc287ea519",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News Front Page",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": null,
+          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T22:12:05.081000Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News Front Page",
+        "hackernews",
+        "www.vals.ai"
+      ],
+      "items": [
+        {
+          "id": "1d6065d8294cc492846e20be4e51cebc287ea519",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News Front Page",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": null,
+          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T22:12:05.081000Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5961,
+      "importance": 0.5961,
+      "importance_score": 0.5961,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.5,
+        "ai_relevance": 0.7,
+        "recency": 0.8052,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T21:00:21Z",
+      "latest_at": "2026-10-05T22:12:05.081000Z",
+      "primary_item": {
+        "id": "1d6065d8294cc492846e20be4e51cebc287ea519",
+        "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+        "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "source": "Hacker News Front Page",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T12:02:07.991277Z"
       }
     }
   ]
