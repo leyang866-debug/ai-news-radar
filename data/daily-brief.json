@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:00:31.484339Z",
+  "generated_at": "2026-10-06T15:11:29.497249Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8548,
-      "importance": 0.8548,
-      "importance_score": 0.8548,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9268,
+        "recency": 0.8852,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8399,
-      "importance": 0.8399,
-      "importance_score": 0.8399,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.977,
+        "recency": 0.9331,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,90 +166,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
-      "story_id": "story_6f6f6c4ad8fb",
-      "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "primary_url": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_19005dd16bea",
+      "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+      "url": "https://mistral.ai/news/mistral-large-4",
+      "primary_url": "https://mistral.ai/news/mistral-large-4",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "41383479c4a10511f043979bc4fd02e409189d41",
-          "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
-          "title_zh": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
-          "title_en": "Our approach to EU text provenance rules",
-          "title_original": "Our approach to EU text provenance rules",
+          "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+          "title_en": "Mistral Large 4: \"Le Chonk\"",
+          "title_original": "Mistral Large 4: \"Le Chonk\"",
+          "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T13:25:50Z"
+        },
+        {
+          "id": "ba946f5e6f5310fd7ec7e7cc0db1471f401f243f",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4：“Le Chonk”",
+          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+          "title_en": "Mistral Large 4：“Le Chonk”",
+          "title_original": "Mistral Large 4：“Le Chonk”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/eu-text-provenance",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T15:00:00Z"
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T14:19:10.507000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "Hacker News：AI 热帖",
+        "mistral.ai"
       ],
       "items": [
         {
-          "id": "41383479c4a10511f043979bc4fd02e409189d41",
-          "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
-          "title_zh": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
-          "title_en": "Our approach to EU text provenance rules",
-          "title_original": "Our approach to EU text provenance rules",
+          "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+          "title_en": "Mistral Large 4: \"Le Chonk\"",
+          "title_original": "Mistral Large 4: \"Le Chonk\"",
+          "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T13:25:50Z"
+        },
+        {
+          "id": "ba946f5e6f5310fd7ec7e7cc0db1471f401f243f",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4：“Le Chonk”",
+          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+          "title_en": "Mistral Large 4：“Le Chonk”",
+          "title_original": "Mistral Large 4：“Le Chonk”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/eu-text-provenance",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T15:00:00Z"
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T14:19:10.507000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7383,
-        "story_heat": 0.0
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9749,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-05T15:00:00Z",
-      "latest_at": "2026-10-05T15:00:00Z",
+      "earliest_at": "2026-10-06T13:25:50Z",
+      "latest_at": "2026-10-06T14:19:10.507000Z",
       "primary_item": {
-        "id": "41383479c4a10511f043979bc4fd02e409189d41",
-        "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
-        "title_zh": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
-        "title_en": "Our approach to EU text provenance rules",
-        "title_original": "Our approach to EU text provenance rules",
-        "summary": null,
+        "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
+        "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+        "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+        "title_en": "Mistral Large 4: \"Le Chonk\"",
+        "title_original": "Mistral Large 4: \"Le Chonk\"",
+        "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/eu-text-provenance",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://mistral.ai/news/mistral-large-4",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
@@ -297,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.749,
+        "recency": 0.7154,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +361,336 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
+      }
+    },
+    {
+      "story_id": "story_45464a737294",
+      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7881,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T22:42:14Z",
+      "latest_at": "2026-10-05T22:42:14Z",
+      "primary_item": {
+        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T15:12:33.774117Z"
+      }
+    },
+    {
+      "story_id": "story_ddb0edeec9f2",
+      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+      "url": "https://www.ithome.com/1/009/990.htm",
+      "primary_url": "https://www.ithome.com/1/009/990.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_en": null,
+          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_en": null,
+          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.881,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T06:25:15Z",
+      "latest_at": "2026-10-06T06:25:15Z",
+      "primary_item": {
+        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "title_en": null,
+        "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/009/990.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T15:12:33.774117Z"
+      }
+    },
+    {
+      "story_id": "story_34879e2db3e2",
+      "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+      "url": "https://x.com/OpenRouter/status/2107471559040635360",
+      "primary_url": "https://x.com/OpenRouter/status/2107471559040635360",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
+          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+          "title_en": "Le Chonk has arrived 🐈",
+          "title_original": "Le Chonk has arrived 🐈",
+          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2107471559040635360",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T14:02:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
+          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+          "title_en": "Le Chonk has arrived 🐈",
+          "title_original": "Le Chonk has arrived 🐈",
+          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2107471559040635360",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T14:02:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9835,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T14:02:29Z",
+      "latest_at": "2026-10-06T14:02:29Z",
+      "primary_item": {
+        "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
+        "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+        "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+        "title_en": "Le Chonk has arrived 🐈",
+        "title_original": "Le Chonk has arrived 🐈",
+        "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2107471559040635360",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T15:12:33.774117Z"
+      }
+    },
+    {
+      "story_id": "story_e50a0152bcff",
+      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T05:47:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T05:47:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.873,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T05:47:05Z",
+      "latest_at": "2026-10-06T05:47:05Z",
+      "primary_item": {
+        "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+        "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+        "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+        "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+        "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+        "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
@@ -438,15 +796,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7698,
+        "recency": 0.7352,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -473,146 +831,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
-      "story_id": "story_45464a737294",
-      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8252,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T22:42:14Z",
-      "latest_at": "2026-10-05T22:42:14Z",
-      "primary_item": {
-        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
-      }
-    },
-    {
-      "story_id": "story_ddb0edeec9f2",
-      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-      "url": "https://www.ithome.com/1/009/990.htm",
-      "primary_url": "https://www.ithome.com/1/009/990.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_9019cb276f9d",
+      "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
+      "url": "https://x.com/arena/status/2107476436223504484",
+      "primary_url": "https://x.com/arena/status/2107476436223504484",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+          "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
+          "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
+          "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+          "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
+          "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
+          "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://x.com/arena/status/2107476436223504484",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
+          "published_at": "2026-10-06T14:21:52Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+          "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
+          "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
+          "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+          "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
+          "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
+          "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
           "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
+          "url": "https://x.com/arena/status/2107476436223504484",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
+          "published_at": "2026-10-06T14:21:52Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.9881,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -620,107 +895,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-06T06:25:15Z",
-      "latest_at": "2026-10-06T06:25:15Z",
+      "earliest_at": "2026-10-06T14:21:52Z",
+      "latest_at": "2026-10-06T14:21:52Z",
       "primary_item": {
-        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_en": null,
-        "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+        "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
+        "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
+        "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+        "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
+        "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
+        "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
         "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/009/990.htm",
-        "source": "IT之家（RSS）",
+        "url": "https://x.com/arena/status/2107476436223504484",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
-      }
-    },
-    {
-      "story_id": "story_e50a0152bcff",
-      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T05:47:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T05:47:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.914,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T05:47:05Z",
-      "latest_at": "2026-10-06T05:47:05Z",
-      "primary_item": {
-        "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-        "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-        "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-        "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-        "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-        "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
@@ -797,22 +990,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7938,
+        "recency": 0.7582,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-05T20:01:09Z",
       "latest_at": "2026-10-05T20:01:09Z",
@@ -832,7 +1024,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
@@ -880,15 +1072,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8721,
+        "recency": 0.8329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -913,7 +1105,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
@@ -961,15 +1153,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7298,
+      "importance": 0.7298,
+      "importance_score": 0.7298,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8444,
+        "recency": 0.8065,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -994,7 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
@@ -1042,15 +1234,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9232,
+        "recency": 0.8818,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,116 +1267,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
-      }
-    },
-    {
-      "story_id": "story_b4298ff71a56",
-      "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
-      "source": "GNews: Anthropic Claude",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "8bb29acb4172ac766153568ed16ec64f510276b7",
-          "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
-          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters",
-          "title_en": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
-          "title_original": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-06T02:42:51Z"
-        },
-        {
-          "id": "bc1e6c65edadbe628fac4f4b2936b314229ec8e4",
-          "title": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia / Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
-          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia",
-          "title_en": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
-          "title_original": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXBPTXFwZXZPeEl5TlAwNWNRQWI5M3kydUZQOXV4a3lJOFY1ZkZja1Q4TWdad1FaaWJKWnZkYkRXNk5QMlV3TngzNWNWSWNVMlZ5NWRWeXFoSGlyNkNOamN5Y0pGa1BKTFR1MDZGYjlyd3BRVjdJZ0lIMWRoTmg3X0FpQ3dGMmd5R0NvZnpuVXRvRXJIbXc?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-06T00:31:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GNews: Anthropic Claude"
-      ],
-      "items": [
-        {
-          "id": "8bb29acb4172ac766153568ed16ec64f510276b7",
-          "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
-          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters",
-          "title_en": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
-          "title_original": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-06T02:42:51Z"
-        },
-        {
-          "id": "bc1e6c65edadbe628fac4f4b2936b314229ec8e4",
-          "title": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia / Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
-          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia",
-          "title_en": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
-          "title_original": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXBPTXFwZXZPeEl5TlAwNWNRQWI5M3kydUZQOXV4a3lJOFY1ZkZja1Q4TWdad1FaaWJKWnZkYkRXNk5QMlV3TngzNWNWSWNVMlZ5NWRWeXFoSGlyNkNOamN5Y0pGa1BKTFR1MDZGYjlyd3BRVjdJZ0lIMWRoTmg3X0FpQ3dGMmd5R0NvZnpuVXRvRXJIbXc?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-06T00:31:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6044,
-      "importance": 0.6044,
-      "importance_score": 0.6044,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.8744,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T00:31:39Z",
-      "latest_at": "2026-10-06T02:42:51Z",
-      "primary_item": {
-        "id": "8bb29acb4172ac766153568ed16ec64f510276b7",
-        "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
-        "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters",
-        "title_en": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
-        "title_original": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
-        "source": "GNews: Anthropic Claude",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
@@ -1290,15 +1373,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6041,
-      "importance": 0.6041,
-      "importance_score": 0.6041,
+      "score": 0.5974,
+      "importance": 0.5974,
+      "importance_score": 0.5974,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8261,
+        "recency": 0.789,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1323,7 +1406,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
+      }
+    },
+    {
+      "story_id": "story_b4298ff71a56",
+      "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
+      "source": "GNews: Anthropic Claude",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "8bb29acb4172ac766153568ed16ec64f510276b7",
+          "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters",
+          "title_en": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "title_original": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T02:42:51Z"
+        },
+        {
+          "id": "bc1e6c65edadbe628fac4f4b2936b314229ec8e4",
+          "title": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia / Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia",
+          "title_en": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "title_original": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXBPTXFwZXZPeEl5TlAwNWNRQWI5M3kydUZQOXV4a3lJOFY1ZkZja1Q4TWdad1FaaWJKWnZkYkRXNk5QMlV3TngzNWNWSWNVMlZ5NWRWeXFoSGlyNkNOamN5Y0pGa1BKTFR1MDZGYjlyd3BRVjdJZ0lIMWRoTmg3X0FpQ3dGMmd5R0NvZnpuVXRvRXJIbXc?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T00:31:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GNews: Anthropic Claude"
+      ],
+      "items": [
+        {
+          "id": "8bb29acb4172ac766153568ed16ec64f510276b7",
+          "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters",
+          "title_en": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "title_original": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T02:42:51Z"
+        },
+        {
+          "id": "bc1e6c65edadbe628fac4f4b2936b314229ec8e4",
+          "title": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia / Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia",
+          "title_en": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "title_original": "Anthropic brings Claude inference to India via Amazon Bedrock - varindia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXBPTXFwZXZPeEl5TlAwNWNRQWI5M3kydUZQOXV4a3lJOFY1ZkZja1Q4TWdad1FaaWJKWnZkYkRXNk5QMlV3TngzNWNWSWNVMlZ5NWRWeXFoSGlyNkNOamN5Y0pGa1BKTFR1MDZGYjlyd3BRVjdJZ0lIMWRoTmg3X0FpQ3dGMmd5R0NvZnpuVXRvRXJIbXc?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T00:31:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5973,
+      "importance": 0.5973,
+      "importance_score": 0.5973,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.8351,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T00:31:39Z",
+      "latest_at": "2026-10-06T02:42:51Z",
+      "primary_item": {
+        "id": "8bb29acb4172ac766153568ed16ec64f510276b7",
+        "title": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters / Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+        "title_zh": "Anthropic 通过 Amazon Bedrock 将 Claude AI 推理引入印度 - ET Datacenters",
+        "title_en": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+        "title_original": "Anthropic brings Claude AI inference to India via Amazon Bedrock - ET Datacenters",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNY045ZWpXQUZvRnF2WG45ZDhzWWUzOVlWeFFKM2ZuYWRkMjRZZXdCcFJXT2hKRUJUa1Bla25udDJzSGdmSHhGaTlSRW4xOU0zTnhtM2FQaUdSbFpmcXVTZEs1WFdSY29tTzNOZ1BLM1JWSDg4el9DZDhtdzhaQ0lFa2tIZGlld0lYY19vdHdpZ09vejlSdEZxdWI5Z2VvTnpzeEJhYzdiNWV1SkEzMEdvdnFJWXNyM0dpN0VBaDhXMGwwZjBSRUhqWThSZnR1UmVDeDh3YTMwV1hFbXJwb1lObUJ0ZlFQV3YxelBzaWZNcXhMc1dTQV9fX2tKN09RVnpyUkFtXzFjWHUzQmZkZDVDcXV3dlIxclAxWXNsWkU3MNIB7gFBVV95cUxPWHdPSXpRQ1JOZFJiWmRsb2pISDBUREZoNHozc3I0bkVub2J5djNPSGhCdVBNTkRLRDFzcm1yUGRpM3hKbHFjaHFldXcwUG13SXFDanhpZ2l6Z2l4NEFsU09DWVdYOTQ1YUllRW5nTy1WTklON0dKUnZKY0JnUHFQTzYxZ3plNGEySFZVckQ2ZUh0aFFXWE5QMV9faUx6UmZzS2huNHBVUEt3WWdsTWlxRWh0RVplUTNjdHcxWFBUOFVpbWgydHk0SnA0QXdETTFidGE1N1YyeXc4MDN0b0hRdmc4aHRVR1NTelhaRDlR?oc=5",
+        "source": "GNews: Anthropic Claude",
+        "source_name": "OPML RSS"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
@@ -1399,15 +1591,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5975,
-      "importance": 0.5975,
-      "importance_score": 0.5975,
+      "score": 0.5908,
+      "importance": 0.5908,
+      "importance_score": 0.5908,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8307,
+        "recency": 0.7934,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1432,116 +1624,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
-      }
-    },
-    {
-      "story_id": "story_572a06e96a4b",
-      "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-      "primary_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-      "source": "GNews: Anthropic Claude",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "954686f265034381e0013ef05f6c33c197bda210",
-          "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
-          "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
-          "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
-          "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-06T01:07:09Z"
-        },
-        {
-          "id": "c1611c8a9cd2ba383f5a113f00dccd3033252415",
-          "title": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive / Anthropic, AWS step up FDE push - Channel Dive",
-          "title_zh": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive",
-          "title_en": "Anthropic, AWS step up FDE push - Channel Dive",
-          "title_original": "Anthropic, AWS step up FDE push - Channel Dive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-05T19:06:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GNews: Anthropic Claude"
-      ],
-      "items": [
-        {
-          "id": "954686f265034381e0013ef05f6c33c197bda210",
-          "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
-          "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
-          "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
-          "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-06T01:07:09Z"
-        },
-        {
-          "id": "c1611c8a9cd2ba383f5a113f00dccd3033252415",
-          "title": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive / Anthropic, AWS step up FDE push - Channel Dive",
-          "title_zh": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive",
-          "title_en": "Anthropic, AWS step up FDE push - Channel Dive",
-          "title_original": "Anthropic, AWS step up FDE push - Channel Dive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-          "source": "GNews: Anthropic Claude",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-05T19:06:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6008,
-      "importance": 0.6008,
-      "importance_score": 0.6008,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.54,
-        "source_tier": 0.5,
-        "ai_relevance": 0.75,
-        "recency": 0.8545,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T19:06:36Z",
-      "latest_at": "2026-10-06T01:07:09Z",
-      "primary_item": {
-        "id": "954686f265034381e0013ef05f6c33c197bda210",
-        "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
-        "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
-        "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
-        "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
-        "source": "GNews: Anthropic Claude",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
@@ -1647,15 +1730,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6008,
-      "importance": 0.6008,
-      "importance_score": 0.6008,
+      "score": 0.5943,
+      "importance": 0.5943,
+      "importance_score": 0.5943,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8081,
+        "recency": 0.7718,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1680,117 +1763,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
-      "story_id": "story_f4763bfb35df",
-      "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_572a06e96a4b",
+      "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+      "primary_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+      "source": "GNews: Anthropic Claude",
+      "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
-          "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
-          "title_en": "OpenAI is sticking more ads in ChatGPT",
-          "title_original": "OpenAI is sticking more ads in ChatGPT",
+          "id": "954686f265034381e0013ef05f6c33c197bda210",
+          "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
+          "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
+          "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
+          "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T13:09:48Z"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T01:07:09Z"
         },
         {
-          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
-          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
-          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
-          "title_en": "OpenAI is testing more ads in ChatGPT",
-          "title_original": "OpenAI is testing more ads in ChatGPT",
+          "id": "c1611c8a9cd2ba383f5a113f00dccd3033252415",
+          "title": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive / Anthropic, AWS step up FDE push - Channel Dive",
+          "title_zh": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive",
+          "title_en": "Anthropic, AWS step up FDE push - Channel Dive",
+          "title_original": "Anthropic, AWS step up FDE push - Channel Dive",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T14:38:31Z"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-05T19:06:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Engadget",
-        "The Verge"
+        "GNews: Anthropic Claude"
       ],
       "items": [
         {
-          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
-          "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
-          "title_en": "OpenAI is sticking more ads in ChatGPT",
-          "title_original": "OpenAI is sticking more ads in ChatGPT",
+          "id": "954686f265034381e0013ef05f6c33c197bda210",
+          "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
+          "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
+          "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
+          "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T13:09:48Z"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-06T01:07:09Z"
         },
         {
-          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
-          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
-          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
-          "title_en": "OpenAI is testing more ads in ChatGPT",
-          "title_original": "OpenAI is testing more ads in ChatGPT",
+          "id": "c1611c8a9cd2ba383f5a113f00dccd3033252415",
+          "title": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive / Anthropic, AWS step up FDE push - Channel Dive",
+          "title_zh": "Anthropic、AWS 加大 FDE 推动力度 - Channel Dive",
+          "title_en": "Anthropic, AWS step up FDE push - Channel Dive",
+          "title_original": "Anthropic, AWS step up FDE push - Channel Dive",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T14:38:31Z"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+          "source": "GNews: Anthropic Claude",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-10-05T19:06:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5899,
-      "importance": 0.5899,
-      "importance_score": 0.5899,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5328,
-        "source_tier": 0.58,
-        "ai_relevance": 0.74,
-        "recency": 0.719,
+        "editorial": 0.54,
+        "source_tier": 0.5,
+        "ai_relevance": 0.75,
+        "recency": 0.8161,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T13:09:48Z",
-      "latest_at": "2026-10-05T14:38:31Z",
+      "earliest_at": "2026-10-05T19:06:36Z",
+      "latest_at": "2026-10-06T01:07:09Z",
       "primary_item": {
-        "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-        "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
-        "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
-        "title_en": "OpenAI is sticking more ads in ChatGPT",
-        "title_original": "OpenAI is sticking more ads in ChatGPT",
+        "id": "954686f265034381e0013ef05f6c33c197bda210",
+        "title": "Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com",
+        "title_zh": "Anthropic、AWS 加大 FDE 力度 -channeldive.com",
+        "title_en": "Anthropic, AWS step up FDE push - channeldive.com",
+        "title_original": "Anthropic, AWS step up FDE push - channeldive.com",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5",
+        "source": "GNews: Anthropic Claude",
+        "source_name": "OPML RSS"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     },
     {
@@ -1866,15 +1948,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5983,
-      "importance": 0.5983,
-      "importance_score": 0.5983,
+      "score": 0.5915,
+      "importance": 0.5915,
+      "importance_score": 0.5915,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8404,
+        "recency": 0.8026,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1899,146 +1981,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
-      }
-    },
-    {
-      "story_id": "story_47d885071ad3",
-      "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "source": "Hacker News Front Page",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "1d6065d8294cc492846e20be4e51cebc287ea519",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "Hacker News Front Page",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-05T21:00:21Z"
-        },
-        {
-          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": null,
-          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T22:12:05.081000Z"
-        },
-        {
-          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970667",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:00:21Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News Front Page",
-        "hackernews",
-        "www.vals.ai"
-      ],
-      "items": [
-        {
-          "id": "1d6065d8294cc492846e20be4e51cebc287ea519",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "Hacker News Front Page",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-10-05T21:00:21Z"
-        },
-        {
-          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": null,
-          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T22:12:05.081000Z"
-        },
-        {
-          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970667",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:00:21Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5961,
-      "importance": 0.5961,
-      "importance_score": 0.5961,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.504,
-        "source_tier": 0.5,
-        "ai_relevance": 0.7,
-        "recency": 0.8052,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T21:00:21Z",
-      "latest_at": "2026-10-05T22:12:05.081000Z",
-      "primary_item": {
-        "id": "1d6065d8294cc492846e20be4e51cebc287ea519",
-        "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-        "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-        "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-        "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-        "source": "Hacker News Front Page",
-        "source_name": "OPML RSS"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T12:02:07.991277Z"
+        "scored_at": "2026-10-06T15:12:33.774117Z"
       }
     }
   ]
