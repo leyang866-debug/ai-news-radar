@@ -5,10 +5,10 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 05 Oct 2026 23:10:33 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 02:56:47 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
 <item>
-<title>Secret scanning adds detectors for Lovable, Supabase, and more</title>
+<title>秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more</title>
 <link>https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more</guid>
 <description>GitHub Changelog</description>
@@ -40,14 +40,6 @@
 <pubDate>Mon, 05 Oct 2026 19:20:27 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.160.1</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI</title>
 <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
 <guid isPermaLink="true">https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
@@ -64,6 +56,46 @@
 <pubDate>Mon, 05 Oct 2026 20:01:09 +0000</pubDate>
 </item>
 <item>
+<title>卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元</title>
+<link>https://x.com/Khazix0918/status/2107297777583825359</link>
+<guid isPermaLink="true">https://x.com/Khazix0918/status/2107297777583825359</guid>
+<description>作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。（X：卡兹克 (@Khazix0918)）</description>
+<category>行业动态</category>
+<pubDate>Tue, 06 Oct 2026 02:31:56 +0000</pubDate>
+</item>
+<item>
+<title>卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686876&amp;idx=1&amp;sn=55c719c9dded44507dbd2a000a2ec5a7</guid>
+<description>作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。（公众号：数字生命卡兹克）</description>
+<category>行业动态</category>
+<pubDate>Tue, 06 Oct 2026 00:18:00 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg</title>
+<link>https://simonwillison.net/2026/Oct/5/felix-rieseberg</link>
+<guid isPermaLink="true">https://simonwillison.net/2026/Oct/5/felix-rieseberg</guid>
+<description>Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。（Simon Willison 博客）</description>
+<category>行业动态</category>
+<pubDate>Mon, 05 Oct 2026 23:56:47 +0000</pubDate>
+</item>
+<item>
+<title>ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons</title>
+<link>https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons</link>
+<guid isPermaLink="true">https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons</guid>
+<description>Hacker News Front Page</description>
+<category>多源热议</category>
+<pubDate>Tue, 06 Oct 2026 00:19:39 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic、AWS 加大 FDE 力度 -channeldive.com / Anthropic, AWS step up FDE push - channeldive.com</title>
+<link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMimwFBVV95cUxNN010d19ybmZfQS1PcUZEZ3UxTzlCYjJSdERfZXphTU9GUmVSVXpMMFh6aXJ2Nm5jX0dORHNMYWdkS0x2SUhYN2Q0eDJaR0N5cnJNNGF5OHZfZUVRYmxDRlZtYzlxLXpwMUYxckt0WnV0TFljRUU3bVp5Zi12ZTNpMmxPS3RaYUpPbW1EWjJILVFWQ3gzMFlTQUJTSQ?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Tue, 06 Oct 2026 01:07:09 +0000</pubDate>
+</item>
+<item>
 <title>Safeworld 能否让人们相信 GenAI 机器人不会伤害他们？ / Can Safeworld convince people that GenAI robots won’t hurt them?</title>
 <link>https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them</guid>
@@ -72,12 +104,28 @@
 <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates</title>
-<link>https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</link>
-<guid isPermaLink="true">https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</guid>
+<title>Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&amp;#8217;re running late</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors</guid>
+<description>The Verge</description>
+<category>值得关注</category>
+<pubDate>Mon, 05 Oct 2026 23:09:55 +0000</pubDate>
+</item>
+<item>
+<title>Dust：无需反向传播的Transformer预训练 / Dust: Pretraining Transformers Without Backpropagation</title>
+<link>https://qlabs.sh/research/dust</link>
+<guid isPermaLink="true">https://qlabs.sh/research/dust</guid>
 <description>Hacker News Front Page</description>
 <category>多源热议</category>
-<pubDate>Mon, 05 Oct 2026 22:12:05 +0000</pubDate>
+<pubDate>Tue, 06 Oct 2026 02:07:52 +0000</pubDate>
+</item>
+<item>
+<title>报告称 Meta 和微软缩减了 Anthropic Claude的内部使用 - Investing.com / Meta and Microsoft scale back internal use of Anthropic’s Claude, report says - Investing.com</title>
+<link>https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHRIVHloYVRjQkM4WlQ3eTV0VVRWeXo2MWFDR2dXZ2JGRDJhMDJKVHFqYkt2SkJ1alQyQ0tPckZGRHN6UTBHalpVX0dKVjNjTVd1WFluWk1iQ25abmQ5WWs1WjFRSldnRHNMTnRpU2cyaE9lVHFvZFVHemxMNzdkejhCdXpwajZGRXB1ZUUxU2ZkdDhhY0NFVEdEWkZtWXJCQ0FOdjlsX3I4ZFJLSmZDWEhhUUh3YlVBS0hGenJONTFtQnZPQUpvQ2FtRHE?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMizAFBVV95cUxPMHRIVHloYVRjQkM4WlQ3eTV0VVRWeXo2MWFDR2dXZ2JGRDJhMDJKVHFqYkt2SkJ1alQyQ0tPckZGRHN6UTBHalpVX0dKVjNjTVd1WFluWk1iQ25abmQ5WWs1WjFRSldnRHNMTnRpU2cyaE9lVHFvZFVHemxMNzdkejhCdXpwajZGRXB1ZUUxU2ZkdDhhY0NFVEdEWkZtWXJCQ0FOdjlsX3I4ZFJLSmZDWEhhUUh3YlVBS0hGenJONTFtQnZPQUpvQ2FtRHE?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Mon, 05 Oct 2026 23:57:53 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT</title>
@@ -88,14 +136,6 @@
 <pubDate>Mon, 05 Oct 2026 14:38:31 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 通过 Amazon Bedrock 将 Claude 推理引入印度 - varindia / Anthropic brings Claude inference to India via Amazon Bedrock - varindia</title>
-<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXBPTXFwZXZPeEl5TlAwNWNRQWI5M3kydUZQOXV4a3lJOFY1ZkZja1Q4TWdad1FaaWJKWnZkYkRXNk5QMlV3TngzNWNWSWNVMlZ5NWRWeXFoSGlyNkNOamN5Y0pGa1BKTFR1MDZGYjlyd3BRVjdJZ0lIMWRoTmg3X0FpQ3dGMmd5R0NvZnpuVXRvRXJIbXc?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXBPTXFwZXZPeEl5TlAwNWNRQWI5M3kydUZQOXV4a3lJOFY1ZkZja1Q4TWdad1FaaWJKWnZkYkRXNk5QMlV3TngzNWNWSWNVMlZ5NWRWeXFoSGlyNkNOamN5Y0pGa1BKTFR1MDZGYjlyd3BRVjdJZ0lIMWRoTmg3X0FpQ3dGMmd5R0NvZnpuVXRvRXJIbXc?oc=5</guid>
-<description>GNews: Anthropic Claude</description>
-<category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 18:19:35 +0000</pubDate>
-</item>
-<item>
 <title>Minnesota's Ban on AI-Generated Fake Nudes Put on Hold After Elon Musk's xAI Appeal - International Business Times UK</title>
 <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5BeTdPU3MwVEpqTzNhVU0tRURUOVdPZjVPLXJHeXlUV0JmXzhpcXY1NzVOZExkWlRDdWRXNjVxc00zb3FXNDlNTFhDOUwtTFlYZjM3YjItVFVWQmFVYThOQUg1cDdaZE4xWkdscmFhek81bVJKQjZYQWFvUQ?oc=5</link>
 <guid isPermaLink="true">https://news.google.com/rss/articles/CBMie0FVX3lxTE5BeTdPU3MwVEpqTzNhVU0tRURUOVdPZjVPLXJHeXlUV0JmXzhpcXY1NzVOZExkWlRDdWRXNjVxc00zb3FXNDlNTFhDOUwtTFlYZjM3YjItVFVWQmFVYThOQUg1cDdaZE4xWkdscmFhek81bVJKQjZYQWFvUQ?oc=5</guid>
@@ -104,36 +144,20 @@
 <pubDate>Mon, 05 Oct 2026 10:59:02 +0000</pubDate>
 </item>
 <item>
-<title>Pentagon stops using Anthropic AI tools after blacklisting company, BBC told - BBC</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ILU5UbWc0NDdJSEowdm9PaE14Nkl1MjlpSEJ4djdRQUlhVWNocFAyMXpxN0pXOUZNQk1YQ3JiZnd5MVpGckNkLU5NU1FXTjZzS2EyWDU0RnB3N1U?oc=5</guid>
-<description>GNews: Anthropic Claude</description>
-<category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 16:13:21 +0000</pubDate>
-</item>
-<item>
-<title>Dust: Pretraining Transformers Without Backpropagation</title>
-<link>https://qlabs.sh/research/dust</link>
-<guid isPermaLink="true">https://qlabs.sh/research/dust</guid>
-<description>Hacker News Front Page</description>
-<category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 21:15:07 +0000</pubDate>
-</item>
-<item>
-<title>Barclays expands Anthropic's Claude across bank operations - CFOtech Asia</title>
-<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWJhT2tZMGk3YzhVdUNuaGIzRWxBWGZkLXo3OXYtdFdvQ2l4UFVUUUl0TkVVdzFuYUVKMlhBYlAwQ0ZUdE1DbkVveERaWVRBZGtyMnM3OXdzbjR0VjEwdWljcWtJcGJ0ZGtmQnpyMjdIVTZ0ODdHM2RURDNVX1dEY1p6ekZTYlYwdGRRdjln?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWJhT2tZMGk3YzhVdUNuaGIzRWxBWGZkLXo3OXYtdFdvQ2l4UFVUUUl0TkVVdzFuYUVKMlhBYlAwQ0ZUdE1DbkVveERaWVRBZGtyMnM3OXdzbjR0VjEwdWljcWtJcGJ0ZGtmQnpyMjdIVTZ0ODdHM2RURDNVX1dEY1p6ekZTYlYwdGRRdjln?oc=5</guid>
-<description>GNews: Anthropic Claude</description>
-<category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 15:45:00 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge</title>
-<link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
-<guid isPermaLink="true">https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</guid>
+<title>Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates</title>
+<link>https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</link>
+<guid isPermaLink="true">https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors</guid>
 <description>Hacker News Front Page</description>
 <category>多源热议</category>
-<pubDate>Mon, 05 Oct 2026 17:00:08 +0000</pubDate>
+<pubDate>Mon, 05 Oct 2026 22:12:05 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic 现在要求 Claude 用户共享语音数据以进行 AI 训练 - Mac 观察者网 / Anthropic Now Asks Claude Users to Share Voice Data for AI Training - The Mac Observer</title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3VzWC1KVGZBOEFEVFNFcjdHM2VOdndLYVN6VXF3LUtzOVMzT3J2MXJ2OXoxck9nRWlyVklwYmdUU0gwZ250SDBrVWlfeGpnVGdxOXBGQk1DWDZSejVLQkZva1NOZF9jd1oybVNwWWl2VmVZU0Y4UGVOdTRNNXpGeG1tN3l0QlVMZ3o4M1M2cWUwY1BxOTBkbHJKVlgtdGlRVWE4?oc=5</link>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3VzWC1KVGZBOEFEVFNFcjdHM2VOdndLYVN6VXF3LUtzOVMzT3J2MXJ2OXoxck9nRWlyVklwYmdUU0gwZ250SDBrVWlfeGpnVGdxOXBGQk1DWDZSejVLQkZva1NOZF9jd1oybVNwWWl2VmVZU0Y4UGVOdTRNNXpGeG1tN3l0QlVMZ3o4M1M2cWUwY1BxOTBkbHJKVlgtdGlRVWE4?oc=5</guid>
+<description>GNews: Anthropic Claude</description>
+<category>值得关注</category>
+<pubDate>Mon, 05 Oct 2026 20:00:57 +0000</pubDate>
 </item>
 <item>
 <title>Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI</title>
@@ -142,30 +166,6 @@
 <description>Slashdot</description>
 <category>值得关注</category>
 <pubDate>Mon, 05 Oct 2026 16:00:00 +0000</pubDate>
-</item>
-<item>
-<title>人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms</title>
-<link>https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election</link>
-<guid isPermaLink="true">https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election</guid>
-<description>Hacker News · 24h最热</description>
-<category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 15:06:27 +0000</pubDate>
-</item>
-<item>
-<title>欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation</title>
-<link>https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation</link>
-<guid isPermaLink="true">https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation</guid>
-<description>Hacker News Front Page</description>
-<category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 11:13:51 +0000</pubDate>
-</item>
-<item>
-<title>Anthropic 将国内Claude推论带到印度 - 印度时报 / Anthropic brings in-country Claude inference to India - The Times of India</title>
-<link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVk1bWVjVGVlU2RIZE5DOWRaTktPNkZnWkZ3ZWd4dU5rNXdMaVc4X3pWWml1MG5iZGdLUV9aMEpXY2ZFWXF4SldEODJXa1FmOFc0NlhmMFFLRWxoMDZkX21FdUJ1a0VTRUduM19aUUFEamhhRnM2SFN0ZmcxNkxfczNIaXN6d3JtcGdjM3JxS2FSZkthZGp2dU1KMjktNnpzVTlPcHZkZVZaNUN5c2Y3dHVEeWJ0eGVoY3RGTFI1X2lhNWtobzFHWjlOWndnbDhUd2FEenl30gHbAUFVX3lxTFB0eU1UZGNRREQxb1drN2lUQVlXSzBzLUwzSFFnRU9GSThMNEdsWVg5MzgtblJnajh1dFpPUHZQZnU4U0xNU3RodTJLXzFXM1pCSk1qS2tkVjhjZW5KVE5Ld0MzX3lTY01uOGNkNFNqS2V5QkhmcGRqckVDeFFwck5pU1FlTGF0Tnl4TFdhNUhaaDMtblJveVVHLUI0UjNSSjFlRjEtZjNVZ0N6MXhnWUJWXzdieW04RUFVNWhEZ1NSVGxuMFBwdS1hNUhMYTg5NktHNVAtOVlacXZOMA?oc=5</link>
-<guid isPermaLink="true">https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVVk1bWVjVGVlU2RIZE5DOWRaTktPNkZnWkZ3ZWd4dU5rNXdMaVc4X3pWWml1MG5iZGdLUV9aMEpXY2ZFWXF4SldEODJXa1FmOFc0NlhmMFFLRWxoMDZkX21FdUJ1a0VTRUduM19aUUFEamhhRnM2SFN0ZmcxNkxfczNIaXN6d3JtcGdjM3JxS2FSZkthZGp2dU1KMjktNnpzVTlPcHZkZVZaNUN5c2Y3dHVEeWJ0eGVoY3RGTFI1X2lhNWtobzFHWjlOWndnbDhUd2FEenl30gHbAUFVX3lxTFB0eU1UZGNRREQxb1drN2lUQVlXSzBzLUwzSFFnRU9GSThMNEdsWVg5MzgtblJnajh1dFpPUHZQZnU4U0xNU3RodTJLXzFXM1pCSk1qS2tkVjhjZW5KVE5Ld0MzX3lTY01uOGNkNFNqS2V5QkhmcGRqckVDeFFwck5pU1FlTGF0Tnl4TFdhNUhaaDMtblJveVVHLUI0UjNSSjFlRjEtZjNVZ0N6MXhnWUJWXzdieW04RUFVNWhEZ1NSVGxuMFBwdS1hNUhMYTg5NktHNVAtOVlacXZOMA?oc=5</guid>
-<description>GNews: Anthropic Claude</description>
-<category>值得关注</category>
-<pubDate>Mon, 05 Oct 2026 01:30:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
